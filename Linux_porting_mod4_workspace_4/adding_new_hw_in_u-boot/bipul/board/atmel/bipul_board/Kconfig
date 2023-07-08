@@ -1,0 +1,15 @@
+if TARGET_BIPUL_BOARD
+
+config SYS_BOARD
+	default "bipul_board"
+
+config SYS_VENDOR
+	default "atmel"
+
+config SYS_SOC
+	default "at91"
+
+config SYS_CONFIG_NAME
+	default "bipul_board"
+
+endif

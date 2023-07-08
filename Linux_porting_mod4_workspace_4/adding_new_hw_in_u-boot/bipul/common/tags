@@ -1,0 +1,1750 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACK	xyzModem.c	35;"	d	file:
+ANDROID_IMAGE_DEFAULT_KERNEL_ADDR	image-android.c	12;"	d	file:
+AlignPage	dlmalloc.c	32;"	d	file:
+AlignPage64K	dlmalloc.c	34;"	d	file:
+BBB_COMDAT_TRACE	usb_storage.c	50;"	d	file:
+BBB_XPORT_TRACE	usb_storage.c	51;"	d	file:
+BB_BANNER	cli_hush.c	117;"	d	file:
+BEGINNING_OF_LINE	cli_readline.c	177;"	d	file:
+BINBLOCKWIDTH	dlmalloc.c	661;"	d	file:
+BMP_ALIGN_CENTER	lcd.c	392;"	d	file:
+BMP_RLE8_DELTA	lcd.c	415;"	d	file:
+BMP_RLE8_EOBMP	lcd.c	414;"	d	file:
+BMP_RLE8_EOL	lcd.c	413;"	d	file:
+BMP_RLE8_ESCAPE	lcd.c	412;"	d	file:
+BOOTSTAGE_DIGITS	bootstage.c	/^	BOOTSTAGE_DIGITS	= 9,$/;"	e	enum:__anon2	file:
+BOOTSTAGE_MAGIC	bootstage.c	/^	BOOTSTAGE_MAGIC		= 0xb00757a3,$/;"	e	enum:__anon2	file:
+BOOTSTAGE_VERSION	bootstage.c	/^	BOOTSTAGE_VERSION	= 0,$/;"	e	enum:__anon2	file:
+BOOT_DEVICE_NONE	spl/spl.c	389;"	d	file:
+BSP	xyzModem.c	36;"	d	file:
+BUFMAX	kgdb.c	100;"	d	file:
+BUF_SIZE	spl/spl_ymodem.c	18;"	d	file:
+B_CHUNK	cli_hush.c	312;"	d	file:
+B_NOSPAC	cli_hush.c	313;"	d	file:
+CAN	xyzModem.c	38;"	d	file:
+CAPITAL_MASK	usb_kbd.c	164;"	d	file:
+CAPS_LOCK	usb_kbd.c	39;"	d	file:
+CBWTag	usb_storage.c	/^static __u32 CBWTag;$/;"	v	file:
+CIRC_BUF_IDX	console.c	439;"	d	file:
+CONFIG_BOOT_RETRY_MIN	bootretry.c	14;"	d	file:
+CONFIG_FEATURE_SH_FANCY_PROMPT	cli_hush.c	116;"	d	file:
+CONFIG_LCD_ALIGNMENT	lcd.c	34;"	d	file:
+CONFIG_SPL_LOAD_FIT_ADDRESS	spl/spl_ram.c	19;"	d	file:
+CONFIG_SYS_BARGSIZE	image.c	59;"	d	file:
+CONFIG_SYS_BOOTM_LEN	bootm.c	34;"	d	file:
+CONFIG_SYS_BOOTM_LEN	spl/spl_fit.c	14;"	d	file:
+CONFIG_SYS_DEVICE_NULLDEV	stdio.c	33;"	d	file:
+CONFIG_SYS_DEVICE_NULLDEV	stdio.c	37;"	d	file:
+CONFIG_SYS_FDT_PAD	image-fdt.c	20;"	d	file:
+CONFIG_SYS_MONITOR_LEN	spl/spl.c	31;"	d	file:
+CONFIG_SYS_PCI_NR_INBOUND_WIN	fdt_support.c	645;"	d	file:
+CONFIG_SYS_PROMPT_HUSH_PS2	cli_hush.c	87;"	d	file:
+CONFIG_SYS_UBOOT_START	spl/spl.c	27;"	d	file:
+CONFIG_UPDATE_LOAD_ADDR	update.c	33;"	d	file:
+CONFIG_UPDATE_TFTP_CNT_MAX	update.c	41;"	d	file:
+CONFIG_UPDATE_TFTP_MSEC_MAX	update.c	37;"	d	file:
+CONFIG_USB_MAX_CONTROLLER_COUNT	usb.c	50;"	d	file:
+CONSOLE_ARG	bootm.c	547;"	d	file:
+CONSOLE_ARG_LEN	bootm.c	548;"	d	file:
+CREAD_HIST_CHAR	cli_readline.c	66;"	d	file:
+CTL_BACKSPACE	cli_readline.c	63;"	d	file:
+CTL_CH	cli_readline.c	62;"	d	file:
+CYGACC_COMM_IF_GETC_TIMEOUT	xyzModem.c	/^CYGACC_COMM_IF_GETC_TIMEOUT (char chan, char *c)$/;"	f	file:
+CYGACC_COMM_IF_PUTC	xyzModem.c	/^CYGACC_COMM_IF_PUTC (char x, char y)$/;"	f	file:
+DEBUG	dlmalloc.c	4;"	d	file:
+DEBUG_BOOTKEYS	autoboot.c	23;"	d	file:
+DEBUG_PARSER	cli_simple.c	17;"	d	file:
+DEL	cli_readline.c	64;"	d	file:
+DEL7	cli_readline.c	65;"	d	file:
+DEVNAME	usb_kbd.c	56;"	d	file:
+EOF	cli_hush.c	133;"	d	file:
+EOF	xyzModem.c	39;"	d	file:
+EOT	xyzModem.c	34;"	d	file:
+ERASE_TO_EOL	cli_readline.c	184;"	d	file:
+EXIT_SUCCESS	cli_hush.c	132;"	d	file:
+EXPORT_FUNC	exports.c	17;"	d	file:
+Elf32_Word	bedbug.c	11;"	d	file:
+FDT_PCI_IO	fdt_support.c	649;"	d	file:
+FDT_PCI_MEM32	fdt_support.c	648;"	d	file:
+FDT_PCI_MEM64	fdt_support.c	650;"	d	file:
+FDT_PCI_PREFETCH	fdt_support.c	647;"	d	file:
+FDT_RAMDISK_OVERHEAD	image-fdt.c	24;"	d	file:
+FLAG_DO	cli_hush.c	191;"	d	file:
+FLAG_DONE	cli_hush.c	192;"	d	file:
+FLAG_ELIF	cli_hush.c	185;"	d	file:
+FLAG_ELSE	cli_hush.c	186;"	d	file:
+FLAG_END	cli_hush.c	182;"	d	file:
+FLAG_EXIT_FROM_LOOP	cli_hush.c	123;"	d	file:
+FLAG_FI	cli_hush.c	187;"	d	file:
+FLAG_FOR	cli_hush.c	188;"	d	file:
+FLAG_IF	cli_hush.c	183;"	d	file:
+FLAG_IN	cli_hush.c	193;"	d	file:
+FLAG_PARSE_SEMICOLON	cli_hush.c	124;"	d	file:
+FLAG_REPARSING	cli_hush.c	125;"	d	file:
+FLAG_START	cli_hush.c	194;"	d	file:
+FLAG_THEN	cli_hush.c	184;"	d	file:
+FLAG_UNTIL	cli_hush.c	190;"	d	file:
+FLAG_WHILE	cli_hush.c	189;"	d	file:
+GmListElement	dlmalloc.c	/^struct GmListElement$/;"	s	file:
+GmListElement	dlmalloc.c	/^typedef struct GmListElement GmListElement;$/;"	t	typeref:struct:GmListElement	file:
+HIST_MAX	cli_readline.c	72;"	d	file:
+HIST_SIZE	cli_readline.c	73;"	d	file:
+HUB_LONG_RESET_TIME	usb_hub.c	44;"	d	file:
+HUB_SHORT_RESET_TIME	usb_hub.c	43;"	d	file:
+IAV	dlmalloc.c	542;"	d	file:
+IH_INITRD_ARCH	bootm.c	37;"	d	file:
+IMAGE_MAX_HASHED_NODES	image-sig.c	18;"	d	file:
+IOTRACE_IMPL	iotrace.c	6;"	d	file:
+IS_MMAPPED	dlmalloc.c	390;"	d	file:
+JOB_STATUS_FORMAT	cli_hush.c	345;"	d	file:
+KGDB_DEBUG	kgdb.c	95;"	d	file:
+LEFT_ALT	usb_kbd.c	45;"	d	file:
+LEFT_CNTR	usb_kbd.c	43;"	d	file:
+LEFT_GUI	usb_kbd.c	46;"	d	file:
+LEFT_SHIFT	usb_kbd.c	44;"	d	file:
+MALLOC_ALIGNMENT	dlmalloc.c	356;"	d	file:
+MALLOC_ALIGN_MASK	dlmalloc.c	357;"	d	file:
+MAX_DELAY_STOP_STR	autoboot.c	20;"	d	file:
+MAX_SMALLBIN	dlmalloc.c	637;"	d	file:
+MAX_SMALLBIN_SIZE	dlmalloc.c	638;"	d	file:
+MAX_TRIES	usb_hub.c	234;"	d	file:
+MEMORY_BANKS_MAX	fdt_support.c	413;"	d	file:
+MEMORY_BANKS_MAX	fdt_support.c	415;"	d	file:
+MII_DEBUG	miiphyutil.c	23;"	d	file:
+MINSIZE	dlmalloc.c	358;"	d	file:
+NAK	xyzModem.c	37;"	d	file:
+NAV	dlmalloc.c	511;"	d	file:
+NEXT_SIZE	dlmalloc.c	38;"	d	file:
+NO_LAYOUT_FIELDS	eeprom/eeprom_layout.c	14;"	d	file:
+NRES	cli_hush.c	2399;"	d	file:
+NULL_O_STRING	cli_hush.c	322;"	d	file:
+NUM_LOCK	usb_kbd.c	38;"	d	file:
+N_BLK_HOR	lcd.c	102;"	d	file:
+N_BLK_HOR	lcd.c	93;"	d	file:
+N_BLK_VERT	lcd.c	101;"	d	file:
+N_BLK_VERT	lcd.c	92;"	d	file:
+OF_BAD_ADDR	fdt_support.c	942;"	d	file:
+OF_CHECK_COUNTS	fdt_support.c	943;"	d	file:
+OF_MAX_ADDR_CELLS	fdt_support.c	941;"	d	file:
+OVERWRITE_CONSOLE	console.c	97;"	d	file:
+OVERWRITE_CONSOLE	console.c	99;"	d	file:
+PIPE_AND	cli_hush.c	/^	PIPE_AND = 2,$/;"	e	enum:__anon5	file:
+PIPE_BG	cli_hush.c	/^	PIPE_BG  = 4,$/;"	e	enum:__anon5	file:
+PIPE_OR	cli_hush.c	/^	PIPE_OR  = 3,$/;"	e	enum:__anon5	file:
+PIPE_SEQ	cli_hush.c	/^	PIPE_SEQ = 1,$/;"	e	enum:__anon5	file:
+PORT_OVERCURRENT_MAX_SCAN_COUNT	usb_hub.c	46;"	d	file:
+PREV_INUSE	dlmalloc.c	386;"	d	file:
+PRE_CONSOLE_FLUSHPOINT1_SERIAL	console.c	435;"	d	file:
+PRE_CONSOLE_FLUSHPOINT2_EVERYTHING_BUT_SERIAL	console.c	436;"	d	file:
+PS1	cli_hush.c	/^static char *PS1;$/;"	v	file:
+PS2	cli_hush.c	/^static char *PS2;$/;"	v	file:
+RECORD_COUNT	bootstage.c	/^	RECORD_COUNT = CONFIG_VAL(BOOTSTAGE_RECORD_COUNT),$/;"	e	enum:__anon1	file:
+REDIRECT_APPEND	cli_hush.c	/^	REDIRECT_APPEND    = 3,$/;"	e	enum:__anon3	file:
+REDIRECT_HEREIS	cli_hush.c	/^	REDIRECT_HEREIS    = 4,$/;"	e	enum:__anon3	file:
+REDIRECT_INPUT	cli_hush.c	/^	REDIRECT_INPUT     = 1,$/;"	e	enum:__anon3	file:
+REDIRECT_IO	cli_hush.c	/^	REDIRECT_IO        = 5$/;"	e	enum:__anon3	file:
+REDIRECT_OVERWRITE	cli_hush.c	/^	REDIRECT_OVERWRITE = 2,$/;"	e	enum:__anon3	file:
+REFRESH_TO_EOL	cli_readline.c	193;"	d	file:
+REPEAT_DELAY	usb_kbd.c	36;"	d	file:
+REPEAT_RATE	usb_kbd.c	35;"	d	file:
+RESERVED_SIZE	dlmalloc.c	37;"	d	file:
+RES_DO	cli_hush.c	/^	RES_DO    = 9,$/;"	e	enum:__anon6	file:
+RES_DONE	cli_hush.c	/^	RES_DONE  = 10,$/;"	e	enum:__anon6	file:
+RES_ELIF	cli_hush.c	/^	RES_ELIF  = 3,$/;"	e	enum:__anon6	file:
+RES_ELSE	cli_hush.c	/^	RES_ELSE  = 4,$/;"	e	enum:__anon6	file:
+RES_FI	cli_hush.c	/^	RES_FI    = 5,$/;"	e	enum:__anon6	file:
+RES_FOR	cli_hush.c	/^	RES_FOR   = 6,$/;"	e	enum:__anon6	file:
+RES_IF	cli_hush.c	/^	RES_IF    = 1,$/;"	e	enum:__anon6	file:
+RES_IN	cli_hush.c	/^	RES_IN    = 12,$/;"	e	enum:__anon6	file:
+RES_NONE	cli_hush.c	/^	RES_NONE  = 0,$/;"	e	enum:__anon6	file:
+RES_SNTX	cli_hush.c	/^	RES_SNTX  = 13$/;"	e	enum:__anon6	file:
+RES_THEN	cli_hush.c	/^	RES_THEN  = 2,$/;"	e	enum:__anon6	file:
+RES_UNTIL	cli_hush.c	/^	RES_UNTIL = 8,$/;"	e	enum:__anon6	file:
+RES_WHILE	cli_hush.c	/^	RES_WHILE = 7,$/;"	e	enum:__anon6	file:
+RES_XXXX	cli_hush.c	/^	RES_XXXX  = 11,$/;"	e	enum:__anon6	file:
+RIGHT_ALT	usb_kbd.c	49;"	d	file:
+RIGHT_CNTR	usb_kbd.c	47;"	d	file:
+RIGHT_GUI	usb_kbd.c	50;"	d	file:
+RIGHT_SHIFT	usb_kbd.c	48;"	d	file:
+SCROLL_LOCK	usb_kbd.c	40;"	d	file:
+SIZE_BITS	dlmalloc.c	394;"	d	file:
+SIZE_SZ	dlmalloc.c	355;"	d	file:
+SMALLBIN_WIDTH	dlmalloc.c	639;"	d	file:
+SOH	xyzModem.c	32;"	d	file:
+SPECIAL_VAR_SYMBOL	cli_hush.c	120;"	d	file:
+SPLASH_SOURCE_DEFAULT_FILE_NAME	splash_source.c	213;"	d	file:
+STX	xyzModem.c	33;"	d	file:
+SUBSTED_VAR_SYMBOL	cli_hush.c	121;"	d	file:
+TOP_MEMORY	dlmalloc.c	39;"	d	file:
+UPDATE_FILE_ENV	update.c	29;"	d	file:
+USB_BUFSIZ	usb.c	40;"	d	file:
+USB_BUFSIZ	usb_hub.c	41;"	d	file:
+USB_KBD_BOOT_REPORT_SIZE	usb_kbd.c	101;"	d	file:
+USB_KBD_BUFFER_LEN	usb_kbd.c	53;"	d	file:
+USB_KBD_CAPSLOCK	usb_kbd.c	90;"	d	file:
+USB_KBD_CTRL	usb_kbd.c	92;"	d	file:
+USB_KBD_LEDMASK	usb_kbd.c	94;"	d	file:
+USB_KBD_NUMLOCK	usb_kbd.c	89;"	d	file:
+USB_KBD_SCROLLLOCK	usb_kbd.c	91;"	d	file:
+USB_READY	usb_storage.c	82;"	d	file:
+USB_STOR_TRANSPORT_ERROR	usb_storage.c	109;"	d	file:
+USB_STOR_TRANSPORT_FAILED	usb_storage.c	108;"	d	file:
+USB_STOR_TRANSPORT_GOOD	usb_storage.c	107;"	d	file:
+USB_TRANSPORT_NOT_READY_RETRY	usb_storage.c	695;"	d	file:
+USB_TRANSPORT_UNKNOWN_RETRY	usb_storage.c	694;"	d	file:
+US_DIRECTION	usb_storage.c	63;"	d	file:
+XTRN_DECLARE_GLOBAL_DATA_PTR	board_f.c	48;"	d	file:
+XTRN_DECLARE_GLOBAL_DATA_PTR	board_f.c	49;"	d	file:
+ZM_DEBUG	xyzModem.c	229;"	d	file:
+ZM_DEBUG	xyzModem.c	231;"	d	file:
+__U_BOOT__	cli_hush.c	76;"	d	file:
+__abortboot	autoboot.c	/^static int __abortboot(int bootdelay)$/;"	f	file:
+__chan	xyzModem.c	/^  int *__chan;$/;"	m	struct:__anon8	file:
+__eeprom_field_print_bin	eeprom/eeprom_field.c	/^static void __eeprom_field_print_bin(const struct eeprom_field *field,$/;"	f	file:
+__eeprom_field_update_bin	eeprom/eeprom_field.c	/^static int __eeprom_field_update_bin(struct eeprom_field *field,$/;"	f	file:
+__eeprom_field_update_bin_delim	eeprom/eeprom_field.c	/^static int __eeprom_field_update_bin_delim(struct eeprom_field *field,$/;"	f	file:
+__eeprom_layout_assign	eeprom/eeprom_layout.c	/^__weak void __eeprom_layout_assign(struct eeprom_layout *layout,$/;"	f
+__hwconfig	hwconfig.c	/^static const char *__hwconfig(const char *opt, size_t *arglen,$/;"	f	file:
+__maybe_unused	image.c	52;"	d	file:
+__of_translate_address	fdt_support.c	/^static u64 __of_translate_address(const void *blob, int node_offset,$/;"	f	file:
+__promptme	cli_hush.c	/^	int __promptme;$/;"	m	struct:in_str	file:
+__syntax	cli_hush.c	/^static void __syntax(char *file, int line) {$/;"	f	file:
+_do_help	command.c	/^int _do_help(cmd_tbl_t *cmd_start, int cmd_items, cmd_tbl_t *cmdtp, int flag,$/;"	f
+_from_hex	xyzModem.c	/^_from_hex (char c)$/;"	f	file:
+_is_hex	xyzModem.c	/^_is_hex (char c)$/;"	f	file:
+_log	log.c	/^int _log(enum log_category_t cat, enum log_level_t level, const char *file,$/;"	f
+_tolower	xyzModem.c	/^_tolower (char c)$/;"	f	file:
+abortboot	autoboot.c	/^static int abortboot(int bootdelay)$/;"	f	file:
+action	usb_storage.c	/^	int		action;			\/* what to do *\/$/;"	m	struct:us_data	file:
+add_bootstages_devicetree	bootstage.c	/^static int add_bootstages_devicetree(struct fdt_header *blob)$/;"	f	file:
+add_idx_minus_one	cli_readline.c	83;"	d	file:
+add_record	iotrace.c	/^static void add_record(int flags, const void *ptr, ulong value)$/;"	f	file:
+addr2info	flash.c	/^addr2info (ulong addr)$/;"	f
+addr_aligned	bouncebuf.c	/^static int addr_aligned(struct bounce_buffer *state)$/;"	f	file:
+addresses	fdt_support.c	/^	const char	*addresses;$/;"	m	struct:of_bus	file:
+aligned_OK	dlmalloc.c	374;"	d	file:
+andr_tmp_str	image-android.c	/^static char andr_tmp_str[ANDR_BOOT_ARGS_SIZE + 1];$/;"	v	file:
+android_image_check_header	image-android.c	/^int android_image_check_header(const struct andr_img_hdr *hdr)$/;"	f
+android_image_get_end	image-android.c	/^ulong android_image_get_end(const struct andr_img_hdr *hdr)$/;"	f
+android_image_get_kernel	image-android.c	/^int android_image_get_kernel(const struct andr_img_hdr *hdr, int verify,$/;"	f
+android_image_get_kernel_addr	image-android.c	/^static ulong android_image_get_kernel_addr(const struct andr_img_hdr *hdr)$/;"	f	file:
+android_image_get_kload	image-android.c	/^ulong android_image_get_kload(const struct andr_img_hdr *hdr)$/;"	f
+android_image_get_ramdisk	image-android.c	/^int android_image_get_ramdisk(const struct andr_img_hdr *hdr,$/;"	f
+android_image_get_second	image-android.c	/^int android_image_get_second(const struct andr_img_hdr *hdr,$/;"	f
+android_print_contents	image-android.c	/^void android_print_contents(const struct andr_img_hdr *hdr)$/;"	f
+announce_dram_init	board_f.c	/^static int announce_dram_init(void)$/;"	f	file:
+append_cmd_line	avb_verify.c	/^char *append_cmd_line(char *cmdline_orig, char *cmdline_new)$/;"	f
+append_data	bootstage.c	/^static void append_data(char **ptrp, char *end, const void *data, int size)$/;"	f	file:
+applet_name	cli_hush.c	113;"	d	file:
+arch_cpu_init	board_f.c	/^__weak int arch_cpu_init(void)$/;"	f
+arch_cpu_init_dm	board_f.c	/^__weak int arch_cpu_init_dm(void)$/;"	f
+arch_fixup_fdt	image-fdt.c	/^__weak int arch_fixup_fdt(void *blob)$/;"	f
+arch_preboot_os	bootm_os.c	/^__weak void arch_preboot_os(void)$/;"	f
+arch_reserve_stacks	board_f.c	/^__weak int arch_reserve_stacks(void)$/;"	f
+arch_setup_gd	init/board_init.c	/^__weak void arch_setup_gd(struct global_data *gd_ptr)$/;"	f
+argc	cli_hush.c	/^	int    argc;                            \/* number of program arguments *\/$/;"	m	struct:child_prog	file:
+argv	cli_hush.c	/^	char **argv;				\/* program name and arguments *\/$/;"	m	struct:child_prog	file:
+argv_nonnull	cli_hush.c	/^	int *argv_nonnull;$/;"	m	struct:child_prog	file:
+asm_error_str	bedbug.c	/^char *asm_error_str (int err)$/;"	f
+asmppc	bedbug.c	/^unsigned long asmppc (unsigned long memaddr, char *asm_buf, int *err)$/;"	f
+asynch_allowed	usb.c	/^static int asynch_allowed;$/;"	v	file:
+at_eof	xyzModem.c	/^  bool crc_mode, at_eof, tx_ack;$/;"	m	struct:__anon8	file:
+atf_entry_t	spl/spl_atf.c	/^typedef void (*atf_entry_t)(struct bl31_params *params, void *plat_params);$/;"	t	file:
+attention_done	usb_storage.c	/^	unsigned char	attention_done;		\/* force attn on first cmd *\/$/;"	m	struct:us_data	file:
+autoboot_command	autoboot.c	/^void autoboot_command(const char *s)$/;"	f
+av_	dlmalloc.c	/^static mbinptr av_[NAV * 2 + 2] = {$/;"	v	file:
+avb_find_dm_args	avb_verify.c	/^static int avb_find_dm_args(char **args, char *str)$/;"	f	file:
+avb_ops_alloc	avb_verify.c	/^AvbOps *avb_ops_alloc(int boot_device)$/;"	f
+avb_ops_free	avb_verify.c	/^void avb_ops_free(AvbOps *ops)$/;"	f
+avb_root_pub	avb_verify.c	/^const unsigned char avb_root_pub[1032] = {$/;"	v
+avb_set_enforce_option	avb_verify.c	/^static char *avb_set_enforce_option(const char *cmdline, const char *option)$/;"	f	file:
+avb_set_enforce_verity	avb_verify.c	/^char *avb_set_enforce_verity(const char *cmdline)$/;"	f
+avb_set_ignore_corruption	avb_verify.c	/^char *avb_set_ignore_corruption(const char *cmdline)$/;"	f
+avb_set_state	avb_verify.c	/^char *avb_set_state(AvbOps *ops, enum avb_boot_state boot_state)$/;"	f
+b_addchr	cli_hush.c	/^static int b_addchr(o_string *o, int ch)$/;"	f	file:
+b_addqchr	cli_hush.c	/^static int b_addqchr(o_string *o, int ch, int quote)$/;"	f	file:
+b_adduint	cli_hush.c	/^static int b_adduint(o_string *o, unsigned int i)$/;"	f	file:
+b_check_space	cli_hush.c	/^static int b_check_space(o_string *o, int len)$/;"	f	file:
+b_free	cli_hush.c	/^static void b_free(o_string *o)$/;"	f	file:
+b_getch	cli_hush.c	341;"	d	file:
+b_peek	cli_hush.c	342;"	d	file:
+b_reset	cli_hush.c	/^static void b_reset(o_string *o)$/;"	f	file:
+base	dlmalloc.c	/^	void* base;$/;"	m	struct:GmListElement	file:
+bdata	spl/spl.c	/^static bd_t bdata __attribute__ ((section(".data")));$/;"	v	file:
+bin_at	dlmalloc.c	517;"	d	file:
+bin_index	dlmalloc.c	624;"	d	file:
+binblocks_r	dlmalloc.c	663;"	d	file:
+binblocks_w	dlmalloc.c	664;"	d	file:
+bk	dlmalloc.c	/^  struct malloc_chunk* bk;$/;"	m	struct:malloc_chunk	typeref:struct:malloc_chunk::malloc_chunk	file:
+bl2_plat_get_bl31_params	spl/spl_atf.c	/^static struct bl31_params *bl2_plat_get_bl31_params(uintptr_t bl33_entry)$/;"	f	file:
+bl2_to_bl31_params	spl/spl_atf.c	/^static struct bl31_params *bl2_to_bl31_params;$/;"	v	typeref:struct:bl31_params	file:
+bl31_entry	spl/spl_atf.c	/^static void bl31_entry(uintptr_t bl31_entry, uintptr_t bl33_entry,$/;"	f	file:
+bl31_params_mem	spl/spl_atf.c	/^static struct bl2_to_bl31_params_mem bl31_params_mem;$/;"	v	typeref:struct:bl2_to_bl31_params_mem	file:
+blk	xyzModem.c	/^  unsigned char blk, cblk, crc1, crc2;$/;"	m	struct:__anon8	file:
+bltins	cli_hush.c	/^static struct built_in_command bltins[] = {$/;"	v	typeref:struct:built_in_command	file:
+blue_led_off	board_f.c	/^__weak void blue_led_off(void) {}$/;"	f
+blue_led_on	board_f.c	/^__weak void blue_led_on(void) {}$/;"	f
+board_add_ram_info	board_f.c	/^__weak void board_add_ram_info(int use_default)$/;"	f
+board_boot_order	spl/spl.c	/^__weak void board_boot_order(u32 *spl_boot_list)$/;"	f
+board_flash_wp_on	board_r.c	/^__weak int board_flash_wp_on(void)$/;"	f
+board_get_cros_ec_dev	cros_ec.c	/^struct cros_ec_dev *board_get_cros_ec_dev(void)$/;"	f
+board_get_usable_ram_top	board_f.c	/^__weak ulong board_get_usable_ram_top(ulong total_size)$/;"	f
+board_hwconfig	hwconfig.c	/^const char board_hwconfig[] __attribute__((weak)) = "";$/;"	v
+board_init_f	board_f.c	/^void board_init_f(ulong boot_flags)$/;"	f
+board_init_f_alloc_reserve	init/board_init.c	/^ulong board_init_f_alloc_reserve(ulong top)$/;"	f
+board_init_f_init_reserve	init/board_init.c	/^void board_init_f_init_reserve(ulong base)$/;"	f
+board_init_f_r	board_f.c	/^void board_init_f_r(void)$/;"	f
+board_init_r	board_r.c	/^void board_init_r(gd_t *new_gd, ulong dest_addr)$/;"	f
+board_init_r	spl/spl.c	/^void board_init_r(gd_t *dummy1, ulong dummy2)$/;"	f
+board_quiesce_devices	bootm.c	/^__weak void board_quiesce_devices(void)$/;"	f
+board_return_to_bootrom	spl/spl_bootrom.c	/^__weak void board_return_to_bootrom(void)$/;"	f
+board_usb_cleanup	usb.c	/^int board_usb_cleanup(int index, enum usb_init_type init)$/;"	f
+board_usb_init	usb.c	/^int board_usb_init(int index, enum usb_init_type init)$/;"	f
+boot_fdt_add_mem_rsv_regions	image-fdt.c	/^void boot_fdt_add_mem_rsv_regions(struct lmb *lmb, void *fdt_blob)$/;"	f
+boot_from_devices	spl/spl.c	/^static int boot_from_devices(struct spl_image_info *spl_image,$/;"	f	file:
+boot_get_cmdline	image.c	/^int boot_get_cmdline(struct lmb *lmb, ulong *cmd_start, ulong *cmd_end)$/;"	f
+boot_get_fdt	image-fdt.c	/^int boot_get_fdt(int flag, int argc, char * const argv[], uint8_t arch,$/;"	f
+boot_get_fdt_fit	image-fit.c	/^int boot_get_fdt_fit(bootm_headers_t *images, ulong addr,$/;"	f
+boot_get_fpga	image.c	/^int boot_get_fpga(int argc, char * const argv[], bootm_headers_t *images,$/;"	f
+boot_get_kbd	image.c	/^int boot_get_kbd(struct lmb *lmb, bd_t **kbd)$/;"	f
+boot_get_kernel	bootm.c	/^static const void *boot_get_kernel(cmd_tbl_t *cmdtp, int flag, int argc,$/;"	f	file:
+boot_get_loadable	image.c	/^int boot_get_loadable(int argc, char * const argv[], bootm_headers_t *images,$/;"	f
+boot_get_ramdisk	image.c	/^int boot_get_ramdisk(int argc, char * const argv[], bootm_headers_t *images,$/;"	f
+boot_get_setup	image.c	/^int boot_get_setup(bootm_headers_t *images, uint8_t arch,$/;"	f
+boot_get_setup_fit	image-fit.c	/^int boot_get_setup_fit(bootm_headers_t *images, uint8_t arch,$/;"	f
+boot_os	bootm_os.c	/^static boot_os_fn *boot_os[] = {$/;"	v	file:
+boot_params_ptr	spl/spl.c	/^u32 *boot_params_ptr = NULL;$/;"	v
+boot_ramdisk_high	image.c	/^int boot_ramdisk_high(struct lmb *lmb, ulong rd_data, ulong rd_len,$/;"	f
+boot_relocate_fdt	image-fdt.c	/^int boot_relocate_fdt(struct lmb *lmb, char **of_flat_tree, ulong *of_size)$/;"	f
+boot_selected_os	bootm_os.c	/^int boot_selected_os(int argc, char * const argv[], int state,$/;"	f
+boot_start_lmb	bootm.c	/^static inline void boot_start_lmb(bootm_headers_t *images) { }$/;"	f	file:
+boot_start_lmb	bootm.c	/^static void boot_start_lmb(bootm_headers_t *images)$/;"	f	file:
+bootdelay_process	autoboot.c	/^const char *bootdelay_process(void)$/;"	f
+bootm_decomp_image	bootm.c	/^int bootm_decomp_image(int comp, ulong load, ulong image_start, int type,$/;"	f
+bootm_disable_interrupts	bootm.c	/^ulong bootm_disable_interrupts(void)$/;"	f
+bootm_find_images	bootm.c	/^int bootm_find_images(int flag, int argc, char * const argv[])$/;"	f
+bootm_find_os	bootm.c	/^static int bootm_find_os(cmd_tbl_t *cmdtp, int flag, int argc,$/;"	f	file:
+bootm_find_other	bootm.c	/^static int bootm_find_other(cmd_tbl_t *cmdtp, int flag, int argc,$/;"	f	file:
+bootm_host_load_image	bootm.c	/^static int bootm_host_load_image(const void *fit, int req_image_type)$/;"	f	file:
+bootm_host_load_images	bootm.c	/^int bootm_host_load_images(const void *fit, int cfg_noffset)$/;"	f
+bootm_load_os	bootm.c	/^static int bootm_load_os(bootm_headers_t *images, int boot_progress)$/;"	f	file:
+bootm_os_get_boot_func	bootm_os.c	/^boot_os_fn *bootm_os_get_boot_func(int os)$/;"	f
+bootm_start	bootm.c	/^static int bootm_start(cmd_tbl_t *cmdtp, int flag, int argc,$/;"	f	file:
+bootretry_dont_retry	bootretry.c	/^void bootretry_dont_retry(void)$/;"	f
+bootretry_init_cmd_timeout	bootretry.c	/^void bootretry_init_cmd_timeout(void)$/;"	f
+bootretry_reset_cmd_timeout	bootretry.c	/^void bootretry_reset_cmd_timeout(void)$/;"	f
+bootretry_tstc_timeout	bootretry.c	/^int bootretry_tstc_timeout(void)$/;"	f
+bootstage_accum	bootstage.c	/^uint32_t bootstage_accum(enum bootstage_id id)$/;"	f
+bootstage_add_record	bootstage.c	/^ulong bootstage_add_record(enum bootstage_id id, const char *name,$/;"	f
+bootstage_data	bootstage.c	/^struct bootstage_data {$/;"	s	file:
+bootstage_error	bootstage.c	/^ulong bootstage_error(enum bootstage_id id)$/;"	f
+bootstage_fdt_add_report	bootstage.c	/^int bootstage_fdt_add_report(void)$/;"	f
+bootstage_get_size	bootstage.c	/^int bootstage_get_size(void)$/;"	f
+bootstage_hdr	bootstage.c	/^struct bootstage_hdr {$/;"	s	file:
+bootstage_init	bootstage.c	/^int bootstage_init(bool first)$/;"	f
+bootstage_mark	bootstage.c	/^ulong bootstage_mark(enum bootstage_id id)$/;"	f
+bootstage_mark_code	bootstage.c	/^ulong bootstage_mark_code(const char *file, const char *func, int linenum)$/;"	f
+bootstage_mark_name	bootstage.c	/^ulong bootstage_mark_name(enum bootstage_id id, const char *name)$/;"	f
+bootstage_record	bootstage.c	/^struct bootstage_record {$/;"	s	file:
+bootstage_relocate	bootstage.c	/^int bootstage_relocate(void)$/;"	f
+bootstage_report	bootstage.c	/^void bootstage_report(void)$/;"	f
+bootstage_start	bootstage.c	/^uint32_t bootstage_start(enum bootstage_id id, const char *name)$/;"	f
+bootstage_stash	bootstage.c	/^int bootstage_stash(void *base, int size)$/;"	f
+bootstage_unstash	bootstage.c	/^int bootstage_unstash(const void *base, int size)$/;"	f
+bootz_setup	spl/spl.c	/^int __weak bootz_setup(ulong image, ulong *start, ulong *end)$/;"	f
+bounce_buffer_start	bouncebuf.c	/^int bounce_buffer_start(struct bounce_buffer *state, void *data,$/;"	f
+bounce_buffer_stop	bouncebuf.c	/^int bounce_buffer_stop(struct bounce_buffer *state)$/;"	f
+breakpoint	kgdb.c	/^breakpoint(void)$/;"	f
+buf	spl/spl_ymodem.c	/^	char *buf;$/;"	m	struct:ymodem_fit_info	file:
+bufp	xyzModem.c	/^  unsigned char pkt[1024], *bufp;$/;"	m	struct:__anon8	file:
+built_in_command	cli_hush.c	/^struct built_in_command {$/;"	s	file:
+builtin_cd	cli_hush.c	/^static int builtin_cd(struct child_prog *child)$/;"	f	file:
+builtin_env	cli_hush.c	/^static int builtin_env(struct child_prog *dummy)$/;"	f	file:
+builtin_eval	cli_hush.c	/^static int builtin_eval(struct child_prog *child)$/;"	f	file:
+builtin_exec	cli_hush.c	/^static int builtin_exec(struct child_prog *child)$/;"	f	file:
+builtin_exit	cli_hush.c	/^static int builtin_exit(struct child_prog *child)$/;"	f	file:
+builtin_export	cli_hush.c	/^static int builtin_export(struct child_prog *child)$/;"	f	file:
+builtin_fg_bg	cli_hush.c	/^static int builtin_fg_bg(struct child_prog *child)$/;"	f	file:
+builtin_help	cli_hush.c	/^static int builtin_help(struct child_prog *dummy)$/;"	f	file:
+builtin_jobs	cli_hush.c	/^static int builtin_jobs(struct child_prog *child)$/;"	f	file:
+builtin_not_written	cli_hush.c	/^static int builtin_not_written(struct child_prog *child)$/;"	f	file:
+builtin_pwd	cli_hush.c	/^static int builtin_pwd(struct child_prog *dummy)$/;"	f	file:
+builtin_read	cli_hush.c	/^static int builtin_read(struct child_prog *child)$/;"	f	file:
+builtin_set	cli_hush.c	/^static int builtin_set(struct child_prog *child)$/;"	f	file:
+builtin_shift	cli_hush.c	/^static int builtin_shift(struct child_prog *child)$/;"	f	file:
+builtin_source	cli_hush.c	/^static int builtin_source(struct child_prog *child)$/;"	f	file:
+builtin_umask	cli_hush.c	/^static int builtin_umask(struct child_prog *child)$/;"	f	file:
+builtin_unset	cli_hush.c	/^static int builtin_unset(struct child_prog *child)$/;"	f	file:
+cALLOc	dlmalloc.c	/^Void_t* cALLOc(size_t n, size_t elem_size)$/;"	f
+calculate_hash	image-fit.c	/^int calculate_hash(const void *data, int data_len, const char *algo,$/;"	f
+calloc	malloc_simple.c	/^void *calloc(size_t nmemb, size_t elem_size)$/;"	f
+cblk	xyzModem.c	/^  unsigned char blk, cblk, crc1, crc2;$/;"	m	struct:__anon8	file:
+cd_count	console.c	/^int cd_count[MAX_FILES];$/;"	v
+cea_is_hdmi_vsdb_present	edid.c	/^static bool cea_is_hdmi_vsdb_present(struct edid_cea861_info *info)$/;"	f	file:
+cfree	dlmalloc.c	/^void cfree(Void_t *mem)$/;"	f
+check_chunk	dlmalloc.c	843;"	d	file:
+check_chunk	dlmalloc.c	848;"	d	file:
+check_free_chunk	dlmalloc.c	841;"	d	file:
+check_free_chunk	dlmalloc.c	846;"	d	file:
+check_inuse_chunk	dlmalloc.c	842;"	d	file:
+check_inuse_chunk	dlmalloc.c	847;"	d	file:
+check_malloced_chunk	dlmalloc.c	844;"	d	file:
+check_malloced_chunk	dlmalloc.c	849;"	d	file:
+checkboard	board_info.c	/^int __weak checkboard(void)$/;"	f
+checkjobs	cli_hush.c	/^static int checkjobs(struct pipe* fg_pipe)$/;"	f	file:
+checksum_algos	image-sig.c	/^struct checksum_algo checksum_algos[] = {$/;"	v	typeref:struct:checksum_algo
+child	cli_hush.c	/^	struct child_prog *child;$/;"	m	struct:p_context	typeref:struct:p_context::child_prog	file:
+child_prog	cli_hush.c	/^struct child_prog {$/;"	s	file:
+chunk2mem	dlmalloc.c	362;"	d	file:
+chunk_at_offset	dlmalloc.c	409;"	d	file:
+chunk_is_mmapped	dlmalloc.c	429;"	d	file:
+chunksize	dlmalloc.c	459;"	d	file:
+clear_binblock	dlmalloc.c	670;"	d	file:
+clear_ctrlc	console.c	/^void clear_ctrlc(void)$/;"	f
+clear_inuse	dlmalloc.c	436;"	d	file:
+clear_inuse_bit_at_offset	dlmalloc.c	447;"	d	file:
+clear_last_remainder	dlmalloc.c	920;"	d	file:
+cli_init	cli.c	/^void cli_init(void)$/;"	f
+cli_loop	cli.c	/^void cli_loop(void)$/;"	f
+cli_process_fdt	cli.c	/^bool cli_process_fdt(const char **cmdp)$/;"	f
+cli_readline	cli_readline.c	/^int cli_readline(const char *const prompt)$/;"	f
+cli_readline_into_buffer	cli_readline.c	/^int cli_readline_into_buffer(const char *const prompt, char *buffer,$/;"	f
+cli_secure_boot_cmd	cli.c	/^void cli_secure_boot_cmd(const char *cmd)$/;"	f
+cli_simple_loop	cli_simple.c	/^void cli_simple_loop(void)$/;"	f
+cli_simple_parse_line	cli_simple.c	/^int cli_simple_parse_line(char *line, char *argv[])$/;"	f
+cli_simple_process_macros	cli_simple.c	/^void cli_simple_process_macros(const char *input, char *output)$/;"	f
+cli_simple_run_command	cli_simple.c	/^int cli_simple_run_command(const char *cmd, int flag)$/;"	f
+cli_simple_run_command_list	cli_simple.c	/^int cli_simple_run_command_list(char *cmd, int flag)$/;"	f
+close_all	cli_hush.c	/^static void close_all(void)$/;"	f	file:
+close_me	cli_hush.c	/^struct close_me {$/;"	s	file:
+close_me_head	cli_hush.c	/^static struct close_me *close_me_head;$/;"	v	typeref:struct:close_me	file:
+cmd	cli_hush.c	/^	char *cmd;					\/* name *\/$/;"	m	struct:built_in_command	file:
+cmd_auto_complete	command.c	/^int cmd_auto_complete(const char *const prompt, char *buf, int *np, int *colp)$/;"	f
+cmd_call	command.c	/^static int cmd_call(cmd_tbl_t *cmdtp, int flag, int argc, char * const argv[])$/;"	f	file:
+cmd_get_data_size	command.c	/^int cmd_get_data_size(char* arg, int default_size)$/;"	f
+cmd_process	command.c	/^enum command_ret_t cmd_process(int flag, int argc, char * const argv[],$/;"	f
+cmd_process_error	command.c	/^int cmd_process_error(cmd_tbl_t *cmdtp, int err)$/;"	f
+cmd_usage	command.c	/^int cmd_usage(const cmd_tbl_t *cmdtp)$/;"	f
+cmdbuf	cli_hush.c	/^	char *cmdbuf;				\/* buffer various argv's point into *\/$/;"	m	struct:pipe	file:
+cmdedit_set_initial_prompt	cli_hush.c	/^static inline void cmdedit_set_initial_prompt(void)$/;"	f	file:
+code	cli_hush.c	/^	int code;$/;"	m	struct:reserved_combo	file:
+coloured_LED_init	board_f.c	/^__weak void coloured_LED_init(void) {}$/;"	f
+complete_cmdv	command.c	/^static int complete_cmdv(int argc, char * const argv[], char last_char, int maxv, char *cmdv[])$/;"	f	file:
+confirm_yesno	console.c	/^int confirm_yesno(void)$/;"	f
+cons	lcd_console.c	/^static struct console_t cons;$/;"	v	typeref:struct:console_t	file:
+console	log_console.c	/^LOG_DRIVER(console) = {$/;"	v
+console_announce_r	console.c	/^int console_announce_r(void)$/;"	f
+console_assign	console.c	/^int console_assign(int file, const char *devname)$/;"	f
+console_back	lcd_console.c	/^static inline void console_back(void)$/;"	f	file:
+console_buffer	cli_readline.c	/^char console_buffer[CONFIG_SYS_CBSIZE + 1];	\/* console I\/O buffer	*\/$/;"	v
+console_calc_rowcol	lcd_console.c	/^void console_calc_rowcol(struct console_t *pcons, u32 sizex, u32 sizey)$/;"	f
+console_calc_rowcol_rot	lcd_console_rotation.c	/^static void console_calc_rowcol_rot(struct console_t *pcons)$/;"	f	file:
+console_dev_is_serial	console.c	/^static bool console_dev_is_serial(struct stdio_dev *sdev)$/;"	f	file:
+console_devices	console.c	/^struct stdio_dev **console_devices[MAX_FILES];$/;"	v	typeref:struct:stdio_dev
+console_doenv	console.c	/^static inline void console_doenv(int file, struct stdio_dev *dev)$/;"	f	file:
+console_getc	console.c	/^static inline int console_getc(int file)$/;"	f	file:
+console_getc	console.c	/^static int console_getc(int file)$/;"	f	file:
+console_init_f	console.c	/^int console_init_f(void)$/;"	f
+console_init_r	console.c	/^int console_init_r(void)$/;"	f
+console_moverow0	lcd_console.c	/^static inline void console_moverow0(struct console_t *pcons,$/;"	f	file:
+console_moverow180	lcd_console_rotation.c	/^static inline void console_moverow180(struct console_t *pcons,$/;"	f	file:
+console_moverow270	lcd_console_rotation.c	/^static inline void console_moverow270(struct console_t *pcons,$/;"	f	file:
+console_moverow90	lcd_console_rotation.c	/^static inline void console_moverow90(struct console_t *pcons,$/;"	f	file:
+console_newline	lcd_console.c	/^static inline void console_newline(void)$/;"	f	file:
+console_putc	console.c	/^static inline void console_putc(int file, const char c)$/;"	f	file:
+console_putc	console.c	/^static void console_putc(int file, const char c)$/;"	f	file:
+console_puts	console.c	/^static inline void console_puts(int file, const char *s)$/;"	f	file:
+console_puts	console.c	/^static void console_puts(int file, const char *s)$/;"	f	file:
+console_puts_noserial	console.c	/^static inline void console_puts_noserial(int file, const char *s)$/;"	f	file:
+console_puts_noserial	console.c	/^static void console_puts_noserial(int file, const char *s)$/;"	f	file:
+console_record_init	console.c	/^int console_record_init(void)$/;"	f
+console_record_reset	console.c	/^void console_record_reset(void)$/;"	f
+console_record_reset_enable	console.c	/^void console_record_reset_enable(void)$/;"	f
+console_setfile	console.c	/^static int console_setfile(int file, struct stdio_dev * dev)$/;"	f	file:
+console_setrow0	lcd_console.c	/^static inline void console_setrow0(struct console_t *pcons, u32 row, int clr)$/;"	f	file:
+console_setrow180	lcd_console_rotation.c	/^static inline void console_setrow180(struct console_t *pcons, u32 row, int clr)$/;"	f	file:
+console_setrow270	lcd_console_rotation.c	/^static inline void console_setrow270(struct console_t *pcons, u32 row, int clr)$/;"	f	file:
+console_setrow90	lcd_console_rotation.c	/^static inline void console_setrow90(struct console_t *pcons, u32 row, int clr)$/;"	f	file:
+console_tstc	console.c	/^static inline int console_tstc(int file)$/;"	f	file:
+console_tstc	console.c	/^static int console_tstc(int file)$/;"	f	file:
+console_update_silent	console.c	/^static void console_update_silent(void)$/;"	f	file:
+controlling_tty	cli_hush.c	/^void controlling_tty(int check_pgrp)$/;"	f
+copy_args	bootm_os.c	/^static void copy_args(char *dest, int argc, char * const argv[], char delim)$/;"	f	file:
+count	bootstage.c	/^	uint32_t count;		\/* Number of records *\/$/;"	m	struct:bootstage_hdr	file:
+count	image.c	/^	int count;$/;"	m	struct:table_info	file:
+count_cells	fdt_support.c	/^	void		(*count_cells)(const void *blob, int parentoffset,$/;"	m	struct:of_bus	file:
+cpu_hwconfig	hwconfig.c	/^const char cpu_hwconfig[] __attribute__((weak)) = "";$/;"	v
+cpu_secondary_init_r	board_r.c	/^__weak void cpu_secondary_init_r(void)$/;"	f
+crc1	xyzModem.c	/^  unsigned char blk, cblk, crc1, crc2;$/;"	m	struct:__anon8	file:
+crc16	ddr_spd.c	/^crc16(char *ptr, int count)$/;"	f	file:
+crc2	xyzModem.c	/^  unsigned char blk, cblk, crc1, crc2;$/;"	m	struct:__anon8	file:
+crc32	iotrace.c	/^	u32 crc32;$/;"	m	struct:iotrace	file:
+crc_mode	xyzModem.c	/^  bool crc_mode, at_eof, tx_ack;$/;"	m	struct:__anon8	file:
+cread_add_char	cli_readline.c	/^static void cread_add_char(char ichar, int insert, unsigned long *num,$/;"	f	file:
+cread_add_str	cli_readline.c	/^static void cread_add_str(char *str, int strsize, int insert,$/;"	f	file:
+cread_add_to_hist	cli_readline.c	/^static void cread_add_to_hist(char *line)$/;"	f	file:
+cread_line	cli_readline.c	/^static int cread_line(const char *const prompt, char *buf, unsigned int *len,$/;"	f	file:
+cread_print_hist_list	cli_readline.c	/^static void cread_print_hist_list(void)$/;"	f	file:
+cros_ec_get_error	cros_ec.c	/^int cros_ec_get_error(void)$/;"	f
+crypto_algos	image-sig.c	/^struct crypto_algo crypto_algos[] = {$/;"	v	typeref:struct:crypto_algo
+ctrlc	console.c	/^int ctrlc(void)$/;"	f
+ctrlc_disabled	console.c	/^static int ctrlc_disabled = 0;	\/* see disable_ctrl() *\/$/;"	v	file:
+ctrlc_was_pressed	console.c	/^static int ctrlc_was_pressed = 0;$/;"	v	file:
+current_mallinfo	dlmalloc.c	/^static struct mallinfo current_mallinfo = {  0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };$/;"	v	typeref:struct:mallinfo	file:
+current_mii	miiphyutil.c	/^static struct mii_dev *current_mii;$/;"	v	typeref:struct:mii_dev	file:
+cwd	cli_hush.c	/^static const char *cwd;$/;"	v	file:
+cyg_int32	xyzModem.c	/^typedef int cyg_int32;$/;"	t	file:
+data	cli_hush.c	/^	char *data;$/;"	m	struct:__anon7	file:
+data	menu.c	/^	void *data;$/;"	m	struct:menu_item	file:
+ddr1_spd_check	ddr_spd.c	/^ddr1_spd_check(const ddr1_spd_eeprom_t *spd)$/;"	f
+ddr2_spd_check	ddr_spd.c	/^ddr2_spd_check(const ddr2_spd_eeprom_t *spd)$/;"	f
+ddr3_spd_check	ddr_spd.c	/^ddr3_spd_check(const ddr3_spd_eeprom_t *spd)$/;"	f
+ddr4_spd_check	ddr_spd.c	/^unsigned int ddr4_spd_check(const struct ddr4_spd_eeprom_s *spd)$/;"	f
+debug	miiphyutil.c	25;"	d	file:
+debug	miiphyutil.c	27;"	d	file:
+debug	miiphyutil.c	29;"	d	file:
+debug_bootkeys	autoboot.c	25;"	d	file:
+debug_parser	cli_simple.c	19;"	d	file:
+debug_printf	cli_hush.c	/^static inline void debug_printf(const char *format, ...) { }$/;"	f	file:
+debug_printf	cli_hush.c	/^static void debug_printf(const char *format, ...)$/;"	f	file:
+debug_printf	cli_hush.c	370;"	d	file:
+debugger_exception_handler	kgdb_stubs.c	/^int (*debugger_exception_handler)(struct pt_regs *);$/;"	v
+decode_timing	edid.c	/^static void decode_timing(u8 *buf, struct display_timing *timing)$/;"	f	file:
+default_fd	cli_hush.c	/^struct {int mode; int default_fd; char *descrip;} redir_table[] = {$/;"	m	struct:__anon4	file:
+default_item	menu.c	/^	struct menu_item *default_item;$/;"	m	struct:menu	typeref:struct:menu::menu_item	file:
+default_splash_locations	splash.c	/^static struct splash_location default_splash_locations[] = {$/;"	v	typeref:struct:splash_location	file:
+delete_char	cli_readline.c	/^static char *delete_char (char *buffer, char *p, int *colp, int *np, int plen)$/;"	f	file:
+desc	image.c	/^	const char *desc;$/;"	m	struct:table_info	file:
+descr	cli_hush.c	/^	char *descr;				\/* description *\/$/;"	m	struct:built_in_command	file:
+descrip	cli_hush.c	/^struct {int mode; int default_fd; char *descrip;} redir_table[] = {$/;"	m	struct:__anon4	file:
+dev	usb_hub.c	/^	struct usb_device *dev;		\/* USB hub device to scan *\/$/;"	m	struct:usb_device_scan	typeref:struct:usb_device_scan::usb_device	file:
+dev_index	usb.c	/^static int dev_index;$/;"	v	file:
+devs	stdio.c	/^static struct stdio_dev devs;$/;"	v	typeref:struct:stdio_dev	file:
+disable_ctrlc	console.c	/^int disable_ctrlc(int disable)$/;"	f
+display_int_status	usb_storage.c	/^static void display_int_status(unsigned long tmp)$/;"	f	file:
+display_new_sp	board_f.c	/^static int display_new_sp(void)$/;"	f	file:
+display_text_info	board_f.c	/^static int display_text_info(void)$/;"	f	file:
+disppc	bedbug.c	/^int disppc (unsigned char *memaddr, unsigned char *virtual, int num_instr,$/;"	f
+do_bootm_integrity	bootm_os.c	/^static int do_bootm_integrity(int flag, int argc, char * const argv[],$/;"	f	file:
+do_bootm_lynxkdi	bootm_os.c	/^static int do_bootm_lynxkdi(int flag, int argc, char * const argv[],$/;"	f	file:
+do_bootm_netbsd	bootm_os.c	/^static int do_bootm_netbsd(int flag, int argc, char * const argv[],$/;"	f	file:
+do_bootm_openrtos	bootm_os.c	/^static int do_bootm_openrtos(int flag, int argc, char * const argv[],$/;"	f	file:
+do_bootm_ose	bootm_os.c	/^static int do_bootm_ose(int flag, int argc, char * const argv[],$/;"	f	file:
+do_bootm_plan9	bootm_os.c	/^static int do_bootm_plan9(int flag, int argc, char * const argv[],$/;"	f	file:
+do_bootm_qnxelf	bootm_os.c	/^static int do_bootm_qnxelf(int flag, int argc, char * const argv[],$/;"	f	file:
+do_bootm_rtems	bootm_os.c	/^static int do_bootm_rtems(int flag, int argc, char * const argv[],$/;"	f	file:
+do_bootm_standalone	bootm_os.c	/^static int do_bootm_standalone(int flag, int argc, char * const argv[],$/;"	f	file:
+do_bootm_states	bootm.c	/^int do_bootm_states(cmd_tbl_t *cmdtp, int flag, int argc, char * const argv[],$/;"	f
+do_bootm_tee	bootm_os.c	/^static int do_bootm_tee(int flag, int argc, char * const argv[],$/;"	f	file:
+do_bootm_vxworks	bootm_os.c	/^static int do_bootm_vxworks(int flag, int argc, char * const argv[],$/;"	f	file:
+do_bootvx_fdt	bootm_os.c	/^void do_bootvx_fdt(bootm_headers_t *images)$/;"	f
+do_check_chunk	dlmalloc.c	/^static void do_check_chunk(mchunkptr p)$/;"	f	file:
+do_check_free_chunk	dlmalloc.c	/^static void do_check_free_chunk(mchunkptr p)$/;"	f	file:
+do_check_inuse_chunk	dlmalloc.c	/^static void do_check_inuse_chunk(mchunkptr p)$/;"	f	file:
+do_check_malloced_chunk	dlmalloc.c	/^static void do_check_malloced_chunk(mchunkptr p, INTERNAL_SIZE_T s)$/;"	f	file:
+do_fixup_by_compat	fdt_support.c	/^void do_fixup_by_compat(void *fdt, const char *compat,$/;"	f
+do_fixup_by_compat_u32	fdt_support.c	/^void do_fixup_by_compat_u32(void *fdt, const char *compat,$/;"	f
+do_fixup_by_path	fdt_support.c	/^void do_fixup_by_path(void *fdt, const char *path, const char *prop,$/;"	f
+do_fixup_by_path_u32	fdt_support.c	/^void do_fixup_by_path_u32(void *fdt, const char *path, const char *prop,$/;"	f
+do_fixup_by_prop	fdt_support.c	/^void do_fixup_by_prop(void *fdt,$/;"	f
+do_fixup_by_prop_u32	fdt_support.c	/^void do_fixup_by_prop_u32(void *fdt,$/;"	f
+do_kgdb	kgdb.c	/^do_kgdb(cmd_tbl_t *cmdtp, int flag, int argc, char * const argv[])$/;"	f
+do_lcd_clear	lcd.c	/^static int do_lcd_clear(cmd_tbl_t *cmdtp, int flag, int argc,$/;"	f	file:
+do_lcd_puts	lcd_console.c	/^static int do_lcd_puts(cmd_tbl_t *cmdtp, int flag, int argc,$/;"	f	file:
+do_lcd_setcursor	lcd_console.c	/^static int do_lcd_setcursor(cmd_tbl_t *cmdtp, int flag, int argc,$/;"	f	file:
+do_repeat	cli_hush.c	/^static int do_repeat = 0;$/;"	v	file:
+do_run	cli.c	/^int do_run(cmd_tbl_t *cmdtp, int flag, int argc, char * const argv[])$/;"	f
+do_showvar	cli_hush.c	/^static int do_showvar(cmd_tbl_t *cmdtp, int flag, int argc,$/;"	f	file:
+done_command	cli_hush.c	/^static int done_command(struct p_context *ctx)$/;"	f	file:
+done_pipe	cli_hush.c	/^static int done_pipe(struct p_context *ctx, pipe_style type)$/;"	f	file:
+done_word	cli_hush.c	/^static int done_word(o_string *dest, struct p_context *ctx)$/;"	f	file:
+downstring	bedbug.c	/^int downstring (char *s)$/;"	f
+dram_init_banksize	board_f.c	/^__weak int dram_init_banksize(void)$/;"	f
+dram_init_banksize	spl/spl.c	/^__weak int dram_init_banksize(void)$/;"	f
+draw_encoded_bitmap	lcd.c	/^static void draw_encoded_bitmap(ushort **fbp, ushort c, int cnt)$/;"	f	file:
+draw_unencoded_bitmap	lcd.c	/^static void draw_unencoded_bitmap(ushort **fbp, uchar *bmap, ushort *cmap,$/;"	f	file:
+drv_lcd_init	lcd.c	/^int drv_lcd_init(void)$/;"	f
+drv_system_init	stdio.c	/^static void drv_system_init (void)$/;"	f	file:
+drv_usb_kbd_init	usb_kbd.c	/^int drv_usb_kbd_init(void)$/;"	f
+dummy	exports.c	/^__attribute__((unused)) static void dummy(void)$/;"	f	file:
+dup	cli_hush.c	/^	int dup;					\/* -1, or file descriptor being duplicated *\/$/;"	m	struct:redir_struct	file:
+edid_check_checksum	edid.c	/^int edid_check_checksum(u8 *edid_block)$/;"	f
+edid_check_info	edid.c	/^int edid_check_info(struct edid1_info *edid_info)$/;"	f
+edid_get_manufacturer_name	edid.c	/^static void edid_get_manufacturer_name(struct edid1_info *edid, char *name)$/;"	f	file:
+edid_get_ranges	edid.c	/^int edid_get_ranges(struct edid1_info *edid, unsigned int *hmin,$/;"	f
+edid_get_timing	edid.c	/^int edid_get_timing(u8 *buf, int buf_size, struct display_timing *timing,$/;"	f
+edid_print_dtd	edid.c	/^static void edid_print_dtd(struct edid_monitor_descriptor *monitor,$/;"	f	file:
+edid_print_info	edid.c	/^void edid_print_info(struct edid1_info *edid_info)$/;"	f
+eeprom_field_print_ascii	eeprom/eeprom_field.c	/^void eeprom_field_print_ascii(const struct eeprom_field *field)$/;"	f
+eeprom_field_print_bin	eeprom/eeprom_field.c	/^void eeprom_field_print_bin(const struct eeprom_field *field)$/;"	f
+eeprom_field_print_bin_rev	eeprom/eeprom_field.c	/^void eeprom_field_print_bin_rev(const struct eeprom_field *field)$/;"	f
+eeprom_field_print_mac	eeprom/eeprom_field.c	/^void eeprom_field_print_mac(const struct eeprom_field *field)$/;"	f
+eeprom_field_print_reserved	eeprom/eeprom_field.c	/^void eeprom_field_print_reserved(const struct eeprom_field *field)$/;"	f
+eeprom_field_update_ascii	eeprom/eeprom_field.c	/^int eeprom_field_update_ascii(struct eeprom_field *field, char *value)$/;"	f
+eeprom_field_update_bin	eeprom/eeprom_field.c	/^int eeprom_field_update_bin(struct eeprom_field *field, char *value)$/;"	f
+eeprom_field_update_bin_rev	eeprom/eeprom_field.c	/^int eeprom_field_update_bin_rev(struct eeprom_field *field, char *value)$/;"	f
+eeprom_field_update_mac	eeprom/eeprom_field.c	/^int eeprom_field_update_mac(struct eeprom_field *field, char *value)$/;"	f
+eeprom_field_update_reserved	eeprom/eeprom_field.c	/^int eeprom_field_update_reserved(struct eeprom_field *field, char *value)$/;"	f
+eeprom_layout_detect	eeprom/eeprom_layout.c	/^__weak int eeprom_layout_detect(unsigned char *data)$/;"	f
+eeprom_layout_print	eeprom/eeprom_layout.c	/^static void eeprom_layout_print(const struct eeprom_layout *layout)$/;"	f	file:
+eeprom_layout_setup	eeprom/eeprom_layout.c	/^void eeprom_layout_setup(struct eeprom_layout *layout, unsigned char *buf,$/;"	f
+eeprom_layout_update_field	eeprom/eeprom_layout.c	/^static int eeprom_layout_update_field(struct eeprom_layout *layout,$/;"	f	file:
+enabled	iotrace.c	/^	bool enabled;$/;"	m	struct:iotrace	file:
+endtime	bootretry.c	/^static uint64_t endtime;  \/* must be set, default is instant timeout *\/$/;"	v	file:
+ensure_id	bootstage.c	/^struct bootstage_record *ensure_id(struct bootstage_data *data,$/;"	f
+entry_regs	kgdb.c	/^static struct pt_regs entry_regs;$/;"	v	typeref:struct:pt_regs	file:
+env_get_bootm_low	image.c	/^ulong env_get_bootm_low(void)$/;"	f
+env_get_bootm_mapsize	image.c	/^phys_size_t env_get_bootm_mapsize(void)$/;"	f
+env_get_bootm_size	image.c	/^phys_size_t env_get_bootm_size(void)$/;"	f
+ep_in	usb_storage.c	/^	unsigned char	ep_in;			\/* in endpoint *\/$/;"	m	struct:us_data	file:
+ep_int	usb_storage.c	/^	unsigned char	ep_int;			\/* interrupt . *\/$/;"	m	struct:us_data	file:
+ep_out	usb_storage.c	/^	unsigned char	ep_out;			\/* out ....... *\/$/;"	m	struct:us_data	file:
+erase_seq	cli_readline.c	/^static const char erase_seq[] = "\\b \\b";	\/* erase sequence *\/$/;"	v	file:
+error_jmp_buf	kgdb.c	/^static long error_jmp_buf[BUFMAX\/2];$/;"	v	file:
+error_msg	cli_hush.c	136;"	d	file:
+fREe	dlmalloc.c	/^void fREe(Void_t* mem)$/;"	f
+fake_mode	cli_hush.c	/^static int fake_mode;$/;"	v	file:
+family	cli_hush.c	/^	struct pipe *family;		\/* pointer back to the child's parent pipe *\/$/;"	m	struct:child_prog	typeref:struct:child_prog::pipe	file:
+fat_registered	spl/spl_fat.c	/^static int fat_registered;$/;"	v	file:
+fb_put_byte	lcd.c	/^__weak void fb_put_byte(uchar **fb, uchar **from)$/;"	f
+fb_put_word	lcd.c	/^__weak void fb_put_word(uchar **fb, uchar **from)$/;"	f
+fd	cli_hush.c	/^	int fd;						\/* file descriptor being redirected *\/$/;"	m	struct:redir_struct	file:
+fd	cli_hush.c	/^	int fd;$/;"	m	struct:close_me	file:
+fd	dlmalloc.c	/^  struct malloc_chunk* fd;   \/* double links -- used only if free. *\/$/;"	m	struct:malloc_chunk	typeref:struct:malloc_chunk::malloc_chunk	file:
+fdt_add_edid	fdt_support.c	/^int fdt_add_edid(void *blob, const char *compat, unsigned char *edid_buf)$/;"	f
+fdt_alloc_phandle	fdt_support.c	/^int fdt_alloc_phandle(void *blob)$/;"	f
+fdt_chosen	fdt_support.c	/^int fdt_chosen(void *fdt)$/;"	f
+fdt_create_phandle	fdt_support.c	/^unsigned int fdt_create_phandle(void *fdt, int nodeoffset)$/;"	f
+fdt_del_node_and_alias	fdt_support.c	/^void fdt_del_node_and_alias(void *blob, const char *alias)$/;"	f
+fdt_del_partitions	fdt_support.c	/^int fdt_del_partitions(void *blob, int parent_offset)$/;"	f
+fdt_del_subnodes	fdt_support.c	/^int fdt_del_subnodes(const void *blob, int parent_offset)$/;"	f
+fdt_error	image-fdt.c	/^static void fdt_error(const char *msg)$/;"	f	file:
+fdt_find_and_setprop	fdt_support.c	/^int fdt_find_and_setprop(void *fdt, const char *node, const char *prop,$/;"	f
+fdt_find_or_add_subnode	fdt_support.c	/^int fdt_find_or_add_subnode(void *fdt, int parentoffset, const char *name)$/;"	f
+fdt_fixup_display	fdt_support.c	/^int fdt_fixup_display(void *blob, const char *path, const char *display)$/;"	f
+fdt_fixup_ethernet	fdt_support.c	/^void fdt_fixup_ethernet(void *fdt)$/;"	f
+fdt_fixup_memory	fdt_support.c	/^int fdt_fixup_memory(void *blob, u64 start, u64 size)$/;"	f
+fdt_fixup_memory_banks	fdt_support.c	/^int fdt_fixup_memory_banks(void *blob, u64 start[], u64 size[], int banks)$/;"	f
+fdt_fixup_mtdparts	fdt_support.c	/^void fdt_fixup_mtdparts(void *blob, void *node_info, int node_info_size)$/;"	f
+fdt_fixup_stdout	fdt_support.c	/^static int fdt_fixup_stdout(void *fdt, int chosenoff)$/;"	f	file:
+fdt_get_base_address	fdt_support.c	/^u64 fdt_get_base_address(const void *fdt, int node)$/;"	f
+fdt_getprop_u32	common_fit.c	/^ulong fdt_getprop_u32(const void *fdt, int node, const char *prop)$/;"	f
+fdt_getprop_u32_default	fdt_support.c	/^u32 fdt_getprop_u32_default(const void *fdt, const char *path,$/;"	f
+fdt_getprop_u32_default_node	fdt_support.c	/^u32 fdt_getprop_u32_default_node(const void *fdt, int off, int cell,$/;"	f
+fdt_increase_size	fdt_support.c	/^int fdt_increase_size(void *fdt, int add_len)$/;"	f
+fdt_initrd	fdt_support.c	/^int fdt_initrd(void *fdt, ulong initrd_start, ulong initrd_end)$/;"	f
+fdt_node_offset_by_compat_reg	fdt_support.c	/^int fdt_node_offset_by_compat_reg(void *blob, const char *compat,$/;"	f
+fdt_node_set_part_info	fdt_support.c	/^int fdt_node_set_part_info(void *blob, int parent_offset,$/;"	f
+fdt_offset	boot_fit.c	/^static int fdt_offset(const void *fit)$/;"	f	file:
+fdt_overlay_apply_verbose	fdt_support.c	/^int fdt_overlay_apply_verbose(void *fdt, void *fdto)$/;"	f
+fdt_pack_reg	fdt_support.c	/^static int fdt_pack_reg(const void *fdt, void *buf, u64 *address, u64 *size,$/;"	f	file:
+fdt_pci_dma_ranges	fdt_support.c	/^int fdt_pci_dma_ranges(void *blob, int phb_off, struct pci_controller *hose) {$/;"	f
+fdt_read_prop	fdt_support.c	/^static int fdt_read_prop(const fdt32_t *prop, int prop_len, int cell_off,$/;"	f	file:
+fdt_read_range	fdt_support.c	/^int fdt_read_range(void *fdt, int node, int n, uint64_t *child_addr,$/;"	f
+fdt_record_loadable	fdt_support.c	/^int fdt_record_loadable(void *blob, u32 index, const char *name,$/;"	f
+fdt_root	fdt_support.c	/^int fdt_root(void *fdt)$/;"	f
+fdt_set_node_status	fdt_support.c	/^int fdt_set_node_status(void *fdt, int nodeoffset,$/;"	f
+fdt_set_phandle	fdt_support.c	/^int fdt_set_phandle(void *fdt, int nodeoffset, uint32_t phandle)$/;"	f
+fdt_set_status_by_alias	fdt_support.c	/^int fdt_set_status_by_alias(void *fdt, const char* alias,$/;"	f
+fdt_setprop_uxx	fdt_support.c	/^static inline int fdt_setprop_uxx(void *fdt, int nodeoffset, const char *name,$/;"	f	file:
+fdt_setup_simplefb_node	fdt_support.c	/^int fdt_setup_simplefb_node(void *fdt, int node, u64 base_address, u32 width,$/;"	f
+fdt_shrink_to_minimum	fdt_support.c	/^int fdt_shrink_to_minimum(void *blob, uint extrasize)$/;"	f
+fdt_support_default_count_cells	fdt_support.c	/^void fdt_support_default_count_cells(const void *blob, int parentoffset,$/;"	f
+fdt_translate_address	fdt_support.c	/^u64 fdt_translate_address(const void *blob, int node_offset,$/;"	f
+fdt_verify_alias_address	fdt_support.c	/^int fdt_verify_alias_address(void *fdt, int anode, const char *alias, u64 addr)$/;"	f
+fgetc	console.c	/^int fgetc(int file)$/;"	f
+file	cli_hush.c	/^	FILE *file;$/;"	m	struct:in_str	file:
+file_get	cli_hush.c	/^static int file_get(struct in_str *i)$/;"	f	file:
+file_length	xyzModem.c	/^  unsigned long file_length, read_length;$/;"	m	struct:__anon8	file:
+file_peek	cli_hush.c	/^static int file_peek(struct in_str *i)$/;"	f	file:
+final_printf	cli_hush.c	375;"	d	file:
+findRegion	dlmalloc.c	/^void* findRegion (void* start_address, unsigned long size)$/;"	f	file:
+find_cmd	command.c	/^cmd_tbl_t *find_cmd(const char *cmd)$/;"	f
+find_cmd_tbl	command.c	/^cmd_tbl_t *find_cmd_tbl(const char *cmd, cmd_tbl_t *table, int table_len)$/;"	f
+find_common_prefix	command.c	/^static int find_common_prefix(char * const argv[])$/;"	f	file:
+find_id	bootstage.c	/^struct bootstage_record *find_id(struct bootstage_data *data,$/;"	f
+find_next_address	bedbug.c	/^int find_next_address (unsigned char *nextaddr, int step_over,$/;"	f
+find_opcode	bedbug.c	/^struct opcode *find_opcode (unsigned long instr)$/;"	f
+find_opcode_by_name	bedbug.c	/^struct opcode *find_opcode_by_name (char *name)$/;"	f
+first	dlmalloc.c	617;"	d	file:
+fit_all_image_verify	image-fit.c	/^int fit_all_image_verify(const void *fit)$/;"	f
+fit_check_format	image-fit.c	/^int fit_check_format(const void *fit)$/;"	f
+fit_conf_find_compat	image-fit.c	/^int fit_conf_find_compat(const void *fit, const void *fdt)$/;"	f
+fit_conf_get_node	image-fit.c	/^int fit_conf_get_node(const void *fit, const char *conf_uname)$/;"	f
+fit_conf_get_prop_node	image-fit.c	/^int fit_conf_get_prop_node(const void *fit, int noffset,$/;"	f
+fit_conf_get_prop_node_count	image-fit.c	/^int fit_conf_get_prop_node_count(const void *fit, int noffset,$/;"	f
+fit_conf_get_prop_node_index	image-fit.c	/^int fit_conf_get_prop_node_index(const void *fit, int noffset,$/;"	f
+fit_conf_print	image-fit.c	/^static void fit_conf_print(const void *fit, int noffset, const char *p)$/;"	f	file:
+fit_config_check_sig	image-sig.c	/^int fit_config_check_sig(const void *fit, int noffset, int required_keynode,$/;"	f
+fit_config_verify	image-sig.c	/^int fit_config_verify(const void *fit, int conf_noffset)$/;"	f
+fit_config_verify_required_sigs	image-sig.c	/^int fit_config_verify_required_sigs(const void *fit, int conf_noffset,$/;"	f
+fit_config_verify_sig	image-sig.c	/^static int fit_config_verify_sig(const void *fit, int conf_noffset,$/;"	f	file:
+fit_find_config_node	common_fit.c	/^int fit_find_config_node(const void *fdt)$/;"	f
+fit_get_debug	image-fit.c	/^static void fit_get_debug(const void *fit, int noffset,$/;"	f	file:
+fit_get_desc	image-fit.c	/^int fit_get_desc(const void *fit, int noffset, char **desc)$/;"	f
+fit_get_end	image-fit.c	/^ulong fit_get_end(const void *fit)$/;"	f
+fit_get_image_type_property	image-fit.c	/^static const char *fit_get_image_type_property(int type)$/;"	f	file:
+fit_get_node_from_config	image-fit.c	/^int fit_get_node_from_config(bootm_headers_t *images, const char *prop_name,$/;"	f
+fit_get_subimage_count	image-fit.c	/^int fit_get_subimage_count(const void *fit, int images_noffset)$/;"	f
+fit_get_timestamp	image-fit.c	/^int fit_get_timestamp(const void *fit, int noffset, time_t *timestamp)$/;"	f
+fit_image_check_arch	image-fit.c	/^int fit_image_check_arch(const void *fit, int noffset, uint8_t arch)$/;"	f
+fit_image_check_comp	image-fit.c	/^int fit_image_check_comp(const void *fit, int noffset, uint8_t comp)$/;"	f
+fit_image_check_hash	image-fit.c	/^static int fit_image_check_hash(const void *fit, int noffset, const void *data,$/;"	f	file:
+fit_image_check_os	image-fit.c	/^int fit_image_check_os(const void *fit, int noffset, uint8_t os)$/;"	f
+fit_image_check_sig	image-sig.c	/^int fit_image_check_sig(const void *fit, int noffset, const void *data,$/;"	f
+fit_image_check_type	image-fit.c	/^int fit_image_check_type(const void *fit, int noffset, uint8_t type)$/;"	f
+fit_image_get_address	image-fit.c	/^static int fit_image_get_address(const void *fit, int noffset, char *name,$/;"	f	file:
+fit_image_get_arch	image-fit.c	/^int fit_image_get_arch(const void *fit, int noffset, uint8_t *arch)$/;"	f
+fit_image_get_comp	image-fit.c	/^int fit_image_get_comp(const void *fit, int noffset, uint8_t *comp)$/;"	f
+fit_image_get_data	image-fit.c	/^int fit_image_get_data(const void *fit, int noffset,$/;"	f
+fit_image_get_data_and_size	image-fit.c	/^int fit_image_get_data_and_size(const void *fit, int noffset,$/;"	f
+fit_image_get_data_offset	image-fit.c	/^int fit_image_get_data_offset(const void *fit, int noffset, int *data_offset)$/;"	f
+fit_image_get_data_position	image-fit.c	/^int fit_image_get_data_position(const void *fit, int noffset,$/;"	f
+fit_image_get_data_size	image-fit.c	/^int fit_image_get_data_size(const void *fit, int noffset, int *data_size)$/;"	f
+fit_image_get_entry	image-fit.c	/^int fit_image_get_entry(const void *fit, int noffset, ulong *entry)$/;"	f
+fit_image_get_load	image-fit.c	/^int fit_image_get_load(const void *fit, int noffset, ulong *load)$/;"	f
+fit_image_get_node	image-fit.c	/^int fit_image_get_node(const void *fit, const char *image_uname)$/;"	f
+fit_image_get_os	image-fit.c	/^int fit_image_get_os(const void *fit, int noffset, uint8_t *os)$/;"	f
+fit_image_get_type	image-fit.c	/^int fit_image_get_type(const void *fit, int noffset, uint8_t *type)$/;"	f
+fit_image_hash_get_algo	image-fit.c	/^int fit_image_hash_get_algo(const void *fit, int noffset, char **algo)$/;"	f
+fit_image_hash_get_ignore	image-fit.c	/^static int fit_image_hash_get_ignore(const void *fit, int noffset, int *ignore)$/;"	f	file:
+fit_image_hash_get_value	image-fit.c	/^int fit_image_hash_get_value(const void *fit, int noffset, uint8_t **value,$/;"	f
+fit_image_load	image-fit.c	/^int fit_image_load(bootm_headers_t *images, ulong addr,$/;"	f
+fit_image_print	image-fit.c	/^void fit_image_print(const void *fit, int image_noffset, const char *p) { }$/;"	f
+fit_image_print	image-fit.c	/^void fit_image_print(const void *fit, int image_noffset, const char *p)$/;"	f
+fit_image_print_data	image-fit.c	/^static void fit_image_print_data(const void *fit, int noffset, const char *p,$/;"	f	file:
+fit_image_print_verification_data	image-fit.c	/^static void fit_image_print_verification_data(const void *fit, int noffset,$/;"	f	file:
+fit_image_select	image-fit.c	/^static int fit_image_select(const void *fit, int rd_noffset, int verify)$/;"	f	file:
+fit_image_setup_verify	image-sig.c	/^static int fit_image_setup_verify(struct image_sign_info *info,$/;"	f	file:
+fit_image_verify	image-fit.c	/^int fit_image_verify(const void *fit, int image_noffset)$/;"	f
+fit_image_verify_required_sigs	image-sig.c	/^int fit_image_verify_required_sigs(const void *fit, int image_noffset,$/;"	f
+fit_image_verify_sig	image-sig.c	/^static int fit_image_verify_sig(const void *fit, int image_noffset,$/;"	f	file:
+fit_image_verify_with_data	image-fit.c	/^int fit_image_verify_with_data(const void *fit, int image_noffset,$/;"	f
+fit_loadable_process	image.c	/^static void fit_loadable_process(uint8_t img_type,$/;"	f	file:
+fit_parse_conf	image-fit.c	/^int fit_parse_conf(const char *spec, ulong addr_curr,$/;"	f
+fit_parse_spec	image-fit.c	/^static int fit_parse_spec(const char *spec, char sepc, ulong addr_curr,$/;"	f	file:
+fit_parse_subimage	image-fit.c	/^int fit_parse_subimage(const char *spec, ulong addr_curr,$/;"	f
+fit_print_contents	image-fit.c	/^void fit_print_contents(const void *fit) { }$/;"	f
+fit_print_contents	image-fit.c	/^void fit_print_contents(const void *fit)$/;"	f
+fit_region_make_list	image-sig.c	/^struct image_region *fit_region_make_list(const void *fit,$/;"	f
+fit_set_timestamp	image-fit.c	/^int fit_set_timestamp(void *fit, int noffset, time_t timestamp)$/;"	f
+fix_fdt	board_f.c	/^static int fix_fdt(void)$/;"	f	file:
+fixup_cmdtable	command.c	/^void fixup_cmdtable(cmd_tbl_t *cmdtp, int size)$/;"	f
+fixup_cpu	board_r.c	/^__weak int fixup_cpu(void)$/;"	f
+fixup_silent_linux	bootm.c	/^static void fixup_silent_linux(void)$/;"	f	file:
+flag	cli_hush.c	/^	long flag;$/;"	m	struct:reserved_combo	file:
+flag_repeat	cli_hush.c	/^static int flag_repeat = 0;$/;"	v	file:
+flags	bootstage.c	/^	int flags;		\/* see enum bootstage_flags *\/$/;"	m	struct:bootstage_record	file:
+flags	usb_kbd.c	/^	uint8_t		flags;$/;"	m	struct:usb_kbd_pdata	file:
+flags	usb_storage.c	/^	unsigned int	flags;			\/* from filter initially *\/$/;"	m	struct:us_data	file:
+flash_perror	flash.c	/^void flash_perror (int err)$/;"	f
+flash_protect	flash.c	/^flash_protect (int flag, ulong from, ulong to, flash_info_t *info)$/;"	f
+flash_write	flash.c	/^flash_write (char *src, ulong addr, ulong cnt)$/;"	f
+flg_export	cli_hush.c	/^	int flg_export;$/;"	m	struct:variables	file:
+flg_read_only	cli_hush.c	/^	int flg_read_only;$/;"	m	struct:variables	file:
+followup	cli_hush.c	/^	pipe_style followup;		\/* PIPE_BG, PIPE_SEQ, PIPE_OR, PIPE_AND *\/$/;"	m	struct:pipe	file:
+fprintf	console.c	/^int fprintf(int file, const char *fmt, ...)$/;"	f
+fputc	console.c	/^void fputc(int file, const char c)$/;"	f
+fputs	console.c	/^void fputs(int file, const char *s)$/;"	f
+free_pipe	cli_hush.c	/^static int free_pipe(struct pipe *pi, int indent)$/;"	f	file:
+free_pipe_list	cli_hush.c	/^static int free_pipe_list(struct pipe *head, int indent)$/;"	f	file:
+frontlink	dlmalloc.c	870;"	d	file:
+ft_verify_fdt	image-fdt.c	/^__weak int ft_verify_fdt(void *fdt)$/;"	f
+ftstc	console.c	/^int ftstc(int file)$/;"	f
+function	cli_hush.c	/^	int (*function) (struct child_prog *);	\/* function ptr *\/$/;"	m	struct:built_in_command	file:
+gAddressBase	dlmalloc.c	/^static unsigned int gAddressBase = 0;$/;"	v	file:
+gAllocatedSize	dlmalloc.c	/^static unsigned int gAllocatedSize = 0;$/;"	v	file:
+gNextAddress	dlmalloc.c	/^static unsigned int gNextAddress = 0;$/;"	v	file:
+gcleanup	dlmalloc.c	/^void gcleanup ()$/;"	f
+generate_stream_from_list	cli_hush.c	/^FILE *generate_stream_from_list(struct pipe *head)$/;"	f
+genimg_get_arch_id	image.c	/^int genimg_get_arch_id(const char *name)$/;"	f
+genimg_get_arch_name	image.c	/^const char *genimg_get_arch_name(uint8_t arch)$/;"	f
+genimg_get_arch_short_name	image.c	/^const char *genimg_get_arch_short_name(uint8_t arch)$/;"	f
+genimg_get_cat_count	image.c	/^int genimg_get_cat_count(enum ih_category category)$/;"	f
+genimg_get_cat_desc	image.c	/^const char *genimg_get_cat_desc(enum ih_category category)$/;"	f
+genimg_get_cat_name	image.c	/^const char *genimg_get_cat_name(enum ih_category category, uint id)$/;"	f
+genimg_get_cat_short_name	image.c	/^const char *genimg_get_cat_short_name(enum ih_category category, uint id)$/;"	f
+genimg_get_comp_id	image.c	/^int genimg_get_comp_id(const char *name)$/;"	f
+genimg_get_comp_name	image.c	/^const char *genimg_get_comp_name(uint8_t comp)$/;"	f
+genimg_get_comp_short_name	image.c	/^const char *genimg_get_comp_short_name(uint8_t comp)$/;"	f
+genimg_get_format	image.c	/^int genimg_get_format(const void *img_addr)$/;"	f
+genimg_get_kernel_addr	image.c	/^ulong genimg_get_kernel_addr(char * const img_addr)$/;"	f
+genimg_get_kernel_addr_fit	image.c	/^ulong genimg_get_kernel_addr_fit(char * const img_addr,$/;"	f
+genimg_get_os_id	image.c	/^int genimg_get_os_id(const char *name)$/;"	f
+genimg_get_os_name	image.c	/^const char *genimg_get_os_name(uint8_t os)$/;"	f
+genimg_get_os_short_name	image.c	/^const char *genimg_get_os_short_name(uint8_t os)$/;"	f
+genimg_get_short_name	image.c	/^static const char *genimg_get_short_name(const table_entry_t *table, int val)$/;"	f	file:
+genimg_get_type_id	image.c	/^int genimg_get_type_id(const char *name)$/;"	f
+genimg_get_type_name	image.c	/^const char *genimg_get_type_name(uint8_t type)$/;"	f
+genimg_get_type_short_name	image.c	/^const char *genimg_get_type_short_name(uint8_t type)$/;"	f
+genimg_has_config	image.c	/^int genimg_has_config(bootm_headers_t *images)$/;"	f
+genimg_print_size	image.c	/^void genimg_print_size(uint32_t size)$/;"	f
+genimg_print_time	image.c	/^void genimg_print_time(time_t timestamp)$/;"	f
+get	cli_hush.c	/^	int (*get) (struct in_str *);$/;"	m	struct:in_str	file:
+getDebugChar	kgdb_stubs.c	/^int getDebugChar(void)$/;"	f
+get_aligned_image_offset	spl/spl_fit.c	/^static int get_aligned_image_offset(struct spl_load_info *info, int offset)$/;"	f	file:
+get_aligned_image_overhead	spl/spl_fit.c	/^static int get_aligned_image_overhead(struct spl_load_info *info, int offset)$/;"	f	file:
+get_aligned_image_size	spl/spl_fit.c	/^static int get_aligned_image_size(struct spl_load_info *info, int data_size,$/;"	f	file:
+get_descriptor_len	usb.c	/^static int get_descriptor_len(struct usb_device *dev, int len, int expect_len)$/;"	f	file:
+get_dollar_var	cli_hush.c	/^static char *get_dollar_var(char ch)$/;"	f	file:
+get_effective_memsize	memsize.c	/^phys_size_t __weak get_effective_memsize(void)$/;"	f
+get_local_var	cli_hush.c	/^char *get_local_var(const char *s)$/;"	f
+get_operand_value	bedbug.c	/^int get_operand_value (struct opcode *op, unsigned long instr,$/;"	f
+get_partition	avb_verify.c	/^static struct mmc_part *get_partition(AvbOps *ops, const char *partition)$/;"	f	file:
+get_ram_size	memsize.c	/^long get_ram_size(long *base, long maxsize)$/;"	f
+get_record_name	bootstage.c	/^static const char *get_record_name(char *buf, int len,$/;"	f	file:
+get_table_entry	image.c	/^const table_entry_t *get_table_entry(const table_entry_t *table, int id)$/;"	f
+get_table_entry_id	image.c	/^int get_table_entry_id(const table_entry_t *table,$/;"	f
+get_table_entry_name	image.c	/^char *get_table_entry_name(const table_entry_t *table, char *msg, int id)$/;"	f
+get_unique_guid_for_partition	avb_verify.c	/^static AvbIOResult get_unique_guid_for_partition(AvbOps *ops,$/;"	f	file:
+get_user_input	cli_hush.c	/^static void get_user_input(struct in_str *i)$/;"	f	file:
+get_version	exports.c	/^unsigned long get_version(void)$/;"	f
+get_word	bedbug.c	/^int get_word (char **src, char *dest)$/;"	f
+getc	console.c	/^int getc(void)$/;"	f
+getcmd_cbeep	cli_readline.c	70;"	d	file:
+getcmd_getch	cli_readline.c	69;"	d	file:
+getcmd_putch	cli_readline.c	68;"	d	file:
+getcymodem	spl/spl_ymodem.c	/^static int getcymodem(void) {$/;"	f	file:
+getpacket	kgdb.c	/^getpacket(char *buffer)$/;"	f	file:
+glob_needed	cli_hush.c	/^static int glob_needed(const char *s)$/;"	f	file:
+glob_result	cli_hush.c	/^	glob_t glob_result;			\/* result of parameter globbing *\/$/;"	m	struct:child_prog	file:
+global_argc	cli_hush.c	/^unsigned int global_argc;$/;"	v
+global_argv	cli_hush.c	/^char **global_argv;$/;"	v
+globhack	cli_hush.c	/^static int globhack(const char *src, int flags, glob_t *pglob)$/;"	f	file:
+green_led_off	board_f.c	/^__weak void green_led_off(void) {}$/;"	f
+green_led_on	board_f.c	/^__weak void green_led_on(void) {}$/;"	f
+group	cli_hush.c	/^	struct pipe *group;			\/* if non-NULL, first in group or subshell *\/$/;"	m	struct:child_prog	typeref:struct:child_prog::pipe	file:
+h_compare_record	bootstage.c	/^static int h_compare_record(const void *r1, const void *r2)$/;"	f	file:
+h_spl_load_read	spl/spl_mmc.c	/^static ulong h_spl_load_read(struct spl_load_info *load, ulong sector,$/;"	f	file:
+had_ctrlc	console.c	/^int had_ctrlc (void)$/;"	f
+handle_bc	bedbug.c	/^int handle_bc (struct ppc_ctx *ctx)$/;"	f
+handle_decomp_error	bootm.c	/^static int handle_decomp_error(int comp_type, size_t uncomp_size,$/;"	f	file:
+handle_dollar	cli_hush.c	/^static int handle_dollar(o_string *dest, struct p_context *ctx, struct in_str *input)$/;"	f	file:
+handle_exception	kgdb.c	/^handle_exception (struct pt_regs *regs)$/;"	f	file:
+hash_algo	hash.c	/^static struct hash_algo hash_algo[] = {$/;"	v	typeref:struct:hash_algo	file:
+hash_block	hash.c	/^int hash_block(const char *algo_name, const void *data, unsigned int len,$/;"	f
+hash_command	hash.c	/^int hash_command(const char *algo_name, int flags, cmd_tbl_t *cmdtp, int flag,$/;"	f
+hash_finish_crc32	hash.c	/^static int hash_finish_crc32(struct hash_algo *algo, void *ctx, void *dest_buf,$/;"	f	file:
+hash_finish_sha1	hash.c	/^static int hash_finish_sha1(struct hash_algo *algo, void *ctx, void *dest_buf,$/;"	f	file:
+hash_finish_sha256	hash.c	/^static int hash_finish_sha256(struct hash_algo *algo, void *ctx, void$/;"	f	file:
+hash_init_crc32	hash.c	/^static int hash_init_crc32(struct hash_algo *algo, void **ctxp)$/;"	f	file:
+hash_init_sha1	hash.c	/^static int hash_init_sha1(struct hash_algo *algo, void **ctxp)$/;"	f	file:
+hash_init_sha256	hash.c	/^static int hash_init_sha256(struct hash_algo *algo, void **ctxp)$/;"	f	file:
+hash_lookup_algo	hash.c	/^int hash_lookup_algo(const char *algo_name, struct hash_algo **algop)$/;"	f
+hash_parse_string	hash.c	/^int hash_parse_string(const char *algo_name, const char *str, uint8_t *result)$/;"	f
+hash_progressive_lookup_algo	hash.c	/^int hash_progressive_lookup_algo(const char *algo_name,$/;"	f
+hash_show	hash.c	/^static void hash_show(struct hash_algo *algo, ulong addr, ulong len, uint8_t *output)$/;"	f	file:
+hash_update_crc32	hash.c	/^static int hash_update_crc32(struct hash_algo *algo, void *ctx,$/;"	f	file:
+hash_update_sha1	hash.c	/^static int hash_update_sha1(struct hash_algo *algo, void *ctx, const void *buf,$/;"	f	file:
+hash_update_sha256	hash.c	/^static int hash_update_sha256(struct hash_algo *algo, void *ctx,$/;"	f	file:
+head	dlmalloc.c	/^static GmListElement* head = 0;$/;"	v	file:
+hex	kgdb.c	/^hex(unsigned char ch)$/;"	f	file:
+hex1_bin	s_record.c	/^static int hex1_bin (char c)$/;"	f	file:
+hex2_bin	s_record.c	/^static int hex2_bin (char *s)$/;"	f	file:
+hex2mem	kgdb.c	/^hex2mem(char *buf, char *mem, int count)$/;"	f	file:
+hexToInt	kgdb.c	/^hexToInt(char **ptr, int *intValue)$/;"	f	file:
+hexchars	kgdb.c	/^static const char hexchars[]="0123456789abcdef";$/;"	v	file:
+hist_add_idx	cli_readline.c	/^static int hist_add_idx;$/;"	v	file:
+hist_cur	cli_readline.c	/^static int hist_cur = -1;$/;"	v	file:
+hist_init	cli_readline.c	/^static void hist_init(void)$/;"	f	file:
+hist_lines	cli_readline.c	/^static char hist_lines[HIST_MAX][HIST_SIZE + 1];	\/* Save room for NULL *\/$/;"	v	file:
+hist_list	cli_readline.c	/^static char *hist_list[HIST_MAX];$/;"	v	file:
+hist_max	cli_readline.c	/^static int hist_max;$/;"	v	file:
+hist_next	cli_readline.c	/^static char *hist_next(void)$/;"	f	file:
+hist_num	cli_readline.c	/^static unsigned hist_num;$/;"	v	file:
+hist_prev	cli_readline.c	/^static char *hist_prev(void)$/;"	f	file:
+host_blob	image-sig.c	/^void *host_blob;$/;"	v
+hub	usb_hub.c	/^	struct usb_hub_device *hub;	\/* USB hub struct *\/$/;"	m	struct:usb_device_scan	typeref:struct:usb_device_scan::usb_hub_device	file:
+hub_dev	usb_hub.c	/^static struct usb_hub_device hub_dev[USB_MAX_HUB];$/;"	v	typeref:struct:usb_hub_device	file:
+hub_id_table	usb_hub.c	/^static const struct usb_device_id hub_id_table[] = {$/;"	v	typeref:struct:usb_device_id	file:
+hush_main	cli_hush.c	/^int hush_main(int argc, char * const *argv)$/;"	f
+hush_main	cli_hush.c	115;"	d	file:
+hwconfig_arg_cmp_f	hwconfig.c	/^int hwconfig_arg_cmp_f(const char *opt, const char *arg, char *buf)$/;"	f
+hwconfig_arg_f	hwconfig.c	/^const char *hwconfig_arg_f(const char *opt, size_t *arglen, char *buf)$/;"	f
+hwconfig_f	hwconfig.c	/^int hwconfig_f(const char *opt, char *buf)$/;"	f
+hwconfig_parse	hwconfig.c	/^static const char *hwconfig_parse(const char *opts, size_t maxlen,$/;"	f	file:
+hwconfig_sub_f	hwconfig.c	/^int hwconfig_sub_f(const char *opt, const char *subopt, char *buf)$/;"	f
+hwconfig_subarg_cmp_f	hwconfig.c	/^int hwconfig_subarg_cmp_f(const char *opt, const char *subopt,$/;"	f
+hwconfig_subarg_f	hwconfig.c	/^const char *hwconfig_subarg_f(const char *opt, const char *subopt,$/;"	f
+id	bootstage.c	/^	enum bootstage_id id;$/;"	m	struct:bootstage_record	typeref:enum:bootstage_record::bootstage_id	file:
+idx2binblock	dlmalloc.c	668;"	d	file:
+ifnum	usb_storage.c	/^	unsigned char	ifnum;			\/* interface number *\/$/;"	m	struct:us_data	file:
+ifs	cli_hush.c	/^static uchar *ifs;$/;"	v	file:
+image_check_dcrc	image.c	/^int image_check_dcrc(const image_header_t *hdr)$/;"	f
+image_check_hcrc	image.c	/^int image_check_hcrc(const image_header_t *hdr)$/;"	f
+image_get_checksum_algo	image-sig.c	/^struct checksum_algo *image_get_checksum_algo(const char *full_name)$/;"	f
+image_get_crypto_algo	image-sig.c	/^struct crypto_algo *image_get_crypto_algo(const char *full_name)$/;"	f
+image_get_fdt	image-fdt.c	/^static const image_header_t *image_get_fdt(ulong fdt_addr)$/;"	f	file:
+image_get_host_blob	image-sig.c	/^void *image_get_host_blob(void)$/;"	f
+image_get_kernel	bootm.c	/^static image_header_t *image_get_kernel(ulong img_addr, int verify)$/;"	f	file:
+image_get_ramdisk	image.c	/^static const image_header_t *image_get_ramdisk(ulong rd_addr, uint8_t arch,$/;"	f	file:
+image_multi_count	image.c	/^ulong image_multi_count(const image_header_t *hdr)$/;"	f
+image_multi_getimg	image.c	/^void image_multi_getimg(const image_header_t *hdr, ulong idx,$/;"	f
+image_print_contents	image.c	/^void image_print_contents(const void *ptr)$/;"	f
+image_print_type	image.c	/^static void image_print_type(const image_header_t *hdr)$/;"	f	file:
+image_read	spl/spl_ymodem.c	/^	int image_read;$/;"	m	struct:ymodem_fit_info	file:
+image_set_host_blob	image-sig.c	/^void image_set_host_blob(void *blob)$/;"	f
+image_setup_libfdt	image-fdt.c	/^int image_setup_libfdt(bootm_headers_t *images, void *blob,$/;"	f
+image_setup_linux	image.c	/^int image_setup_linux(bootm_headers_t *images)$/;"	f
+images	bootm.c	/^bootm_headers_t images;		\/* pointers to os\/initrd\/fdt images *\/$/;"	v
+in_str	cli_hush.c	/^struct in_str {$/;"	s	file:
+indenter	cli_hush.c	/^static char *indenter(int i)$/;"	f	file:
+init_baud_rate	board_f.c	/^static int init_baud_rate(void)$/;"	f	file:
+init_func_i2c	board_f.c	/^static int init_func_i2c(void)$/;"	f	file:
+init_func_spi	board_f.c	/^static int init_func_spi(void)$/;"	f	file:
+init_func_vid	board_f.c	/^__weak int init_func_vid(void)$/;"	f
+init_func_watchdog_init	board_f.c	/^static int init_func_watchdog_init(void)$/;"	f	file:
+init_func_watchdog_reset	board_f.c	/^int init_func_watchdog_reset(void)$/;"	f
+init_post	board_f.c	/^static int init_post(void)$/;"	f	file:
+init_sequence_f	board_f.c	/^static const init_fnc_t init_sequence_f[] = {$/;"	v	file:
+init_sequence_f_r	board_f.c	/^static const init_fnc_t init_sequence_f_r[] = {$/;"	v	file:
+init_sequence_r	board_r.c	/^static init_fnc_t init_sequence_r[] = {$/;"	v	file:
+initf_bootstage	board_f.c	/^static int initf_bootstage(void)$/;"	f	file:
+initf_console_record	board_f.c	/^static int initf_console_record(void)$/;"	f	file:
+initf_dm	board_f.c	/^static int initf_dm(void)$/;"	f	file:
+initf_malloc	dlmalloc.c	/^int initf_malloc(void)$/;"	f
+initial_top	dlmalloc.c	538;"	d	file:
+initialize_context	cli_hush.c	/^static void initialize_context(struct p_context *ctx)$/;"	f	file:
+initialized	kgdb.c	/^static int initialized = 0;$/;"	v	file:
+initr_addr_map	board_r.c	/^static int initr_addr_map(void)$/;"	f	file:
+initr_announce	board_r.c	/^static int initr_announce(void)$/;"	f	file:
+initr_api	board_r.c	/^static int initr_api(void)$/;"	f	file:
+initr_barrier	board_r.c	/^static int initr_barrier(void)$/;"	f	file:
+initr_bbmii	board_r.c	/^static int initr_bbmii(void)$/;"	f	file:
+initr_bedbug	board_r.c	/^static int initr_bedbug(void)$/;"	f	file:
+initr_bootstage	board_r.c	/^static int initr_bootstage(void)$/;"	f	file:
+initr_caches	board_r.c	/^static int initr_caches(void)$/;"	f	file:
+initr_console_record	board_r.c	/^static int initr_console_record(void)$/;"	f	file:
+initr_dm	board_r.c	/^static int initr_dm(void)$/;"	f	file:
+initr_enable_interrupts	board_r.c	/^static int initr_enable_interrupts(void)$/;"	f	file:
+initr_env	board_r.c	/^static int initr_env(void)$/;"	f	file:
+initr_ethaddr	board_r.c	/^static int initr_ethaddr(void)$/;"	f	file:
+initr_flash	board_r.c	/^static int initr_flash(void)$/;"	f	file:
+initr_ide	board_r.c	/^static int initr_ide(void)$/;"	f	file:
+initr_jumptable	board_r.c	/^static int initr_jumptable(void)$/;"	f	file:
+initr_kgdb	board_r.c	/^static int initr_kgdb(void)$/;"	f	file:
+initr_malloc	board_r.c	/^static int initr_malloc(void)$/;"	f	file:
+initr_malloc_bootparams	board_r.c	/^static int initr_malloc_bootparams(void)$/;"	f	file:
+initr_manual_reloc_cmdtable	board_r.c	/^static int initr_manual_reloc_cmdtable(void)$/;"	f	file:
+initr_mem	board_r.c	/^int initr_mem(void)$/;"	f
+initr_mmc	board_r.c	/^static int initr_mmc(void)$/;"	f	file:
+initr_nand	board_r.c	/^static int initr_nand(void)$/;"	f	file:
+initr_net	board_r.c	/^static int initr_net(void)$/;"	f	file:
+initr_noncached	board_r.c	/^static int initr_noncached(void)$/;"	f	file:
+initr_of_live	board_r.c	/^static int initr_of_live(void)$/;"	f	file:
+initr_onenand	board_r.c	/^static int initr_onenand(void)$/;"	f	file:
+initr_pci	board_r.c	/^static int initr_pci(void)$/;"	f	file:
+initr_pcmcia	board_r.c	/^static int initr_pcmcia(void)$/;"	f	file:
+initr_post	board_r.c	/^static int initr_post(void)$/;"	f	file:
+initr_post_backlog	board_r.c	/^static int initr_post_backlog(void)$/;"	f	file:
+initr_reloc	board_r.c	/^static int initr_reloc(void)$/;"	f	file:
+initr_reloc_global_data	board_r.c	/^static int initr_reloc_global_data(void)$/;"	f	file:
+initr_scsi	board_r.c	/^static int initr_scsi(void)$/;"	f	file:
+initr_secondary_cpu	board_r.c	/^static int initr_secondary_cpu(void)$/;"	f	file:
+initr_serial	board_r.c	/^static int initr_serial(void)$/;"	f	file:
+initr_spi	board_r.c	/^static int initr_spi(void)$/;"	f	file:
+initr_status_led	board_r.c	/^static int initr_status_led(void)$/;"	f	file:
+initr_trace	board_r.c	/^static int initr_trace(void)$/;"	f	file:
+initr_trap	board_r.c	/^static int initr_trap(void)$/;"	f	file:
+initr_unlock_ram_in_cache	board_r.c	/^static int initr_unlock_ram_in_cache(void)$/;"	f	file:
+insert_bg_job	cli_hush.c	/^static void insert_bg_job(struct pipe *pi)$/;"	f	file:
+insert_var_value	cli_hush.c	/^static char *insert_var_value(char *inp)$/;"	f	file:
+insert_var_value_sub	cli_hush.c	/^static char *insert_var_value_sub(char *inp, int tag_subst)$/;"	f	file:
+interactive	cli_hush.c	/^static int interactive;$/;"	v	file:
+intinterval	usb_kbd.c	/^	int		intinterval;$/;"	m	struct:usb_kbd_pdata	file:
+intpipe	usb_kbd.c	/^	unsigned long	intpipe;$/;"	m	struct:usb_kbd_pdata	file:
+intpktsize	usb_kbd.c	/^	int		intpktsize;$/;"	m	struct:usb_kbd_pdata	file:
+intq	usb_kbd.c	/^	struct int_queue *intq;$/;"	m	struct:usb_kbd_pdata	typeref:struct:usb_kbd_pdata::int_queue	file:
+inuse	dlmalloc.c	420;"	d	file:
+inuse_bit_at_offset	dlmalloc.c	441;"	d	file:
+iomux_doenv	iomux.c	/^int iomux_doenv(const int console, const char *arg)$/;"	f
+iomux_printdevs	iomux.c	/^void iomux_printdevs(const int console)$/;"	f
+iotrace	iotrace.c	/^static struct iotrace {$/;"	s	file:
+iotrace	iotrace.c	/^} iotrace;$/;"	v	typeref:struct:iotrace	file:
+iotrace_get_buffer	iotrace.c	/^void iotrace_get_buffer(ulong *start, ulong *size, ulong *needed_size, ulong *offset, ulong *count)$/;"	f
+iotrace_get_checksum	iotrace.c	/^u32 iotrace_get_checksum(void)$/;"	f
+iotrace_get_enabled	iotrace.c	/^int iotrace_get_enabled(void)$/;"	f
+iotrace_get_region	iotrace.c	/^void iotrace_get_region(ulong *start, ulong *size)$/;"	f
+iotrace_readb	iotrace.c	/^u8 iotrace_readb(const void *ptr)$/;"	f
+iotrace_readl	iotrace.c	/^u32 iotrace_readl(const void *ptr)$/;"	f
+iotrace_readw	iotrace.c	/^u16 iotrace_readw(const void *ptr)$/;"	f
+iotrace_reset_checksum	iotrace.c	/^void iotrace_reset_checksum(void)$/;"	f
+iotrace_reset_region	iotrace.c	/^void iotrace_reset_region(void)$/;"	f
+iotrace_set_buffer	iotrace.c	/^void iotrace_set_buffer(ulong start, ulong size)$/;"	f
+iotrace_set_enabled	iotrace.c	/^void iotrace_set_enabled(int enable)$/;"	f
+iotrace_set_region	iotrace.c	/^void iotrace_set_region(ulong start, ulong size)$/;"	f
+iotrace_writeb	iotrace.c	/^void iotrace_writeb(ulong value, const void *ptr)$/;"	f
+iotrace_writel	iotrace.c	/^void iotrace_writel(ulong value, const void *ptr)$/;"	f
+iotrace_writew	iotrace.c	/^void iotrace_writew(ulong value, const void *ptr)$/;"	f
+ip_data	usb_storage.c	/^	unsigned short	ip_data;		\/* interrupt data *\/$/;"	m	struct:us_data	file:
+ip_wanted	usb_storage.c	/^	int		ip_wanted;		\/* needed *\/$/;"	m	struct:us_data	file:
+irq_handle	usb_storage.c	/^	int		*irq_handle;		\/* for USB int requests *\/$/;"	m	struct:us_data	file:
+irqinterval	usb_storage.c	/^	unsigned char	irqinterval;		\/* Intervall for IRQ Pipe *\/$/;"	m	struct:us_data	file:
+irqmaxp	usb_storage.c	/^	unsigned char	irqmaxp;		\/* max packed for irq Pipe *\/$/;"	m	struct:us_data	file:
+irqpipe	usb_storage.c	/^	unsigned int	irqpipe;	 	\/* pipe for release_irq *\/$/;"	m	struct:us_data	file:
+is_assignment	cli_hush.c	/^static int is_assignment(const char *s)$/;"	f	file:
+is_small_request	dlmalloc.c	647;"	d	file:
+is_stopped	cli_hush.c	/^	int is_stopped;				\/* is the program currently running? *\/$/;"	m	struct:child_prog	file:
+item_choice	menu.c	/^	char *(*item_choice)(void *);$/;"	m	struct:menu	file:
+item_choice_data	menu.c	/^	void *item_choice_data;$/;"	m	struct:menu	file:
+item_data_print	menu.c	/^	void (*item_data_print)(void *);$/;"	m	struct:menu	file:
+items	menu.c	/^	struct list_head items;$/;"	m	struct:menu	typeref:struct:menu::list_head	file:
+job_context	cli_hush.c	/^	int job_context;			\/* bitmask defining current context *\/$/;"	m	struct:pipe	file:
+job_list	cli_hush.c	/^static struct pipe *job_list;$/;"	v	typeref:struct:pipe	file:
+jobid	cli_hush.c	/^	int jobid;					\/* job number *\/$/;"	m	struct:pipe	file:
+jump_to_copy	board_f.c	/^static int jump_to_copy(void)$/;"	f	file:
+jump_to_image_no_args	spl/spl.c	/^__weak void __noreturn jump_to_image_no_args(struct spl_image_info *spl_image)$/;"	f
+jumptable_init	exports.c	/^void jumptable_init(void)$/;"	f
+kbd_id_table	usb_kbd.c	/^static const struct usb_device_id kbd_id_table[] = {$/;"	v	typeref:struct:usb_device_id	file:
+kbd_testc_tms	usb_kbd.c	/^static unsigned long __maybe_unused kbd_testc_tms;$/;"	v	file:
+kdebug	kgdb.c	/^static int kdebug = 1;$/;"	v	file:
+key	menu.c	/^	char *key;$/;"	m	struct:menu_item	file:
+kgdb_active	kgdb.c	/^static int kgdb_active;$/;"	v	file:
+kgdb_error	kgdb.c	/^kgdb_error(int errnum)$/;"	f
+kgdb_flush_cache_all	kgdb_stubs.c	/^void kgdb_flush_cache_all(void)$/;"	f
+kgdb_flush_cache_range	kgdb_stubs.c	/^void kgdb_flush_cache_range(void *from, void *to)$/;"	f
+kgdb_init	kgdb.c	/^kgdb_init(void)$/;"	f
+kgdb_interruptible	kgdb_stubs.c	/^void kgdb_interruptible(int yes)$/;"	f
+kgdb_output_string	kgdb.c	/^kgdb_output_string (const char* s, unsigned int count)$/;"	f
+kgdb_serial_init	kgdb_stubs.c	/^void kgdb_serial_init(void)$/;"	f
+last	dlmalloc.c	618;"	d	file:
+last_bg_pid	cli_hush.c	/^static unsigned int last_bg_pid;$/;"	v	file:
+last_jobid	cli_hush.c	/^static unsigned int last_jobid;$/;"	v	file:
+last_remainder	dlmalloc.c	528;"	d	file:
+last_report	usb_kbd.c	/^	unsigned long	last_report;$/;"	m	struct:usb_kbd_pdata	file:
+last_return_code	cli_hush.c	/^static unsigned int last_return_code;$/;"	v	file:
+layout_unknown	eeprom/eeprom_layout.c	/^struct eeprom_field layout_unknown[1] = {$/;"	v	typeref:struct:eeprom_field
+lcd_base	lcd.c	/^static void *lcd_base;			\/* Start of framebuffer memory	*\/$/;"	v	file:
+lcd_clear	lcd.c	/^void lcd_clear(void)$/;"	f
+lcd_color_bg	lcd.c	/^static int lcd_color_bg;$/;"	v	file:
+lcd_color_fg	lcd.c	/^static int lcd_color_fg;$/;"	v	file:
+lcd_display_bitmap	lcd.c	/^int lcd_display_bitmap(ulong bmp_image, int x, int y)$/;"	f
+lcd_display_rle8_bitmap	lcd.c	/^static void lcd_display_rle8_bitmap(struct bmp_image *bmp, ushort *cmap,$/;"	f	file:
+lcd_dt_simplefb_add_node	lcd_simplefb.c	/^int lcd_dt_simplefb_add_node(void *blob)$/;"	f
+lcd_dt_simplefb_configure_node	lcd_simplefb.c	/^static int lcd_dt_simplefb_configure_node(void *blob, int off)$/;"	f	file:
+lcd_dt_simplefb_enable_existing_node	lcd_simplefb.c	/^int lcd_dt_simplefb_enable_existing_node(void *blob)$/;"	f
+lcd_flush_dcache	lcd.c	/^static char lcd_flush_dcache;	\/* 1 to flush dcache after each lcd update *\/$/;"	v	file:
+lcd_get_pixel_height	lcd.c	/^int lcd_get_pixel_height(void)$/;"	f
+lcd_get_pixel_width	lcd.c	/^int lcd_get_pixel_width(void)$/;"	f
+lcd_get_screen_columns	lcd_console.c	/^int lcd_get_screen_columns(void)$/;"	f
+lcd_get_screen_rows	lcd_console.c	/^int lcd_get_screen_rows(void)$/;"	f
+lcd_get_size	lcd.c	/^__weak int lcd_get_size(int *line_length)$/;"	f
+lcd_getbgcolor	lcd.c	/^int lcd_getbgcolor(void)$/;"	f
+lcd_getfgcolor	lcd.c	/^int lcd_getfgcolor(void)$/;"	f
+lcd_init	lcd.c	/^static int lcd_init(void *lcdbase)$/;"	f	file:
+lcd_init_console	lcd_console.c	/^void lcd_init_console(void *address, int vl_cols, int vl_rows, int vl_rot)$/;"	f
+lcd_init_console_rot	lcd_console.c	/^void __weak lcd_init_console_rot(struct console_t *pcons)$/;"	f
+lcd_init_console_rot	lcd_console_rotation.c	/^void lcd_init_console_rot(struct console_t *pcons)$/;"	f
+lcd_is_enabled	lcd.c	/^char lcd_is_enabled = 0;$/;"	v
+lcd_line_length	lcd.c	/^int lcd_line_length;$/;"	v
+lcd_logo	lcd.c	/^static void lcd_logo(void)$/;"	f	file:
+lcd_logo_plot	lcd.c	/^static inline void lcd_logo_plot(int x, int y) {}$/;"	f	file:
+lcd_logo_plot	lcd.c	/^void lcd_logo_plot(int x, int y)$/;"	f
+lcd_logo_set_cmap	lcd.c	/^__weak void lcd_logo_set_cmap(void)$/;"	f
+lcd_position_cursor	lcd_console.c	/^void lcd_position_cursor(unsigned col, unsigned row)$/;"	f
+lcd_printf	lcd_console.c	/^void lcd_printf(const char *fmt, ...)$/;"	f
+lcd_putc	lcd_console.c	/^void lcd_putc(const char c)$/;"	f
+lcd_putc_xy0	lcd_console.c	/^static void lcd_putc_xy0(struct console_t *pcons, ushort x, ushort y, char c)$/;"	f	file:
+lcd_putc_xy180	lcd_console_rotation.c	/^static void lcd_putc_xy180(struct console_t *pcons, ushort x, ushort y, char c)$/;"	f	file:
+lcd_putc_xy270	lcd_console_rotation.c	/^static void lcd_putc_xy270(struct console_t *pcons, ushort x, ushort y, char c)$/;"	f	file:
+lcd_putc_xy90	lcd_console_rotation.c	/^static void lcd_putc_xy90(struct console_t *pcons, ushort x, ushort y, char c)$/;"	f	file:
+lcd_puts	lcd_console.c	/^void lcd_puts(const char *s)$/;"	f
+lcd_set_cmap	lcd.c	/^__weak void lcd_set_cmap(struct bmp_image *bmp, unsigned colors)$/;"	f
+lcd_set_col	lcd_console.c	/^void lcd_set_col(short col)$/;"	f
+lcd_set_flush_dcache	lcd.c	/^void lcd_set_flush_dcache(int flush)$/;"	f
+lcd_set_row	lcd_console.c	/^void lcd_set_row(short row)$/;"	f
+lcd_setbgcolor	lcd.c	/^static void lcd_setbgcolor(int color)$/;"	f	file:
+lcd_setfgcolor	lcd.c	/^static void lcd_setfgcolor(int color)$/;"	f	file:
+lcd_setmem	lcd.c	/^ulong lcd_setmem(ulong addr)$/;"	f
+lcd_splash	splash.c	/^int lcd_splash(ulong addr)$/;"	f
+lcd_stub_putc	lcd.c	/^static void lcd_stub_putc(struct stdio_dev *dev, const char c)$/;"	f	file:
+lcd_stub_puts	lcd.c	/^static void lcd_stub_puts(struct stdio_dev *dev, const char *s)$/;"	f	file:
+lcd_sync	lcd.c	/^void lcd_sync(void)$/;"	f
+len	xyzModem.c	/^  int len, mode, total_retries;$/;"	m	struct:__anon8	file:
+length	cli_hush.c	/^	int length;$/;"	m	struct:__anon7	file:
+link_last_remainder	dlmalloc.c	912;"	d	file:
+list	menu.c	/^	struct list_head list;$/;"	m	struct:menu_item	typeref:struct:menu_item::list_head	file:
+list	usb_hub.c	/^	struct list_head list;$/;"	m	struct:usb_device_scan	typeref:struct:usb_device_scan::list_head	file:
+list_head	cli_hush.c	/^	struct pipe *list_head;$/;"	m	struct:p_context	typeref:struct:p_context::pipe	file:
+literal	cli_hush.c	/^	char *literal;$/;"	m	struct:reserved_combo	file:
+lmb_reserve	bootm.c	70;"	d	file:
+load_addr	image.c	/^ulong load_addr = CONFIG_SYS_LOAD_ADDR;	\/* Default Load Address *\/$/;"	v
+locate_dtb_in_fit	boot_fit.c	/^void *locate_dtb_in_fit(const void *fit)$/;"	f
+log_add_filter	log.c	/^int log_add_filter(const char *drv_name, enum log_category_t cat_list[],$/;"	f
+log_cat_name	log.c	/^static const char *log_cat_name[LOGC_COUNT - LOGC_NONE] = {$/;"	v	file:
+log_console_emit	log_console.c	/^static int log_console_emit(struct log_device *ldev, struct log_rec *rec)$/;"	f	file:
+log_device_find_by_name	log.c	/^static struct log_device *log_device_find_by_name(const char *drv_name)$/;"	f	file:
+log_dispatch	log.c	/^static int log_dispatch(struct log_rec *rec)$/;"	f	file:
+log_get_cat_by_name	log.c	/^enum log_category_t log_get_cat_by_name(const char *name)$/;"	f
+log_get_cat_name	log.c	/^const char *log_get_cat_name(enum log_category_t cat)$/;"	f
+log_get_level_by_name	log.c	/^enum log_level_t log_get_level_by_name(const char *name)$/;"	f
+log_get_level_name	log.c	/^const char *log_get_level_name(enum log_level_t level)$/;"	f
+log_has_cat	log.c	/^static bool log_has_cat(enum log_category_t cat_list[], enum log_category_t cat)$/;"	f	file:
+log_has_file	log.c	/^static bool log_has_file(const char *file_list, const char *file)$/;"	f	file:
+log_init	log.c	/^int log_init(void)$/;"	f
+log_level_name	log.c	/^static const char *log_level_name[LOGL_COUNT] = {$/;"	v	file:
+log_passes_filters	log.c	/^static bool log_passes_filters(struct log_device *ldev, struct log_rec *rec)$/;"	f	file:
+log_remove_filter	log.c	/^int log_remove_filter(const char *drv_name, int filter_num)$/;"	f
+longjmp_on_fault	kgdb.c	/^static int longjmp_on_fault = 0;$/;"	v	file:
+lookup_param	cli_hush.c	/^static char *lookup_param(char *src)$/;"	f	file:
+mALLINFo	dlmalloc.c	/^struct mallinfo mALLINFo()$/;"	f
+mALLOPt	dlmalloc.c	/^int mALLOPt(int param_number, int value)$/;"	f
+mALLOc	dlmalloc.c	/^Void_t* mALLOc(size_t bytes)$/;"	f
+mEMALIGn	dlmalloc.c	/^Void_t* mEMALIGn(size_t alignment, size_t bytes)$/;"	f
+mach_cpu_init	board_f.c	/^__weak int mach_cpu_init(void)$/;"	f
+magic	bootstage.c	/^	uint32_t magic;		\/* Unused *\/$/;"	m	struct:bootstage_hdr	file:
+main	hwconfig.c	/^int main()$/;"	f
+main_loop	main.c	/^void main_loop(void)$/;"	f
+makeGmListElement	dlmalloc.c	/^GmListElement* makeGmListElement (void* bas)$/;"	f	file:
+make_argv	command.c	/^static int make_argv(char *s, int argvsz, char *argv[])$/;"	f	file:
+make_list_in	cli_hush.c	/^static char **make_list_in(char **inp, char *name)$/;"	f	file:
+make_string	cli_hush.c	/^static char *make_string(char **inp, int *nonnull)$/;"	f	file:
+malloc_bin_reloc	dlmalloc.c	/^static inline void malloc_bin_reloc(void) {}$/;"	f	file:
+malloc_bin_reloc	dlmalloc.c	/^static void malloc_bin_reloc(void)$/;"	f	file:
+malloc_chunk	dlmalloc.c	/^struct malloc_chunk$/;"	s	file:
+malloc_extend_top	dlmalloc.c	/^static void malloc_extend_top(INTERNAL_SIZE_T nb)$/;"	f	file:
+malloc_simple	malloc_simple.c	/^void *malloc_simple(size_t bytes)$/;"	f
+malloc_stats	dlmalloc.c	/^void malloc_stats()$/;"	f
+malloc_trim	dlmalloc.c	/^int malloc_trim(size_t pad)$/;"	f
+malloc_update_mallinfo	dlmalloc.c	/^static void malloc_update_mallinfo()$/;"	f	file:
+malloc_usable_size	dlmalloc.c	/^size_t malloc_usable_size(Void_t* mem)$/;"	f
+map	cli_hush.c	/^static char map[256];$/;"	v	file:
+map	fdt_support.c	/^	u64		(*map)(fdt32_t *addr, const fdt32_t *range,$/;"	m	struct:of_bus	file:
+mapset	cli_hush.c	/^static void mapset(const unsigned char *set, int code)$/;"	f	file:
+mark_binblock	dlmalloc.c	669;"	d	file:
+mark_closed	cli_hush.c	/^static void mark_closed(int fd)$/;"	f	file:
+mark_open	cli_hush.c	/^static void mark_open(int fd)$/;"	f	file:
+mass_storage_id_table	usb_storage.c	/^static const struct usb_device_id mass_storage_id_table[] = {$/;"	v	typeref:struct:usb_device_id	file:
+match	fdt_support.c	/^	int		(*match)(const void *blob, int parentoffset);$/;"	m	struct:of_bus	file:
+max_mmapped_mem	dlmalloc.c	/^static unsigned long max_mmapped_mem = 0;$/;"	v	file:
+max_n_mmaps	dlmalloc.c	/^static unsigned int max_n_mmaps = 0;$/;"	v	file:
+max_sbrked_mem	dlmalloc.c	/^static unsigned long max_sbrked_mem = 0;$/;"	v	file:
+max_total_mem	dlmalloc.c	/^static unsigned long max_total_mem = 0;$/;"	v	file:
+max_xfer_blk	usb_storage.c	/^	unsigned short	max_xfer_blk;		\/* maximum transfer blocks *\/$/;"	m	struct:us_data	file:
+maxlen	cli_hush.c	/^	int maxlen;$/;"	m	struct:__anon7	file:
+mbinptr	dlmalloc.c	/^typedef struct malloc_chunk* mbinptr;$/;"	t	typeref:struct:malloc_chunk	file:
+mchunkptr	dlmalloc.c	/^typedef struct malloc_chunk* mchunkptr;$/;"	t	typeref:struct:malloc_chunk	file:
+mdio_alloc	miiphyutil.c	/^struct mii_dev *mdio_alloc(void)$/;"	f
+mdio_free	miiphyutil.c	/^void mdio_free(struct mii_dev *bus)$/;"	f
+mdio_get_current_dev	exports.c	20;"	d	file:
+mdio_get_current_dev	miiphyutil.c	/^struct mii_dev *mdio_get_current_dev(void)$/;"	f
+mdio_list_devices	miiphyutil.c	/^void mdio_list_devices(void)$/;"	f
+mdio_phydev_for_ethname	exports.c	22;"	d	file:
+mdio_phydev_for_ethname	miiphyutil.c	/^struct phy_device *mdio_phydev_for_ethname(const char *ethname)$/;"	f
+mdio_register	miiphyutil.c	/^int mdio_register(struct mii_dev *bus)$/;"	f
+mdio_register_seq	miiphyutil.c	/^int mdio_register_seq(struct mii_dev *bus, int seq)$/;"	f
+mdio_unregister	miiphyutil.c	/^int mdio_unregister(struct mii_dev *bus)$/;"	f
+mem2chunk	dlmalloc.c	363;"	d	file:
+mem2hex	kgdb.c	/^mem2hex(char *mem, char *buf, int count)$/;"	f	file:
+mem_malloc_brk	dlmalloc.c	/^ulong mem_malloc_brk = 0;$/;"	v
+mem_malloc_end	dlmalloc.c	/^ulong mem_malloc_end = 0;$/;"	v
+mem_malloc_init	dlmalloc.c	/^void mem_malloc_init(ulong start, ulong size)$/;"	f
+mem_malloc_start	dlmalloc.c	/^ulong mem_malloc_start = 0;$/;"	v
+memalign_simple	malloc_simple.c	/^void *memalign_simple(size_t align, size_t bytes)$/;"	f
+memmove_wd	bootm.c	/^void memmove_wd(void *to, void *from, size_t len, ulong chunksz)$/;"	f
+memmove_wd	image.c	/^void memmove_wd(void *to, void *from, size_t len, ulong chunksz)$/;"	f
+menu	menu.c	/^struct menu {$/;"	s	file:
+menu_create	menu.c	/^struct menu *menu_create(char *title, int timeout, int prompt,$/;"	f
+menu_default_choice	menu.c	/^int menu_default_choice(struct menu *m, void **choice)$/;"	f
+menu_default_set	menu.c	/^int menu_default_set(struct menu *m, char *item_key)$/;"	f
+menu_destroy	menu.c	/^int menu_destroy(struct menu *m)$/;"	f
+menu_display	menu.c	/^static inline void menu_display(struct menu *m)$/;"	f	file:
+menu_display_statusline	menu.c	/^__weak void menu_display_statusline(struct menu *m)$/;"	f
+menu_get_choice	menu.c	/^int menu_get_choice(struct menu *m, void **choice)$/;"	f
+menu_interactive_choice	menu.c	/^static inline int menu_interactive_choice(struct menu *m, void **choice)$/;"	f	file:
+menu_item	menu.c	/^struct menu_item {$/;"	s	file:
+menu_item_add	menu.c	/^int menu_item_add(struct menu *m, char *item_key, void *item_data)$/;"	f
+menu_item_by_key	menu.c	/^static inline struct menu_item *menu_item_by_key(struct menu *m,$/;"	f	file:
+menu_item_destroy	menu.c	/^static inline void *menu_item_destroy(struct menu *m,$/;"	f	file:
+menu_item_key_match	menu.c	/^static inline void *menu_item_key_match(struct menu *m,$/;"	f	file:
+menu_item_print	menu.c	/^static inline void *menu_item_print(struct menu *m,$/;"	f	file:
+menu_items_iter	menu.c	/^static inline void *menu_items_iter(struct menu *m,$/;"	f	file:
+menukey	autoboot.c	/^static int menukey;$/;"	v	file:
+mii_devs	miiphyutil.c	/^static struct list_head mii_devs;$/;"	v	typeref:struct:list_head	file:
+miiphy_duplex	miiphyutil.c	/^int miiphy_duplex(const char *devname, unsigned char addr)$/;"	f
+miiphy_get_active_dev	miiphyutil.c	/^static struct mii_dev *miiphy_get_active_dev(const char *devname)$/;"	f	file:
+miiphy_get_current_dev	miiphyutil.c	/^const char *miiphy_get_current_dev(void)$/;"	f
+miiphy_get_dev_by_name	miiphyutil.c	/^struct mii_dev *miiphy_get_dev_by_name(const char *devname)$/;"	f
+miiphy_info	miiphyutil.c	/^int miiphy_info(const char *devname, unsigned char addr, unsigned int *oui,$/;"	f
+miiphy_init	miiphyutil.c	/^void miiphy_init(void)$/;"	f
+miiphy_is_1000base_x	miiphyutil.c	/^int miiphy_is_1000base_x(const char *devname, unsigned char addr)$/;"	f
+miiphy_link	miiphyutil.c	/^int miiphy_link(const char *devname, unsigned char addr)$/;"	f
+miiphy_listdev	miiphyutil.c	/^void miiphy_listdev(void)$/;"	f
+miiphy_read	miiphyutil.c	/^int miiphy_read(const char *devname, unsigned char addr, unsigned char reg,$/;"	f
+miiphy_reset	miiphyutil.c	/^int miiphy_reset(const char *devname, unsigned char addr)$/;"	f
+miiphy_set_current_dev	exports.c	23;"	d	file:
+miiphy_set_current_dev	miiphyutil.c	/^int miiphy_set_current_dev(const char *devname)$/;"	f
+miiphy_speed	miiphyutil.c	/^int miiphy_speed(const char *devname, unsigned char addr)$/;"	f
+miiphy_write	miiphyutil.c	/^int miiphy_write(const char *devname, unsigned char addr, unsigned char reg,$/;"	f
+min	hwconfig.c	23;"	d	file:
+mmap_chunk	dlmalloc.c	/^static mchunkptr mmap_chunk(size_t size)$/;"	f	file:
+mmap_threshold	dlmalloc.c	/^static unsigned long mmap_threshold   = DEFAULT_MMAP_THRESHOLD;$/;"	v	file:
+mmapped_mem	dlmalloc.c	/^static unsigned long mmapped_mem = 0;$/;"	v	file:
+mmc_byte_io	avb_verify.c	/^static AvbIOResult mmc_byte_io(AvbOps *ops,$/;"	f	file:
+mmc_load_image_raw_os	spl/spl_mmc.c	/^static int mmc_load_image_raw_os(struct spl_image_info *spl_image,$/;"	f	file:
+mmc_load_image_raw_partition	spl/spl_mmc.c	/^static int mmc_load_image_raw_partition(struct spl_image_info *spl_image,$/;"	f	file:
+mmc_load_image_raw_sector	spl/spl_mmc.c	/^int mmc_load_image_raw_sector(struct spl_image_info *spl_image,$/;"	f	file:
+mmc_load_legacy	spl/spl_mmc.c	/^static int mmc_load_legacy(struct spl_image_info *spl_image, struct mmc *mmc,$/;"	f	file:
+mmc_read_and_flush	avb_verify.c	/^static unsigned long mmc_read_and_flush(struct mmc_part *part,$/;"	f	file:
+mmc_write	avb_verify.c	/^static unsigned long mmc_write(struct mmc_part *part, lbaint_t start,$/;"	f	file:
+mode	cli_hush.c	/^struct {int mode; int default_fd; char *descrip;} redir_table[] = {$/;"	m	struct:__anon4	file:
+mode	xyzModem.c	/^  int len, mode, total_retries;$/;"	m	struct:__anon8	file:
+monitor_flash_len	board_r.c	/^ulong monitor_flash_len;$/;"	v
+mremap_chunk	dlmalloc.c	/^static mchunkptr mremap_chunk(mchunkptr p, size_t new_size)$/;"	f	file:
+multi_hash	hash.c	176;"	d	file:
+multi_hash	hash.c	178;"	d	file:
+munmap_chunk	dlmalloc.c	/^static void munmap_chunk(mchunkptr p)$/;"	f	file:
+n_mmaps	dlmalloc.c	/^static unsigned int n_mmaps = 0;$/;"	v	file:
+n_mmaps_max	dlmalloc.c	/^static unsigned int  n_mmaps_max      = DEFAULT_MMAP_MAX;$/;"	v	file:
+name	bootstage.c	/^	const char *name;$/;"	m	struct:bootstage_record	file:
+name	cli_hush.c	/^	char *name;$/;"	m	struct:variables	file:
+name	fdt_support.c	/^	const char	*name;$/;"	m	struct:of_bus	file:
+needed_size	iotrace.c	/^	ulong needed_size;$/;"	m	struct:iotrace	file:
+new	usb_kbd.c	/^	uint8_t		*new;$/;"	m	struct:usb_kbd_pdata	file:
+new_pipe	cli_hush.c	/^static struct pipe *new_pipe(void)$/;"	f	file:
+next	cli_hush.c	/^	struct close_me *next;$/;"	m	struct:close_me	typeref:struct:close_me::close_me	file:
+next	cli_hush.c	/^	struct pipe *next;			\/* to track background commands *\/$/;"	m	struct:pipe	typeref:struct:pipe::pipe	file:
+next	cli_hush.c	/^	struct redir_struct *next;	\/* pointer to the next redirect in the list *\/$/;"	m	struct:redir_struct	typeref:struct:redir_struct::redir_struct	file:
+next	cli_hush.c	/^	struct variables *next;$/;"	m	struct:variables	typeref:struct:variables::variables	file:
+next	dlmalloc.c	/^	GmListElement* next;$/;"	m	struct:GmListElement	file:
+next_bin	dlmalloc.c	518;"	d	file:
+next_blk	xyzModem.c	/^  unsigned char next_blk;	\/* Expected block *\/$/;"	m	struct:__anon8	file:
+next_chunk	dlmalloc.c	399;"	d	file:
+next_id	bootstage.c	/^	uint next_id;$/;"	m	struct:bootstage_data	file:
+nonnull	cli_hush.c	/^	int nonnull;$/;"	m	struct:__anon7	file:
+nulldev_input	stdio.c	/^static int nulldev_input(struct stdio_dev *dev)$/;"	f	file:
+nulldev_putc	stdio.c	/^static void nulldev_putc(struct stdio_dev *dev, const char c)$/;"	f	file:
+nulldev_puts	stdio.c	/^static void nulldev_puts(struct stdio_dev *dev, const char *s)$/;"	f	file:
+num_progs	cli_hush.c	/^	int num_progs;				\/* total number of programs in job *\/$/;"	m	struct:pipe	file:
+o_string	cli_hush.c	/^} o_string;$/;"	t	typeref:struct:__anon7	file:
+of_bus	fdt_support.c	/^struct of_bus {$/;"	s	file:
+of_bus_default_map	fdt_support.c	/^static u64 of_bus_default_map(fdt32_t *addr, const fdt32_t *range,$/;"	f	file:
+of_bus_default_translate	fdt_support.c	/^static int of_bus_default_translate(fdt32_t *addr, u64 offset, int na)$/;"	f	file:
+of_bus_isa_count_cells	fdt_support.c	/^static void of_bus_isa_count_cells(const void *blob, int parentoffset,$/;"	f	file:
+of_bus_isa_map	fdt_support.c	/^static u64 of_bus_isa_map(fdt32_t *addr, const fdt32_t *range,$/;"	f	file:
+of_bus_isa_match	fdt_support.c	/^static int of_bus_isa_match(const void *blob, int parentoffset)$/;"	f	file:
+of_bus_isa_translate	fdt_support.c	/^static int of_bus_isa_translate(fdt32_t *addr, u64 offset, int na)$/;"	f	file:
+of_busses	fdt_support.c	/^static struct of_bus of_busses[] = {$/;"	v	typeref:struct:of_bus	file:
+of_dump_addr	fdt_support.c	/^static void of_dump_addr(const char *s, const fdt32_t *addr, int na) { }$/;"	f	file:
+of_dump_addr	fdt_support.c	/^static void of_dump_addr(const char *s, const fdt32_t *addr, int na)$/;"	f	file:
+of_match_bus	fdt_support.c	/^static struct of_bus *of_match_bus(const void *blob, int parentoffset)$/;"	f	file:
+of_translate_one	fdt_support.c	/^static int of_translate_one(const void *blob, int parent, struct of_bus *bus,$/;"	f	file:
+offset	iotrace.c	/^	ulong offset;$/;"	m	struct:iotrace	file:
+old	usb_kbd.c	/^	uint8_t		old[USB_KBD_BOOT_REPORT_SIZE];$/;"	m	struct:usb_kbd_pdata	file:
+old_flag	cli_hush.c	/^	int old_flag;				\/* for figuring out valid reserved words *\/$/;"	m	struct:p_context	file:
+on_console	console.c	/^static int on_console(const char *name, const char *value, enum env_op op,$/;"	f	file:
+on_loadaddr	image.c	/^static int on_loadaddr(const char *name, const char *value, enum env_op op,$/;"	f	file:
+on_silent	console.c	/^static int on_silent(const char *name, const char *value, enum env_op op,$/;"	f	file:
+on_splashimage	lcd.c	/^static int on_splashimage(const char *name, const char *value, enum env_op op,$/;"	f	file:
+overwrite_console	usb_kbd.c	/^int overwrite_console(void)$/;"	f
+p	cli_hush.c	/^	const char *p;$/;"	m	struct:in_str	file:
+p_context	cli_hush.c	/^struct p_context {$/;"	s	file:
+parse_file_outer	cli_hush.c	/^static int parse_file_outer(FILE *f)$/;"	f	file:
+parse_group	cli_hush.c	/^static int parse_group(o_string *dest, struct p_context *ctx,$/;"	f	file:
+parse_num	xyzModem.c	/^parse_num (char *s, unsigned long *val, char **es, char *delim)$/;"	f	file:
+parse_operand	bedbug.c	/^int parse_operand (unsigned long memaddr, struct opcode *opc,$/;"	f
+parse_stream	cli_hush.c	/^static int parse_stream(o_string *dest, struct p_context *ctx,$/;"	f	file:
+parse_stream_outer	cli_hush.c	/^static int parse_stream_outer(struct in_str *inp, int flag)$/;"	f	file:
+parse_string	cli_hush.c	/^int parse_string(o_string *dest, struct p_context *ctx, const char *src)$/;"	f
+parse_string_outer	cli_hush.c	/^static int parse_string_outer(const char *s, int flag)$/;"	f	file:
+parse_verify_sum	hash.c	/^static int parse_verify_sum(struct hash_algo *algo, char *verify_str,$/;"	f	file:
+passwd_abort	autoboot.c	/^static int passwd_abort(uint64_t etime)$/;"	f	file:
+peek	cli_hush.c	/^	int (*peek) (struct in_str *);$/;"	m	struct:in_str	file:
+peek_buf	cli_hush.c	/^	char peek_buf[2];$/;"	m	struct:in_str	file:
+pending_redirect	cli_hush.c	/^	struct redir_struct *pending_redirect;$/;"	m	struct:p_context	typeref:struct:p_context::redir_struct	file:
+pgrp	cli_hush.c	/^	pid_t pgrp;					\/* process group ID for the job *\/$/;"	m	struct:pipe	file:
+phy_find_by_mask	exports.c	21;"	d	file:
+pid	cli_hush.c	/^	pid_t pid;					\/* 0 if exited *\/$/;"	m	struct:child_prog	file:
+pipe	cli_hush.c	/^	struct pipe *pipe;$/;"	m	struct:p_context	typeref:struct:p_context::pipe	file:
+pipe	cli_hush.c	/^struct pipe {$/;"	s	file:
+pipe_style	cli_hush.c	/^} pipe_style;$/;"	t	typeref:enum:__anon5	file:
+pkt	xyzModem.c	/^  unsigned char pkt[1024], *bufp;$/;"	m	struct:__anon8	file:
+port	usb_hub.c	/^	int port;			\/* USB port to scan *\/$/;"	m	struct:usb_device_scan	file:
+portspeed	usb_hub.c	/^static inline char *portspeed(int portstatus)$/;"	f	file:
+power_init_board	board_r.c	/^__weak int power_init_board(void)$/;"	f
+pre_console_putc	console.c	/^static inline void pre_console_putc(const char c) {}$/;"	f	file:
+pre_console_putc	console.c	/^static void pre_console_putc(const char c)$/;"	f	file:
+pre_console_puts	console.c	/^static inline void pre_console_puts(const char *s) {}$/;"	f	file:
+pre_console_puts	console.c	/^static void pre_console_puts(const char *s)$/;"	f	file:
+preloader_console_init	spl/spl.c	/^void preloader_console_init(void)$/;"	f
+prev_bin	dlmalloc.c	519;"	d	file:
+prev_chunk	dlmalloc.c	403;"	d	file:
+prev_inuse	dlmalloc.c	425;"	d	file:
+prev_size	dlmalloc.c	/^  INTERNAL_SIZE_T prev_size; \/* Size of previous chunk (if free). *\/$/;"	m	struct:malloc_chunk	file:
+print_argv	command.c	/^static void print_argv(const char *banner, const char *leader, const char *sep, int linemax, char * const argv[])$/;"	f	file:
+print_decomp_msg	bootm.c	/^static void print_decomp_msg(int comp_type, int type, bool is_xip)$/;"	f	file:
+print_operands	bedbug.c	/^int print_operands (struct ppc_ctx *ctx)$/;"	f
+print_pre_console_buffer	console.c	/^static inline void print_pre_console_buffer(int flushpoint) {}$/;"	f	file:
+print_pre_console_buffer	console.c	/^static void print_pre_console_buffer(int flushpoint)$/;"	f	file:
+print_source_line	bedbug.c	/^int print_source_line (char *filename, char *funcname,$/;"	f
+print_time_record	bootstage.c	/^static uint32_t print_time_record(struct bootstage_record *rec, uint32_t prev)$/;"	f	file:
+probe_usb_keyboard	usb_kbd.c	/^static int probe_usb_keyboard(struct usb_device *dev)$/;"	f	file:
+process_command_subs	cli_hush.c	/^static int process_command_subs(o_string *dest, struct p_context *ctx, struct in_str *input, int subst_end)$/;"	f	file:
+process_fdt_options	autoboot.c	/^static void process_fdt_options(const void *blob)$/;"	f	file:
+progs	cli_hush.c	/^	struct child_prog *progs;	\/* array of commands in pipe *\/$/;"	m	struct:pipe	typeref:struct:pipe::child_prog	file:
+prompt	menu.c	/^	int prompt;$/;"	m	struct:menu	file:
+promptmode	cli_hush.c	/^	int promptmode;$/;"	m	struct:in_str	file:
+protocol	usb_storage.c	/^	unsigned char	protocol;		\/* .............. *\/$/;"	m	struct:us_data	file:
+pseudo_exec	cli_hush.c	/^static void pseudo_exec(struct child_prog *child)$/;"	f	file:
+pusb_dev	usb_storage.c	/^	struct usb_device *pusb_dev;	 \/* this usb_device *\/$/;"	m	struct:us_data	typeref:struct:us_data::usb_device	file:
+putDebugChar	kgdb_stubs.c	/^void putDebugChar(int c)$/;"	f
+putDebugStr	kgdb_stubs.c	/^void putDebugStr(const char *str)$/;"	f
+putc	console.c	/^void putc(const char c)$/;"	f
+putnstr	cli_readline.c	60;"	d	file:
+putpacket	kgdb.c	/^putpacket(unsigned char *buffer)$/;"	f	file:
+puts	console.c	/^void puts(const char *s)$/;"	f
+pvALLOc	dlmalloc.c	/^Void_t* pvALLOc(size_t bytes)$/;"	f
+quote	cli_hush.c	/^	int quote;$/;"	m	struct:__anon7	file:
+r0	fdt_support.c	/^	unsigned int r0;$/;"	m	struct:reg_cell	file:
+r1	fdt_support.c	/^	unsigned int r1;$/;"	m	struct:reg_cell	file:
+rEALLOc	dlmalloc.c	/^Void_t* rEALLOc(Void_t* oldmem, size_t bytes)$/;"	f
+r_mode	cli_hush.c	/^	reserved_style r_mode;		\/* supports if, for, while, until *\/$/;"	m	struct:pipe	file:
+raw_write_daif	spl/spl_atf.c	/^static inline void raw_write_daif(unsigned int daif)$/;"	f	file:
+read_from_partition	avb_verify.c	/^static AvbIOResult read_from_partition(AvbOps *ops,$/;"	f	file:
+read_is_device_unlocked	avb_verify.c	/^static AvbIOResult read_is_device_unlocked(AvbOps *ops, bool *out_is_unlocked)$/;"	f	file:
+read_length	xyzModem.c	/^  unsigned long file_length, read_length;$/;"	m	struct:__anon8	file:
+read_number	bedbug.c	/^long read_number (char *txt)$/;"	f
+read_rollback_index	avb_verify.c	/^static AvbIOResult read_rollback_index(AvbOps *ops,$/;"	f	file:
+rec_count	bootstage.c	/^	uint rec_count;$/;"	m	struct:bootstage_data	file:
+record	bootstage.c	/^	struct bootstage_record record[RECORD_COUNT];$/;"	m	struct:bootstage_data	typeref:struct:bootstage_data::bootstage_record	file:
+red_led_off	board_f.c	/^__weak void red_led_off(void) {}$/;"	f
+red_led_on	board_f.c	/^__weak void red_led_on(void) {}$/;"	f
+redir_struct	cli_hush.c	/^struct redir_struct {$/;"	s	file:
+redir_table	cli_hush.c	/^struct {int mode; int default_fd; char *descrip;} redir_table[] = {$/;"	v	typeref:struct:__anon4
+redir_type	cli_hush.c	/^} redir_type;$/;"	t	typeref:enum:__anon3	file:
+redirect_dup_num	cli_hush.c	/^static int redirect_dup_num(struct in_str *input)$/;"	f	file:
+redirect_opt_num	cli_hush.c	/^static int redirect_opt_num(o_string *o)$/;"	f	file:
+redirects	cli_hush.c	/^	struct redir_struct *redirects;	\/* I\/O redirections *\/$/;"	m	struct:child_prog	typeref:struct:child_prog::redir_struct	file:
+reg_cell	fdt_support.c	/^struct reg_cell {$/;"	s	file:
+region_size	iotrace.c	/^	ulong region_size;$/;"	m	struct:iotrace	file:
+region_start	iotrace.c	/^	ulong region_start;$/;"	m	struct:iotrace	file:
+reloc_bootstage	board_f.c	/^static int reloc_bootstage(void)$/;"	f	file:
+reloc_fdt	board_f.c	/^static int reloc_fdt(void)$/;"	f	file:
+remcomInBuffer	kgdb.c	/^static char remcomInBuffer[BUFMAX];$/;"	v	file:
+remcomOutBuffer	kgdb.c	/^static char remcomOutBuffer[BUFMAX];$/;"	v	file:
+remcomRegBuffer	kgdb.c	/^static char remcomRegBuffer[BUFMAX];$/;"	v	file:
+remove_bg_job	cli_hush.c	/^static void remove_bg_job(struct pipe *pi)$/;"	f	file:
+repeat_delay	usb_kbd.c	/^	uint32_t	repeat_delay;$/;"	m	struct:usb_kbd_pdata	file:
+request2size	dlmalloc.c	367;"	d	file:
+reserve_arch	board_f.c	/^__weak int reserve_arch(void)$/;"	f
+reserve_board	board_f.c	/^static int reserve_board(void)$/;"	f	file:
+reserve_bootstage	board_f.c	/^static int reserve_bootstage(void)$/;"	f	file:
+reserve_fdt	board_f.c	/^static int reserve_fdt(void)$/;"	f	file:
+reserve_global_data	board_f.c	/^static int reserve_global_data(void)$/;"	f	file:
+reserve_malloc	board_f.c	/^static int reserve_malloc(void)$/;"	f	file:
+reserve_mmu	board_f.c	/^__weak int reserve_mmu(void)$/;"	f
+reserve_pram	board_f.c	/^static int reserve_pram(void)$/;"	f	file:
+reserve_round_4k	board_f.c	/^static int reserve_round_4k(void)$/;"	f	file:
+reserve_stacks	board_f.c	/^static int reserve_stacks(void)$/;"	f	file:
+reserve_trace	board_f.c	/^static int reserve_trace(void)$/;"	f	file:
+reserve_uboot	board_f.c	/^static int reserve_uboot(void)$/;"	f	file:
+reserve_video	board_f.c	/^static int reserve_video(void)$/;"	f	file:
+reserved_combo	cli_hush.c	/^struct reserved_combo {$/;"	s	file:
+reserved_list	cli_hush.c	/^static struct reserved_combo reserved_list[] = {$/;"	v	typeref:struct:reserved_combo	file:
+reserved_style	cli_hush.c	/^} reserved_style;$/;"	t	typeref:enum:__anon6	file:
+reserved_word	cli_hush.c	/^static int reserved_word(o_string *dest, struct p_context *ctx)$/;"	f	file:
+restore_redirects	cli_hush.c	/^static void restore_redirects(int squirrel[])$/;"	f	file:
+retry_time	bootretry.c	/^static int      retry_time = -1; \/* -1 so can call readline before main_loop *\/$/;"	v	file:
+run_command	cli.c	/^int run_command(const char *cmd, int flag)$/;"	f
+run_command_list	cli.c	/^int run_command_list(const char *cmd, int len, int flag)$/;"	f
+run_command_repeatable	cli.c	/^int run_command_repeatable(const char *cmd, int flag)$/;"	f
+run_dfu	spl/spl_dfu.c	/^static int run_dfu(int usb_index, char *interface, char *devstring)$/;"	f	file:
+run_list	cli_hush.c	/^static int run_list(struct pipe *pi)$/;"	f	file:
+run_list_real	cli_hush.c	/^static int run_list_real(struct pipe *pi)$/;"	f	file:
+run_main_loop	board_r.c	/^static int run_main_loop(void)$/;"	f	file:
+run_pipe_real	cli_hush.c	/^static int run_pipe_real(struct pipe *pi)$/;"	f	file:
+run_preboot_environment_command	main.c	/^static void run_preboot_environment_command(void)$/;"	f	file:
+run_usb_dnl_gadget	dfu.c	/^int run_usb_dnl_gadget(int usbctrl_index, char *usb_dnl_gadget)$/;"	f
+running_progs	cli_hush.c	/^	int running_progs;			\/* number of programs running *\/$/;"	m	struct:pipe	file:
+save_addr	image.c	/^ulong save_addr;			\/* Default Save Address *\/$/;"	v
+save_size	image.c	/^ulong save_size;			\/* Default Save Size (in bytes) *\/$/;"	v
+saved_prot_info	update.c	/^static uchar *saved_prot_info;$/;"	v	file:
+sbrk	dlmalloc.c	/^void *sbrk(ptrdiff_t increment)$/;"	f
+sbrk_base	dlmalloc.c	/^static char* sbrk_base = (char*)(-1);$/;"	v	file:
+sbrked_mem	dlmalloc.c	698;"	d	file:
+search_device	console.c	/^struct stdio_dev *search_device(int flags, const char *name)$/;"	f
+select_splash_location	splash_source.c	/^static struct splash_location *select_splash_location($/;"	f	file:
+serial_printf	console.c	/^int serial_printf(const char *fmt, ...)$/;"	f
+set_cwd	cli_hush.c	/^static const char *set_cwd(void)$/;"	f	file:
+set_entry	edid.c	/^static void set_entry(struct timing_entry *entry, u32 value)$/;"	f	file:
+set_foot	dlmalloc.c	471;"	d	file:
+set_head	dlmalloc.c	467;"	d	file:
+set_head_size	dlmalloc.c	463;"	d	file:
+set_inuse	dlmalloc.c	433;"	d	file:
+set_inuse_bit_at_offset	dlmalloc.c	444;"	d	file:
+set_local_var	cli_hush.c	/^int set_local_var(const char *s, int flg_export)$/;"	f
+setup_board_part1	board_f.c	/^static int setup_board_part1(void)$/;"	f	file:
+setup_board_part2	board_f.c	/^static int setup_board_part2(void)$/;"	f	file:
+setup_dest_addr	board_f.c	/^static int setup_dest_addr(void)$/;"	f	file:
+setup_file_in_str	cli_hush.c	/^static void setup_file_in_str(struct in_str *i, FILE *f)$/;"	f	file:
+setup_job_control	cli_hush.c	/^static void setup_job_control(void)$/;"	f	file:
+setup_machine	board_f.c	/^static int setup_machine(void)$/;"	f	file:
+setup_mon_len	board_f.c	/^static int setup_mon_len(void)$/;"	f	file:
+setup_prompt_string	cli_hush.c	/^static inline void setup_prompt_string(int promptmode, char **prompt_str)$/;"	f	file:
+setup_redirect	cli_hush.c	/^static int setup_redirect(struct p_context *ctx, int fd, redir_type style,$/;"	f	file:
+setup_redirects	cli_hush.c	/^static int setup_redirects(struct child_prog *prog, int squirrel[])$/;"	f	file:
+setup_reloc	board_f.c	/^static int setup_reloc(void)$/;"	f	file:
+setup_string_in_str	cli_hush.c	/^static void setup_string_in_str(struct in_str *i, const char *s)$/;"	f	file:
+sf	splash_source.c	/^static struct spi_flash *sf;$/;"	v	typeref:struct:spi_flash	file:
+shell_terminal	cli_hush.c	/^static unsigned int shell_terminal;$/;"	v	file:
+shell_ver	cli_hush.c	/^struct variables shell_ver = { "HUSH_VERSION", "0.01", 1, 1, 0 };$/;"	v	typeref:struct:variables
+should_load_env	board_r.c	/^static int should_load_env(void)$/;"	f	file:
+show_board_info	board_info.c	/^int __weak show_board_info(void)$/;"	f
+show_boot_progress	init/board_init.c	/^__weak void show_boot_progress(int val) {}$/;"	f
+show_boot_progress	main.c	/^__weak void show_boot_progress(int val) {}$/;"	f
+show_boot_progress	spl/spl.c	/^__weak void show_boot_progress(int val) {}$/;"	f
+show_dram_config	board_f.c	/^static int show_dram_config(void)$/;"	f	file:
+size	bootstage.c	/^	uint32_t size;		\/* Total data size (non-zero if valid) *\/$/;"	m	struct:bootstage_hdr	file:
+size	dlmalloc.c	/^  INTERNAL_SIZE_T size;      \/* Size in bytes, including overhead. *\/$/;"	m	struct:malloc_chunk	file:
+size	iotrace.c	/^	ulong size;$/;"	m	struct:iotrace	file:
+slow_equals	autoboot.c	/^static int slow_equals(u8 *a, u8 *b, int len)$/;"	f	file:
+smallbin_index	dlmalloc.c	641;"	d	file:
+snip	edid.c	/^static char *snip(char *string)$/;"	f	file:
+sp	cli_hush.c	/^	int sp;				\/* number of SPECIAL_VAR_SYMBOL *\/$/;"	m	struct:child_prog	file:
+spd_check	ddr_spd.c	/^spd_check(const u8 *buf, u8 spd_rev, u8 spd_cksum)$/;"	f	file:
+spi_load_image_os	spl/spl_spi.c	/^static int spi_load_image_os(struct spl_image_info *spl_image,$/;"	f	file:
+spl_board_prepare_for_boot	spl/spl.c	/^__weak void spl_board_prepare_for_boot(void)$/;"	f
+spl_board_prepare_for_linux	spl/spl.c	/^__weak void spl_board_prepare_for_linux(void)$/;"	f
+spl_boot_mode	spl/spl_mmc.c	/^u32 __weak spl_boot_mode(const u32 boot_device)$/;"	f
+spl_boot_partition	spl/spl_mmc.c	/^int spl_boot_partition(const u32 boot_device)$/;"	f
+spl_common_init	spl/spl.c	/^static int spl_common_init(bool setup_malloc)$/;"	f	file:
+spl_dfu_cmd	spl/spl_dfu.c	/^int spl_dfu_cmd(int usbctrl, char *dfu_alt_info, char *interface, char *devstr)$/;"	f
+spl_early_init	spl/spl.c	/^int spl_early_init(void)$/;"	f
+spl_fit_append_fdt	spl/spl_fit.c	/^static int spl_fit_append_fdt(struct spl_image_info *spl_image,$/;"	f	file:
+spl_fit_get_image_name	spl/spl_fit.c	/^static int spl_fit_get_image_name(const void *fit, int images,$/;"	f	file:
+spl_fit_get_image_node	spl/spl_fit.c	/^static int spl_fit_get_image_node(const void *fit, int images,$/;"	f	file:
+spl_fit_image_get_os	spl/spl_fit.c	/^static int spl_fit_image_get_os(const void *fit, int noffset, uint8_t *os)$/;"	f	file:
+spl_fit_images_find_uboot	spl/spl_atf.c	/^static int spl_fit_images_find_uboot(void *blob)$/;"	f	file:
+spl_fit_images_get_entry	spl/spl_atf.c	/^uintptr_t spl_fit_images_get_entry(void *blob, int node)$/;"	f
+spl_fit_read	spl/spl_fat.c	/^static ulong spl_fit_read(struct spl_load_info *load, ulong file_offset,$/;"	f	file:
+spl_fit_record_loadable	spl/spl_fit.c	/^static int spl_fit_record_loadable(const void *fit, int images, int index,$/;"	f	file:
+spl_fixup_fdt	spl/spl.c	/^void spl_fixup_fdt(void)$/;"	f
+spl_init	spl/spl.c	/^int spl_init(void)$/;"	f
+spl_invoke_atf	spl/spl_atf.c	/^void spl_invoke_atf(struct spl_image_info *spl_image)$/;"	f
+spl_ll_find_loader	spl/spl.c	/^static struct spl_image_loader *spl_ll_find_loader(uint boot_device)$/;"	f	file:
+spl_load_fit_image	spl/spl.c	/^static int spl_load_fit_image(struct spl_image_info *spl_image,$/;"	f	file:
+spl_load_fit_image	spl/spl_fit.c	/^static int spl_load_fit_image(struct spl_load_info *info, ulong sector,$/;"	f	file:
+spl_load_fpga_image	spl/spl_fit.c	/^__weak int spl_load_fpga_image(struct spl_load_info *info, size_t length,$/;"	f
+spl_load_image	spl/spl.c	/^static int spl_load_image(struct spl_image_info *spl_image,$/;"	f	file:
+spl_load_image_ext	spl/spl_ext.c	/^int spl_load_image_ext(struct spl_image_info *spl_image,$/;"	f
+spl_load_image_ext_os	spl/spl_ext.c	/^int spl_load_image_ext_os(struct spl_image_info *spl_image,$/;"	f
+spl_load_image_fat	spl/spl_fat.c	/^int spl_load_image_fat(struct spl_image_info *spl_image,$/;"	f
+spl_load_image_fat_os	spl/spl_fat.c	/^int spl_load_image_fat_os(struct spl_image_info *spl_image,$/;"	f
+spl_load_simple_fit	spl/spl_fit.c	/^int spl_load_simple_fit(struct spl_image_info *spl_image,$/;"	f
+spl_mmc_do_fs_boot	spl/spl_mmc.c	/^static int spl_mmc_do_fs_boot(struct spl_image_info *spl_image, struct mmc *mmc)$/;"	f	file:
+spl_mmc_find_device	spl/spl_mmc.c	/^static int spl_mmc_find_device(struct mmc **mmcp, u32 boot_device)$/;"	f	file:
+spl_mmc_get_device_index	spl/spl_mmc.c	/^static int spl_mmc_get_device_index(u32 boot_device)$/;"	f	file:
+spl_mmc_load_image	spl/spl_mmc.c	/^int spl_mmc_load_image(struct spl_image_info *spl_image,$/;"	f
+spl_nand_fit_read	spl/spl_nand.c	/^static ulong spl_nand_fit_read(struct spl_load_info *load, ulong offs,$/;"	f	file:
+spl_nand_load_element	spl/spl_nand.c	/^static int spl_nand_load_element(struct spl_image_info *spl_image,$/;"	f	file:
+spl_nand_load_image	spl/spl_nand.c	/^int spl_nand_load_image(struct spl_image_info *spl_image,$/;"	f
+spl_nand_load_image	spl/spl_nand.c	/^static int spl_nand_load_image(struct spl_image_info *spl_image,$/;"	f	file:
+spl_net_load_image	spl/spl_net.c	/^static int spl_net_load_image(struct spl_image_info *spl_image,$/;"	f	file:
+spl_net_load_image_cpgmac	spl/spl_net.c	/^int spl_net_load_image_cpgmac(struct spl_image_info *spl_image,$/;"	f
+spl_net_load_image_usb	spl/spl_net.c	/^int spl_net_load_image_usb(struct spl_image_info *spl_image,$/;"	f
+spl_net_load_read	spl/spl_net.c	/^static ulong spl_net_load_read(struct spl_load_info *load, ulong sector,$/;"	f	file:
+spl_nor_load_image	spl/spl_nor.c	/^static int spl_nor_load_image(struct spl_image_info *spl_image,$/;"	f	file:
+spl_onenand_load_image	spl/spl_onenand.c	/^static int spl_onenand_load_image(struct spl_image_info *spl_image,$/;"	f	file:
+spl_parse_image_header	spl/spl.c	/^int spl_parse_image_header(struct spl_image_info *spl_image,$/;"	f
+spl_ram_load_image	spl/spl_ram.c	/^static int spl_ram_load_image(struct spl_image_info *spl_image,$/;"	f	file:
+spl_ram_load_read	spl/spl_ram.c	/^static ulong spl_ram_load_read(struct spl_load_info *load, ulong sector,$/;"	f	file:
+spl_register_fat_device	spl/spl_fat.c	/^static int spl_register_fat_device(struct blk_desc *block_dev, int partition)$/;"	f	file:
+spl_relocate_stack_gd	spl/spl.c	/^ulong spl_relocate_stack_gd(void)$/;"	f
+spl_return_to_bootrom	spl/spl_bootrom.c	/^static int spl_return_to_bootrom(struct spl_image_info *spl_image,$/;"	f	file:
+spl_sata_load_image	spl/spl_sata.c	/^static int spl_sata_load_image(struct spl_image_info *spl_image,$/;"	f	file:
+spl_sdp_load_image	spl/spl_sdp.c	/^static int spl_sdp_load_image(struct spl_image_info *spl_image,$/;"	f	file:
+spl_set_bd	spl/spl.c	/^void spl_set_bd(void)$/;"	f
+spl_set_header_raw_uboot	spl/spl.c	/^void spl_set_header_raw_uboot(struct spl_image_info *spl_image)$/;"	f
+spl_spi_fit_read	spl/spl_spi.c	/^static ulong spl_spi_fit_read(struct spl_load_info *load, ulong sector,$/;"	f	file:
+spl_spi_load_image	spl/spl_spi.c	/^static int spl_spi_load_image(struct spl_image_info *spl_image,$/;"	f	file:
+spl_start_uboot	spl/spl.c	/^__weak int spl_start_uboot(void)$/;"	f
+spl_start_uboot	spl/spl_mmc.c	/^int spl_start_uboot(void)$/;"	f
+spl_ubi_load_image	spl/spl_ubi.c	/^int spl_ubi_load_image(struct spl_image_info *spl_image,$/;"	f
+spl_usb_load_image	spl/spl_usb.c	/^static int spl_usb_load_image(struct spl_image_info *spl_image,$/;"	f	file:
+spl_xip	spl/spl_xip.c	/^static int spl_xip(struct spl_image_info *spl_image,$/;"	f	file:
+spl_ymodem_load_image	spl/spl_ymodem.c	/^static int spl_ymodem_load_image(struct spl_image_info *spl_image,$/;"	f	file:
+splash_align_axis	lcd.c	/^static void splash_align_axis(int *axis, unsigned long panel_size,$/;"	f	file:
+splash_get_pos	splash.c	/^void splash_get_pos(int *x, int *y)$/;"	f
+splash_init_sata	splash_source.c	/^static inline int splash_init_sata(void)$/;"	f	file:
+splash_init_sata	splash_source.c	/^static int splash_init_sata(void)$/;"	f	file:
+splash_init_usb	splash_source.c	/^static inline int splash_init_usb(void)$/;"	f	file:
+splash_init_usb	splash_source.c	/^static int splash_init_usb(void)$/;"	f	file:
+splash_load_fit	splash_source.c	/^static int splash_load_fit(struct splash_location *location, u32 bmp_load_addr)$/;"	f	file:
+splash_load_fs	splash_source.c	/^static int splash_load_fs(struct splash_location *location, u32 bmp_load_addr)$/;"	f	file:
+splash_load_raw	splash_source.c	/^static int splash_load_raw(struct splash_location *location, u32 bmp_load_addr)$/;"	f	file:
+splash_mount_ubifs	splash_source.c	/^static inline int splash_mount_ubifs(struct splash_location *location)$/;"	f	file:
+splash_mount_ubifs	splash_source.c	/^static int splash_mount_ubifs(struct splash_location *location)$/;"	f	file:
+splash_nand_read_raw	splash_source.c	/^static int splash_nand_read_raw(u32 bmp_load_addr, int offset, size_t read_size)$/;"	f	file:
+splash_screen_prepare	splash.c	/^__weak int splash_screen_prepare(void)$/;"	f
+splash_select_fs_dev	splash_source.c	/^static int splash_select_fs_dev(struct splash_location *location)$/;"	f	file:
+splash_sf_read_raw	splash_source.c	/^static int splash_sf_read_raw(u32 bmp_load_addr, int offset, size_t read_size)$/;"	f	file:
+splash_source_load	splash_source.c	/^int splash_source_load(struct splash_location *locations, uint size)$/;"	f
+splash_storage_read_raw	splash_source.c	/^static int splash_storage_read_raw(struct splash_location *location,$/;"	f	file:
+splash_umount_ubifs	splash_source.c	/^static inline int splash_umount_ubifs(void)$/;"	f	file:
+spr_name	bedbug.c	/^char *spr_name (int value)$/;"	f
+spr_value	bedbug.c	/^int spr_value (char *name)$/;"	f
+srb	usb_storage.c	/^	struct scsi_cmd	*srb;			\/* current srb *\/$/;"	m	struct:us_data	typeref:struct:us_data::scsi_cmd	file:
+srec_decode	s_record.c	/^int srec_decode (char *input, int *count, ulong *addr, char *data)$/;"	f
+stack	cli_hush.c	/^	struct p_context *stack;$/;"	m	struct:p_context	typeref:struct:p_context::p_context	file:
+start	iotrace.c	/^	ulong start;$/;"	m	struct:iotrace	file:
+start_us	bootstage.c	/^	uint32_t start_us;$/;"	m	struct:bootstage_record	file:
+static_get	cli_hush.c	/^static int static_get(struct in_str *i)$/;"	f	file:
+static_peek	cli_hush.c	/^static int static_peek(struct in_str *i)$/;"	f	file:
+stdio_add_devices	stdio.c	/^int stdio_add_devices(void)$/;"	f
+stdio_clone	stdio.c	/^struct stdio_dev* stdio_clone(struct stdio_dev *dev)$/;"	f
+stdio_deregister	stdio.c	/^int stdio_deregister(const char *devname, int force)$/;"	f
+stdio_deregister_dev	stdio.c	/^int stdio_deregister_dev(struct stdio_dev *dev, int force)$/;"	f
+stdio_devices	stdio.c	/^struct stdio_dev *stdio_devices[] = { NULL, NULL, NULL };$/;"	v	typeref:struct:stdio_dev
+stdio_get_by_name	stdio.c	/^struct stdio_dev *stdio_get_by_name(const char *name)$/;"	f
+stdio_get_list	stdio.c	/^struct list_head* stdio_get_list(void)$/;"	f
+stdio_init	stdio.c	/^int stdio_init(void)$/;"	f
+stdio_init_tables	stdio.c	/^int stdio_init_tables(void)$/;"	f
+stdio_names	stdio.c	/^char *stdio_names[MAX_FILES] = { "stdin", "stdout", "stderr" };$/;"	v
+stdio_print_current_devices	console.c	/^void stdio_print_current_devices(void)$/;"	f
+stdio_probe_device	stdio.c	/^static int stdio_probe_device(const char *name, enum uclass_id id,$/;"	f	file:
+stdio_register	stdio.c	/^int stdio_register(struct stdio_dev *dev)$/;"	f
+stdio_register_dev	stdio.c	/^int stdio_register_dev(struct stdio_dev *dev, struct stdio_dev **devp)$/;"	f
+stdio_serial_getc	stdio.c	/^static int stdio_serial_getc(struct stdio_dev *dev)$/;"	f	file:
+stdio_serial_putc	stdio.c	/^static void stdio_serial_putc(struct stdio_dev *dev, const char c)$/;"	f	file:
+stdio_serial_puts	stdio.c	/^static void stdio_serial_puts(struct stdio_dev *dev, const char *s)$/;"	f	file:
+stdio_serial_tstc	stdio.c	/^static int stdio_serial_tstc(struct stdio_dev *dev)$/;"	f	file:
+stopped_progs	cli_hush.c	/^	int stopped_progs;			\/* number of programs alive, but stopped *\/$/;"	m	struct:pipe	file:
+store_result	hash.c	/^static void store_result(struct hash_algo *algo, const uint8_t *sum,$/;"	f	file:
+stored_bootdelay	autoboot.c	/^static int stored_bootdelay;$/;"	v	file:
+subclass	usb_storage.c	/^	unsigned char	subclass;		\/* as in overview *\/$/;"	m	struct:us_data	file:
+subshell	cli_hush.c	/^	int subshell;				\/* flag, non-zero if group must be forked *\/$/;"	m	struct:child_prog	file:
+symbol_lookup	kallsyms.c	/^const char *symbol_lookup(unsigned long addr, unsigned long *caddr)$/;"	f
+sync	memsize.c	18;"	d	file:
+syntax	cli_hush.c	134;"	d	file:
+syntax	cli_hush.c	385;"	d	file:
+syntax_err	cli_hush.c	/^static void syntax_err(void) {$/;"	f	file:
+system_map	system_map.c	/^const char const system_map[] = SYSTEM_MAP;$/;"	v
+tab_seq	cli_readline.c	/^static const char   tab_seq[] = "        ";	\/* used to expand TABs *\/$/;"	v	file:
+table	image.c	/^	const table_entry_t *table;$/;"	m	struct:table_info	file:
+table_info	image.c	/^static const struct table_info table_info[IH_COUNT] = {$/;"	v	typeref:struct:table_info	file:
+table_info	image.c	/^struct table_info {$/;"	s	file:
+tbr_name	bedbug.c	/^char *tbr_name (int value)$/;"	f
+tbr_value	bedbug.c	/^int tbr_value (char *name)$/;"	f
+test_colors	lcd.c	/^static int test_colors[N_BLK_HOR * N_BLK_VERT] = {$/;"	v	file:
+test_pattern	lcd.c	/^static void test_pattern(void)$/;"	f	file:
+text	cli_hush.c	/^	char *text;					\/* name of job *\/$/;"	m	struct:pipe	file:
+time_us	bootstage.c	/^	ulong time_us;$/;"	m	struct:bootstage_record	file:
+timeout	menu.c	/^	int timeout;$/;"	m	struct:menu	file:
+title	menu.c	/^	char *title;$/;"	m	struct:menu	file:
+tmp_buf	command.c	/^static char tmp_buf[CONFIG_SYS_CBSIZE + 1];	\/* copy of console I\/O buffer *\/$/;"	v	file:
+top	dlmalloc.c	527;"	d	file:
+top_pad	dlmalloc.c	/^static unsigned long top_pad          = DEFAULT_TOP_PAD;$/;"	v	file:
+top_vars	cli_hush.c	/^static struct variables *top_vars = NULL ;$/;"	v	typeref:struct:variables	file:
+top_vars	cli_hush.c	/^struct variables *top_vars = &shell_ver;$/;"	v	typeref:struct:variables
+total_CAN	xyzModem.c	/^  int total_SOH, total_STX, total_CAN;$/;"	m	struct:__anon8	file:
+total_SOH	xyzModem.c	/^  int total_SOH, total_STX, total_CAN;$/;"	m	struct:__anon8	file:
+total_STX	xyzModem.c	/^  int total_SOH, total_STX, total_CAN;$/;"	m	struct:__anon8	file:
+total_retries	xyzModem.c	/^  int len, mode, total_retries;$/;"	m	struct:__anon8	file:
+trans_cmnd	usb_storage.c	/^typedef int (*trans_cmnd)(struct scsi_cmd *cb, struct us_data *data);$/;"	t	file:
+trans_reset	usb_storage.c	/^typedef int (*trans_reset)(struct us_data *data);$/;"	t	file:
+translate	fdt_support.c	/^	int		(*translate)(fdt32_t *addr, u64 offset, int na);$/;"	m	struct:of_bus	file:
+transport	usb_storage.c	/^	trans_cmnd	transport;		\/* transport routine *\/$/;"	m	struct:us_data	file:
+transport_reset	usb_storage.c	/^	trans_reset	transport_reset;	\/* reset routine *\/$/;"	m	struct:us_data	file:
+trim_threshold	dlmalloc.c	/^static unsigned long trim_threshold   = DEFAULT_TRIM_THRESHOLD;$/;"	v	file:
+tstc	console.c	/^int tstc(void)$/;"	f
+tstcdev	console.c	/^static struct stdio_dev *tstcdev;$/;"	v	typeref:struct:stdio_dev	file:
+tx_ack	xyzModem.c	/^  bool crc_mode, at_eof, tx_ack;$/;"	m	struct:__anon8	file:
+type	cli_hush.c	/^	int type;			\/* define type of parser : ";$" common or special symbol *\/$/;"	m	struct:p_context	file:
+type	cli_hush.c	/^	int type;$/;"	m	struct:child_prog	file:
+type	cli_hush.c	/^	redir_type type;			\/* type of redirection *\/$/;"	m	struct:redir_struct	file:
+u_boot_hush_reloc	cli_hush.c	/^static void u_boot_hush_reloc(void)$/;"	f	file:
+u_boot_hush_start	cli_hush.c	/^int u_boot_hush_start(void)$/;"	f
+uboot_cli_readline	cli_hush.c	/^static int uboot_cli_readline(struct in_str *i)$/;"	f	file:
+uimage_arch	image.c	/^static const table_entry_t uimage_arch[] = {$/;"	v	file:
+uimage_comp	image.c	/^static const table_entry_t uimage_comp[] = {$/;"	v	file:
+uimage_os	image.c	/^static const table_entry_t uimage_os[] = {$/;"	v	file:
+uimage_type	image.c	/^static const table_entry_t uimage_type[] = {$/;"	v	file:
+unknown_msg	image.c	/^static const char *unknown_msg(enum ih_category category)$/;"	f	file:
+unlink	dlmalloc.c	902;"	d	file:
+unset_local_var	cli_hush.c	/^void unset_local_var(const char *name)$/;"	f
+update_fit_getparams	update.c	/^static int update_fit_getparams(const void *fit, int noffset, ulong *addr,$/;"	f	file:
+update_flash	update.c	/^static int update_flash(ulong addr_source, ulong addr_first, ulong size)$/;"	f	file:
+update_flash_protect	update.c	/^static int update_flash_protect(int prot, ulong addr_first, ulong addr_last)$/;"	f	file:
+update_ifs_map	cli_hush.c	/^static void update_ifs_map(void)$/;"	f	file:
+update_load	update.c	/^static int update_load(char *filename, ulong msec_max, int cnt_max, ulong addr)$/;"	f	file:
+update_tftp	update.c	/^int update_tftp(ulong addr, char *interface, char *devstring)$/;"	f
+us_data	usb_storage.c	/^struct us_data {$/;"	s	file:
+us_direction	usb_storage.c	/^static const unsigned char us_direction[256\/8] = {$/;"	v	file:
+us_one_transfer	usb_storage.c	/^static int us_one_transfer(struct us_data *us, int pipe, char *buf, int length)$/;"	f	file:
+usb	usb_storage.c	/^U_BOOT_LEGACY_BLK(usb) = {$/;"	v
+usb_alloc_device	usb.c	/^__weak int usb_alloc_device(struct usb_device *udev)$/;"	f
+usb_alloc_new_device	usb.c	/^int usb_alloc_new_device(struct udevice *controller, struct usb_device **devp)$/;"	f
+usb_bin_fixup	usb_storage.c	/^static void usb_bin_fixup(struct usb_device_descriptor descriptor,$/;"	f	file:
+usb_bulk_msg	usb.c	/^int usb_bulk_msg(struct usb_device *dev, unsigned int pipe,$/;"	f
+usb_clear_halt	usb.c	/^int usb_clear_halt(struct usb_device *dev, int pipe)$/;"	f
+usb_clear_port_feature	usb_hub.c	/^static int usb_clear_port_feature(struct usb_device *dev, int port, int feature)$/;"	f	file:
+usb_control_msg	usb.c	/^int usb_control_msg(struct usb_device *dev, unsigned int pipe,$/;"	f
+usb_detect_change	usb.c	/^int usb_detect_change(void)$/;"	f
+usb_dev	usb.c	/^static struct usb_device usb_dev[USB_MAX_DEVICE];$/;"	v	typeref:struct:usb_device	file:
+usb_dev_desc	usb_storage.c	/^static struct blk_desc usb_dev_desc[USB_MAX_STOR_DEV];$/;"	v	typeref:struct:blk_desc	file:
+usb_device_has_child_on_port	usb.c	/^bool usb_device_has_child_on_port(struct usb_device *parent, int port)$/;"	f
+usb_device_list_scan	usb_hub.c	/^static int usb_device_list_scan(void)$/;"	f	file:
+usb_device_scan	usb_hub.c	/^struct usb_device_scan {$/;"	s	file:
+usb_disable_asynch	usb.c	/^int usb_disable_asynch(int disable)$/;"	f
+usb_find_usb2_hub_address_port	usb.c	/^void usb_find_usb2_hub_address_port(struct usb_device *udev,$/;"	f
+usb_free_device	usb.c	/^void usb_free_device(struct udevice *controller)$/;"	f
+usb_generic_hub	usb_hub.c	/^U_BOOT_DRIVER(usb_generic_hub) = {$/;"	v
+usb_get_class_descriptor	usb.c	/^int usb_get_class_descriptor(struct usb_device *dev, int ifnum,$/;"	f
+usb_get_configuration_len	usb.c	/^int usb_get_configuration_len(struct usb_device *dev, int cfgno)$/;"	f
+usb_get_configuration_no	usb.c	/^int usb_get_configuration_no(struct usb_device *dev, int cfgno,$/;"	f
+usb_get_descriptor	usb.c	/^static int usb_get_descriptor(struct usb_device *dev, unsigned char type,$/;"	f	file:
+usb_get_dev_index	usb.c	/^struct usb_device *usb_get_dev_index(int index)$/;"	f
+usb_get_hub_descriptor	usb_hub.c	/^static int usb_get_hub_descriptor(struct usb_device *dev, void *data, int size)$/;"	f	file:
+usb_get_hub_device	usb_hub.c	/^static struct usb_hub_device *usb_get_hub_device(struct usb_device *dev)$/;"	f	file:
+usb_get_hub_status	usb_hub.c	/^static int usb_get_hub_status(struct usb_device *dev, void *data)$/;"	f	file:
+usb_get_max_lun	usb_storage.c	/^static unsigned int usb_get_max_lun(struct us_data *us)$/;"	f	file:
+usb_get_port_status	usb_hub.c	/^int usb_get_port_status(struct usb_device *dev, int port, void *data)$/;"	f
+usb_get_report	usb.c	/^int usb_get_report(struct usb_device *dev, int ifnum, unsigned char type,$/;"	f
+usb_get_string	usb.c	/^static int usb_get_string(struct usb_device *dev, unsigned short langid,$/;"	f	file:
+usb_hub	usb_hub.c	/^UCLASS_DRIVER(usb_hub) = {$/;"	v
+usb_hub_allocate	usb_hub.c	/^static struct usb_hub_device *usb_hub_allocate(void)$/;"	f	file:
+usb_hub_check	usb_hub.c	/^static int usb_hub_check(struct usb_device *dev, int ifnum)$/;"	f	file:
+usb_hub_configure	usb_hub.c	/^static int usb_hub_configure(struct usb_device *dev)$/;"	f	file:
+usb_hub_ids	usb_hub.c	/^static const struct udevice_id usb_hub_ids[] = {$/;"	v	typeref:struct:udevice_id	file:
+usb_hub_index	usb_hub.c	/^static int usb_hub_index;$/;"	v	file:
+usb_hub_is_root_hub	usb_hub.c	/^bool usb_hub_is_root_hub(struct udevice *hub)$/;"	f
+usb_hub_is_superspeed	usb_hub.c	/^static inline bool usb_hub_is_superspeed(struct usb_device *hdev)$/;"	f	file:
+usb_hub_port_connect_change	usb_hub.c	/^int usb_hub_port_connect_change(struct usb_device *dev, int port)$/;"	f
+usb_hub_port_reset	usb.c	/^static int usb_hub_port_reset(struct usb_device *dev, struct usb_device *hub)$/;"	f	file:
+usb_hub_port_reset	usb_hub.c	/^static int usb_hub_port_reset(struct usb_device *dev, int port,$/;"	f	file:
+usb_hub_post_probe	usb_hub.c	/^static int usb_hub_post_probe(struct udevice *dev)$/;"	f	file:
+usb_hub_power_on	usb_hub.c	/^static void usb_hub_power_on(struct usb_hub_device *hub)$/;"	f	file:
+usb_hub_probe	usb_hub.c	/^int usb_hub_probe(struct usb_device *dev, int ifnum)$/;"	f
+usb_hub_reset	usb_hub.c	/^void usb_hub_reset(void)$/;"	f
+usb_hub_reset_devices	usb_hub.c	/^__weak void usb_hub_reset_devices(struct usb_hub_device *hub, int port)$/;"	f
+usb_hub_scan	usb_hub.c	/^int usb_hub_scan(struct udevice *hub)$/;"	f
+usb_in_pointer	usb_kbd.c	/^	uint32_t	usb_in_pointer;$/;"	m	struct:usb_kbd_pdata	file:
+usb_init	usb.c	/^int usb_init(void)$/;"	f
+usb_inquiry	usb_storage.c	/^static int usb_inquiry(struct scsi_cmd *srb, struct us_data *ss)$/;"	f	file:
+usb_kbd	usb_kbd.c	/^U_BOOT_DRIVER(usb_kbd) = {$/;"	v
+usb_kbd_arrow	usb_kbd.c	/^static const unsigned char usb_kbd_arrow[] = {$/;"	v	file:
+usb_kbd_buffer	usb_kbd.c	/^	uint8_t		usb_kbd_buffer[USB_KBD_BUFFER_LEN];$/;"	m	struct:usb_kbd_pdata	file:
+usb_kbd_deregister	usb_kbd.c	/^int usb_kbd_deregister(int force)$/;"	f
+usb_kbd_getc	usb_kbd.c	/^static int usb_kbd_getc(struct stdio_dev *sdev)$/;"	f	file:
+usb_kbd_ids	usb_kbd.c	/^static const struct udevice_id usb_kbd_ids[] = {$/;"	v	typeref:struct:udevice_id	file:
+usb_kbd_irq	usb_kbd.c	/^static int usb_kbd_irq(struct usb_device *dev)$/;"	f	file:
+usb_kbd_irq_worker	usb_kbd.c	/^static int usb_kbd_irq_worker(struct usb_device *dev)$/;"	f	file:
+usb_kbd_num_keypad	usb_kbd.c	/^static const unsigned char usb_kbd_num_keypad[] = {$/;"	v	file:
+usb_kbd_numkey	usb_kbd.c	/^static const unsigned char usb_kbd_numkey[] = {$/;"	v	file:
+usb_kbd_numkey_shifted	usb_kbd.c	/^static const unsigned char usb_kbd_numkey_shifted[] = {$/;"	v	file:
+usb_kbd_pdata	usb_kbd.c	/^struct usb_kbd_pdata {$/;"	s	file:
+usb_kbd_poll_for_event	usb_kbd.c	/^static inline void usb_kbd_poll_for_event(struct usb_device *dev)$/;"	f	file:
+usb_kbd_probe	usb_kbd.c	/^static int usb_kbd_probe(struct udevice *dev)$/;"	f	file:
+usb_kbd_probe_dev	usb_kbd.c	/^static int usb_kbd_probe_dev(struct usb_device *dev, unsigned int ifnum)$/;"	f	file:
+usb_kbd_put_queue	usb_kbd.c	/^static void usb_kbd_put_queue(struct usb_kbd_pdata *data, char c)$/;"	f	file:
+usb_kbd_remove	usb_kbd.c	/^static int usb_kbd_remove(struct udevice *dev)$/;"	f	file:
+usb_kbd_service_key	usb_kbd.c	/^static uint32_t usb_kbd_service_key(struct usb_device *dev, int i, int up)$/;"	f	file:
+usb_kbd_setled	usb_kbd.c	/^static void usb_kbd_setled(struct usb_device *dev)$/;"	f	file:
+usb_kbd_testc	usb_kbd.c	/^static int usb_kbd_testc(struct stdio_dev *sdev)$/;"	f	file:
+usb_kbd_translate	usb_kbd.c	/^static int usb_kbd_translate(struct usb_kbd_pdata *data, unsigned char scancode,$/;"	f	file:
+usb_mass_storage	usb_storage.c	/^UCLASS_DRIVER(usb_mass_storage) = {$/;"	v
+usb_mass_storage	usb_storage.c	/^U_BOOT_DRIVER(usb_mass_storage) = {$/;"	v
+usb_mass_storage_ids	usb_storage.c	/^static const struct udevice_id usb_mass_storage_ids[] = {$/;"	v	typeref:struct:udevice_id	file:
+usb_mass_storage_probe	usb_storage.c	/^static int usb_mass_storage_probe(struct udevice *dev)$/;"	f	file:
+usb_max_devs	usb_storage.c	/^static int usb_max_devs; \/* number of highest available usb device *\/$/;"	v	file:
+usb_maxpacket	usb.c	/^int usb_maxpacket(struct usb_device *dev, unsigned long pipe)$/;"	f
+usb_new_device	usb.c	/^int usb_new_device(struct usb_device *dev)$/;"	f
+usb_out_pointer	usb_kbd.c	/^	uint32_t	usb_out_pointer;$/;"	m	struct:usb_kbd_pdata	file:
+usb_parse_config	usb.c	/^static int usb_parse_config(struct usb_device *dev,$/;"	f	file:
+usb_prepare_device	usb.c	/^static int usb_prepare_device(struct usb_device *dev, int addr, bool do_read,$/;"	f	file:
+usb_read_10	usb_storage.c	/^static int usb_read_10(struct scsi_cmd *srb, struct us_data *ss,$/;"	f	file:
+usb_read_capacity	usb_storage.c	/^static int usb_read_capacity(struct scsi_cmd *srb, struct us_data *ss)$/;"	f	file:
+usb_request_sense	usb_storage.c	/^static int usb_request_sense(struct scsi_cmd *srb, struct us_data *ss)$/;"	f	file:
+usb_scan_port	usb_hub.c	/^static int usb_scan_port(struct usb_device_scan *usb_scan)$/;"	f	file:
+usb_select_config	usb.c	/^int usb_select_config(struct usb_device *dev)$/;"	f
+usb_set_address	usb.c	/^static int usb_set_address(struct usb_device *dev)$/;"	f	file:
+usb_set_configuration	usb.c	/^static int usb_set_configuration(struct usb_device *dev, int configuration)$/;"	f	file:
+usb_set_hub_depth	usb_hub.c	/^static int usb_set_hub_depth(struct usb_device *dev, int depth)$/;"	f	file:
+usb_set_idle	usb.c	/^int usb_set_idle(struct usb_device *dev, int ifnum, int duration, int report_id)$/;"	f
+usb_set_interface	usb.c	/^int usb_set_interface(struct usb_device *dev, int interface, int alternate)$/;"	f
+usb_set_maxpacket	usb.c	/^static int usb_set_maxpacket(struct usb_device *dev)$/;"	f	file:
+usb_set_maxpacket_ep	usb.c	/^usb_set_maxpacket_ep(struct usb_device *dev, int if_idx, int ep_idx)$/;"	f	file:
+usb_set_port_feature	usb_hub.c	/^static int usb_set_port_feature(struct usb_device *dev, int port, int feature)$/;"	f	file:
+usb_set_protocol	usb.c	/^int usb_set_protocol(struct usb_device *dev, int ifnum, int protocol)$/;"	f
+usb_setup_descriptor	usb.c	/^static int usb_setup_descriptor(struct usb_device *dev, bool do_read)$/;"	f	file:
+usb_setup_device	usb.c	/^int usb_setup_device(struct usb_device *dev, bool do_read,$/;"	f
+usb_show_progress	usb_storage.c	/^static void usb_show_progress(void)$/;"	f	file:
+usb_show_srb	usb_storage.c	/^static void usb_show_srb(struct scsi_cmd *pccb)$/;"	f	file:
+usb_started	usb.c	/^char usb_started; \/* flag for the started\/stopped USB status *\/$/;"	v
+usb_stop	usb.c	/^int usb_stop(void)$/;"	f
+usb_stor	usb_storage.c	/^static struct us_data usb_stor[USB_MAX_STOR_DEV];$/;"	v	typeref:struct:us_data	file:
+usb_stor_BBB_clear_endpt_stall	usb_storage.c	/^static int usb_stor_BBB_clear_endpt_stall(struct us_data *us, __u8 endpt)$/;"	f	file:
+usb_stor_BBB_comdat	usb_storage.c	/^static int usb_stor_BBB_comdat(struct scsi_cmd *srb, struct us_data *us)$/;"	f	file:
+usb_stor_BBB_reset	usb_storage.c	/^static int usb_stor_BBB_reset(struct us_data *us)$/;"	f	file:
+usb_stor_BBB_transport	usb_storage.c	/^static int usb_stor_BBB_transport(struct scsi_cmd *srb, struct us_data *us)$/;"	f	file:
+usb_stor_CBI_get_status	usb_storage.c	/^static int usb_stor_CBI_get_status(struct scsi_cmd *srb, struct us_data *us)$/;"	f	file:
+usb_stor_CB_comdat	usb_storage.c	/^static int usb_stor_CB_comdat(struct scsi_cmd *srb, struct us_data *us)$/;"	f	file:
+usb_stor_CB_reset	usb_storage.c	/^static int usb_stor_CB_reset(struct us_data *us)$/;"	f	file:
+usb_stor_CB_transport	usb_storage.c	/^static int usb_stor_CB_transport(struct scsi_cmd *srb, struct us_data *us)$/;"	f	file:
+usb_stor_curr_dev	spl/spl_usb.c	/^static int usb_stor_curr_dev = -1; \/* current device *\/$/;"	v	file:
+usb_stor_get_info	usb_storage.c	/^int usb_stor_get_info(struct usb_device *dev, struct us_data *ss,$/;"	f
+usb_stor_info	usb_storage.c	/^int usb_stor_info(void)$/;"	f
+usb_stor_irq	usb_storage.c	/^static int usb_stor_irq(struct usb_device *dev)$/;"	f	file:
+usb_stor_probe_device	usb_storage.c	/^static int usb_stor_probe_device(struct usb_device *udev)$/;"	f	file:
+usb_stor_read	usb_storage.c	/^static unsigned long usb_stor_read(struct udevice *dev, lbaint_t blknr,$/;"	f	file:
+usb_stor_reset	usb_storage.c	/^void usb_stor_reset(void)$/;"	f
+usb_stor_scan	usb_storage.c	/^int usb_stor_scan(int mode)$/;"	f
+usb_stor_set_max_xfer_blk	usb_storage.c	/^static void usb_stor_set_max_xfer_blk(struct usb_device *udev,$/;"	f	file:
+usb_stor_write	usb_storage.c	/^static unsigned long usb_stor_write(struct udevice *dev, lbaint_t blknr,$/;"	f	file:
+usb_storage_blk	usb_storage.c	/^U_BOOT_DRIVER(usb_storage_blk) = {$/;"	v
+usb_storage_ops	usb_storage.c	/^static const struct blk_ops usb_storage_ops = {$/;"	v	typeref:struct:blk_ops	file:
+usb_storage_probe	usb_storage.c	/^int usb_storage_probe(struct usb_device *dev, unsigned int ifnum,$/;"	f
+usb_string	usb.c	/^int usb_string(struct usb_device *dev, int index, char *buf, size_t size)$/;"	f
+usb_string_sub	usb.c	/^static int usb_string_sub(struct usb_device *dev, unsigned int langid,$/;"	f	file:
+usb_submit_int_msg	usb.c	/^int usb_submit_int_msg(struct usb_device *dev, unsigned long pipe,$/;"	f
+usb_test_unit_ready	usb_storage.c	/^static int usb_test_unit_ready(struct scsi_cmd *srb, struct us_data *ss)$/;"	f	file:
+usb_try_string_workarounds	usb.c	/^static void usb_try_string_workarounds(unsigned char *buf, int *length)$/;"	f	file:
+usb_write_10	usb_storage.c	/^static int usb_write_10(struct scsi_cmd *srb, struct us_data *ss,$/;"	f	file:
+vALLOc	dlmalloc.c	/^Void_t* vALLOc(size_t bytes)$/;"	f
+validate_vbmeta_public_key	avb_verify.c	/^static AvbIOResult validate_vbmeta_public_key(AvbOps *ops,$/;"	f	file:
+value	cli_hush.c	/^	char *value;$/;"	m	struct:variables	file:
+var_complete	command.c	/^int var_complete(int argc, char * const argv[], char last_char, int maxv, char *cmdv[])$/;"	f
+variables	cli_hush.c	/^struct variables {$/;"	s	file:
+version	bootstage.c	/^	uint32_t version;	\/* BOOTSTAGE_VERSION *\/$/;"	m	struct:bootstage_hdr	file:
+w	cli_hush.c	/^	reserved_style w;$/;"	m	struct:p_context	file:
+word	cli_hush.c	/^	glob_t word;				\/* *word.gl_pathv is the filename *\/$/;"	m	struct:redir_struct	file:
+write_rollback_index	avb_verify.c	/^static AvbIOResult write_rollback_index(AvbOps *ops,$/;"	f	file:
+write_to_partition	avb_verify.c	/^static AvbIOResult write_to_partition(AvbOps *ops,$/;"	f	file:
+wsbrk	dlmalloc.c	/^void* wsbrk (long size)$/;"	f
+xglob	cli_hush.c	/^static int xglob(o_string *dest, int flags, glob_t *pglob)$/;"	f	file:
+xmalloc	cli_hush.c	/^static void *xmalloc(size_t size)$/;"	f	file:
+xrealloc	cli_hush.c	/^static void *xrealloc(void *ptr, size_t size)$/;"	f	file:
+xstrdup	cli_hush.c	135;"	d	file:
+xyz	xyzModem.c	/^} xyz;$/;"	v	typeref:struct:__anon8	file:
+xyzModem_CAN_COUNT	xyzModem.c	57;"	d	file:
+xyzModem_CHAR_TIMEOUT	xyzModem.c	54;"	d	file:
+xyzModem_MAX_RETRIES	xyzModem.c	55;"	d	file:
+xyzModem_MAX_RETRIES_WITH_CRC	xyzModem.c	56;"	d	file:
+xyzModem_error	xyzModem.c	/^xyzModem_error (int err)$/;"	f
+xyzModem_flush	xyzModem.c	/^xyzModem_flush (void)$/;"	f	file:
+xyzModem_get_hdr	xyzModem.c	/^xyzModem_get_hdr (void)$/;"	f	file:
+xyzModem_stream_close	xyzModem.c	/^xyzModem_stream_close (int *err)$/;"	f
+xyzModem_stream_open	xyzModem.c	/^xyzModem_stream_open (connection_info_t * info, int *err)$/;"	f
+xyzModem_stream_read	xyzModem.c	/^xyzModem_stream_read (char *buf, int size, int *err)$/;"	f
+xyzModem_stream_terminate	xyzModem.c	/^xyzModem_stream_terminate (bool abort, int (*getc) (void))$/;"	f
+yellow_led_off	board_f.c	/^__weak void yellow_led_off(void) {}$/;"	f
+yellow_led_on	board_f.c	/^__weak void yellow_led_on(void) {}$/;"	f
+ymodem_fit_info	spl/spl_ymodem.c	/^struct ymodem_fit_info {$/;"	s	file:
+ymodem_read_fit	spl/spl_ymodem.c	/^static ulong ymodem_read_fit(struct spl_load_info *load, ulong offset,$/;"	f	file:
+zm_bp	xyzModem.c	/^static unsigned char *zm_bp;$/;"	v	file:
+zm_buf	xyzModem.c	/^static unsigned char zm_buf[2048];$/;"	v	file:
+zm_debug_buf	xyzModem.c	/^static char zm_debug_buf[8192];$/;"	v	file:
+zm_dprintf	xyzModem.c	/^zm_dprintf(char *fmt, ...)$/;"	f	file:
+zm_dump	xyzModem.c	/^zm_dump (int line)$/;"	f	file:
+zm_dump_buf	xyzModem.c	/^zm_dump_buf (void *buf, int len)$/;"	f	file:
+zm_flush	xyzModem.c	/^zm_flush (void)$/;"	f	file:
+zm_new	xyzModem.c	/^zm_new (void)$/;"	f	file:
+zm_out	xyzModem.c	/^static char *zm_out = zm_debug_buf;$/;"	v	file:
+zm_out_start	xyzModem.c	/^static char *zm_out_start = zm_debug_buf;$/;"	v	file:
+zm_save	xyzModem.c	/^zm_save (unsigned char c)$/;"	f	file:

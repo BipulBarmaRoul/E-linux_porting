@@ -1,0 +1,318 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AFLAGS_REMOVE_memcpy.o	Makefile	/^AFLAGS_REMOVE_memcpy.o := -mthumb -mthumb-interwork$/;"	m
+AFLAGS_REMOVE_memset.o	Makefile	/^AFLAGS_REMOVE_memset.o := -mthumb -mthumb-interwork$/;"	m
+AFLAGS_memcpy.o	Makefile	/^AFLAGS_memcpy.o := -DMEMCPY_NO_THUMB_BUILD$/;"	m
+AFLAGS_memset.o	Makefile	/^AFLAGS_memset.o := -DMEMSET_NO_THUMB_BUILD$/;"	m
+ARM_LR	interrupts_m.c	23;"	d	file:
+ARM_PC	interrupts_m.c	22;"	d	file:
+ARM_R0	interrupts_m.c	28;"	d	file:
+ARM_R1	interrupts_m.c	27;"	d	file:
+ARM_R12	interrupts_m.c	24;"	d	file:
+ARM_R2	interrupts_m.c	26;"	d	file:
+ARM_R3	interrupts_m.c	25;"	d	file:
+ARM_XPSR	interrupts_m.c	21;"	d	file:
+A_0	uldivmod.S	/^A_0	.req	r0$/;"	l
+A_1	uldivmod.S	/^A_1	.req	r1$/;"	l
+B_0	uldivmod.S	/^B_0	.req	r2$/;"	l
+B_1	uldivmod.S	/^B_1	.req	r3$/;"	l
+CFLAGS_cache-cp15.o	Makefile	/^CFLAGS_cache-cp15.o := -marm$/;"	m
+CFLAGS_cache.o	Makefile	/^CFLAGS_cache.o := -marm$/;"	m
+CONFIG_AEABI	lib1funcs.S	/^#define CONFIG_AEABI$/;"	d
+C_0	uldivmod.S	/^C_0	.req	r4$/;"	l
+C_1	uldivmod.S	/^C_1	.req	r5$/;"	l
+D_0	uldivmod.S	/^D_0	.req	r6$/;"	l
+D_1	uldivmod.S	/^D_1	.req	r7$/;"	l
+IRQ_STACK_START_IN	vectors.S	/^IRQ_STACK_START_IN:$/;"	l
+I_BIT	vectors.S	/^#define I_BIT	 0x80$/;"	d
+ImageBase	crt0_aarch64_efi.S	/^ImageBase:$/;"	l
+Image_header	image.c	/^struct Image_header {$/;"	s	file:
+LDR1W_SHIFT	memcpy.S	/^#define LDR1W_SHIFT	0$/;"	d
+LINUX_ARM64_IMAGE_MAGIC	image.c	13;"	d	file:
+LINUX_ARM_ZIMAGE_MAGIC	zimage.c	11;"	d	file:
+L_1	uldivmod.S	/^L_1:$/;"	l
+L_div_32_32	uldivmod.S	/^L_div_32_32:$/;"	l
+L_div_64_64	uldivmod.S	/^L_div_64_64:$/;"	l
+L_div_by_0	uldivmod.S	/^L_div_by_0:$/;"	l
+L_done_shift	uldivmod.S	/^L_done_shift:$/;"	l
+L_exit	uldivmod.S	/^L_exit:$/;"	l
+L_lsl_1	uldivmod.S	/^L_lsl_1:$/;"	l
+L_lsl_4	uldivmod.S	/^L_lsl_4:$/;"	l
+L_pow2	uldivmod.S	/^L_pow2:$/;"	l
+L_subtract	uldivmod.S	/^L_subtract:$/;"	l
+L_update	uldivmod.S	/^L_update:$/;"	l
+Ldiv0	lib1funcs.S	/^Ldiv0:$/;"	l
+Ldiv0_64	div64.S	/^Ldiv0_64:$/;"	l
+MODE_READ	semihosting.c	22;"	d	file:
+MODE_READBIN	semihosting.c	23;"	d	file:
+MODE_SVC	vectors.S	/^#define MODE_SVC 0x13$/;"	d
+Q_0	uldivmod.S	/^Q_0	.req	r0$/;"	l
+Q_1	uldivmod.S	/^Q_1	.req	r1$/;"	l
+R_0	uldivmod.S	/^R_0	.req	r2$/;"	l
+R_1	uldivmod.S	/^R_1	.req	r3$/;"	l
+STR1W_SHIFT	memcpy.S	/^#define STR1W_SHIFT	0$/;"	d
+SYSCLOSE	semihosting.c	18;"	d	file:
+SYSFLEN	semihosting.c	20;"	d	file:
+SYSOPEN	semihosting.c	17;"	d	file:
+SYSREAD	semihosting.c	19;"	d	file:
+S_FP	vectors.S	/^#define S_FP		44$/;"	d
+S_FRAME_SIZE	vectors.S	/^#define S_FRAME_SIZE	72$/;"	d
+S_IP	vectors.S	/^#define S_IP		48$/;"	d
+S_LR	vectors.S	/^#define S_LR		56$/;"	d
+S_OLD_R0	vectors.S	/^#define S_OLD_R0	68$/;"	d
+S_PC	vectors.S	/^#define S_PC		60$/;"	d
+S_PSR	vectors.S	/^#define S_PSR		64$/;"	d
+S_R0	vectors.S	/^#define S_R0		0$/;"	d
+S_R1	vectors.S	/^#define S_R1		4$/;"	d
+S_R10	vectors.S	/^#define S_R10		40$/;"	d
+S_R2	vectors.S	/^#define S_R2		8$/;"	d
+S_R3	vectors.S	/^#define S_R3		12$/;"	d
+S_R4	vectors.S	/^#define S_R4		16$/;"	d
+S_R5	vectors.S	/^#define S_R5		20$/;"	d
+S_R6	vectors.S	/^#define S_R6		24$/;"	d
+S_R7	vectors.S	/^#define S_R7		28$/;"	d
+S_R8	vectors.S	/^#define S_R8		32$/;"	d
+S_R9	vectors.S	/^#define S_R9		36$/;"	d
+S_SP	vectors.S	/^#define S_SP		52$/;"	d
+TMP	uldivmod.S	/^TMP	.req	r8$/;"	l
+UNWIND	div64.S	/^#define UNWIND(x...)$/;"	d
+UNWIND	lib1funcs.S	/^#define UNWIND(x...)$/;"	d
+__aeabi_memcpy	eabi_compat.c	/^void __aeabi_memcpy(void *dest, const void *src, size_t n)$/;"	f
+__aeabi_memset	eabi_compat.c	/^void __aeabi_memset(void *dest, size_t n, int c)$/;"	f
+__aeabi_unwind_cpp_pr0	eabi_compat.c	/^void __aeabi_unwind_cpp_pr0(void)$/;"	f
+__aeabi_unwind_cpp_pr1	eabi_compat.c	/^void __aeabi_unwind_cpp_pr1(void)$/;"	f
+__bss_end	sections.c	/^char __bss_end[0] __attribute__((section(".__bss_end")));$/;"	v
+__bss_start	sections.c	/^char __bss_start[0] __attribute__((section(".__bss_start")));$/;"	v
+__bus_fault_entry	vectors_m.S	/^__bus_fault_entry:$/;"	l
+__div0	div0.c	/^void __div0 (void)$/;"	f
+__efi_runtime_rel_start	sections.c	/^char __efi_runtime_rel_start[0] __attribute__((section(".__efi_runtime_rel_start")));$/;"	v
+__efi_runtime_rel_stop	sections.c	/^char __efi_runtime_rel_stop[0] __attribute__((section(".__efi_runtime_rel_stop")));$/;"	v
+__efi_runtime_start	sections.c	/^char __efi_runtime_start[0] __attribute__((section(".__efi_runtime_start")));$/;"	v
+__efi_runtime_stop	sections.c	/^char __efi_runtime_stop[0] __attribute__((section(".__efi_runtime_stop")));$/;"	v
+__hard_fault_entry	vectors_m.S	/^__hard_fault_entry:$/;"	l
+__image_copy_end	sections.c	/^char __image_copy_end[0] __attribute__((section(".__image_copy_end")));$/;"	v
+__image_copy_start	sections.c	/^char __image_copy_start[0] __attribute__((section(".__image_copy_start")));$/;"	v
+__invalid_entry	vectors_m.S	/^__invalid_entry:$/;"	l
+__mm_fault_entry	vectors_m.S	/^__mm_fault_entry:$/;"	l
+__rel_dyn_end	sections.c	/^char __rel_dyn_end[0] __attribute__((section(".__rel_dyn_end")));$/;"	v
+__rel_dyn_start	sections.c	/^char __rel_dyn_start[0] __attribute__((section(".__rel_dyn_start")));$/;"	v
+__secure_end	sections.c	/^char __secure_end[0] __attribute__((section(".__secure_end")));$/;"	v
+__secure_stack_end	sections.c	/^char __secure_stack_end[0] __attribute__((section(".__secure_stack_end")));$/;"	v
+__secure_stack_start	sections.c	/^char __secure_stack_start[0] __attribute__((section(".__secure_stack_start")));$/;"	v
+__secure_start	sections.c	/^char __secure_start[0] __attribute__((section(".__secure_start")));$/;"	v
+__usage_fault_entry	vectors_m.S	/^__usage_fault_entry:$/;"	l
+_data_abort	vectors.S	/^_data_abort:		.word data_abort$/;"	l
+_end	sections.c	/^char _end[0] __attribute__((section(".__end")));$/;"	v
+_fiq	vectors.S	/^_fiq:			.word fiq$/;"	l
+_irq	vectors.S	/^_irq:			.word irq$/;"	l
+_not_used	vectors.S	/^_not_used:		.word not_used$/;"	l
+_prefetch_abort	vectors.S	/^_prefetch_abort:	.word prefetch_abort$/;"	l
+_relocate	reloc_aarch64_efi.c	/^efi_status_t _relocate(long ldbase, Elf64_Dyn *dyn, efi_handle_t image,$/;"	f
+_relocate	reloc_arm_efi.c	/^efi_status_t _relocate(long ldbase, Elf32_Dyn *dyn, efi_handle_t image,$/;"	f
+_software_interrupt	vectors.S	/^_software_interrupt:	.word software_interrupt$/;"	l
+_start	crt0_aarch64_efi.S	/^_start:$/;"	l
+_start	crt0_arm_efi.S	/^_start:$/;"	l
+_start	vectors.S	/^_start:$/;"	l
+_undefined_instruction	vectors.S	/^_undefined_instruction:	.word undefined_instruction$/;"	l
+ah	ashldi3.S	/^#define ah r0$/;"	d
+ah	ashldi3.S	/^#define ah r1$/;"	d
+ah	ashrdi3.S	/^#define ah r0$/;"	d
+ah	ashrdi3.S	/^#define ah r1$/;"	d
+ah	lshrdi3.S	/^#define ah r0$/;"	d
+ah	lshrdi3.S	/^#define ah r1$/;"	d
+al	ashldi3.S	/^#define al r0$/;"	d
+al	ashldi3.S	/^#define al r1$/;"	d
+al	ashrdi3.S	/^#define al r0$/;"	d
+al	ashrdi3.S	/^#define al r1$/;"	d
+al	lshrdi3.S	/^#define al r0$/;"	d
+al	lshrdi3.S	/^#define al r1$/;"	d
+announce_and_cleanup	bootm.c	/^static void announce_and_cleanup(int fake)$/;"	f	file:
+arch_fixup_fdt	bootm-fdt.c	/^int arch_fixup_fdt(void *blob)$/;"	f
+arch_lmb_reserve	bootm.c	/^void arch_lmb_reserve(struct lmb *lmb)$/;"	f
+arch_reserve_stacks	stack.c	/^int arch_reserve_stacks(void)$/;"	f
+arm_init_before_mmu	cache-cp15.c	/^__weak void arm_init_before_mmu(void)$/;"	f
+arm_init_domains	cache-cp15.c	/^__weak void arm_init_domains(void)$/;"	f
+arm_z_header	zimage.c	/^struct arm_z_header {$/;"	s	file:
+armv7_boot_nonsec	bootm.c	/^bool armv7_boot_nonsec(void)$/;"	f
+armv7_boot_nonsec_default	bootm.c	/^__weak bool armv7_boot_nonsec_default(void)$/;"	f
+autosave_regs	interrupts_m.c	/^struct autosave_regs {$/;"	s	file:
+bad_mode	interrupts.c	/^void bad_mode (void)$/;"	f
+bad_mode	interrupts_m.c	/^void bad_mode(void)$/;"	f
+board_init_f	spl.c	/^void __weak board_init_f(ulong dummy)$/;"	f
+board_quiesce_devices	bootm.c	/^__weak void board_quiesce_devices(void)$/;"	f
+boot_jump_linux	bootm.c	/^static void boot_jump_linux(bootm_headers_t *images, int flag)$/;"	f	file:
+boot_jump_vxworks	bootm.c	/^void boot_jump_vxworks(bootm_headers_t *images)$/;"	f
+boot_prep_linux	bootm.c	/^static void boot_prep_linux(bootm_headers_t *images)$/;"	f	file:
+boot_prep_vxworks	bootm.c	/^void boot_prep_vxworks(bootm_headers_t *images)$/;"	f
+booti_setup	image.c	/^int booti_setup(ulong image, ulong *relocated_addr, ulong *size,$/;"	f
+bootz_setup	zimage.c	/^int bootz_setup(ulong image, ulong *start, ulong *end)$/;"	f
+cache_disable	cache-cp15.c	/^static void cache_disable(uint32_t cache_bit)$/;"	f	file:
+cache_enable	cache-cp15.c	/^static void cache_enable(uint32_t cache_bit)$/;"	f	file:
+check_cache_range	cache.c	/^int check_cache_range(unsigned long start, unsigned long stop)$/;"	f
+clear_loop	crt0_64.S	/^clear_loop:$/;"	l
+code	zimage.c	/^	uint32_t	code[9];$/;"	m	struct:arm_z_header	file:
+code0	image.c	/^	uint32_t	code0;		\/* Executable code *\/$/;"	m	struct:Image_header	file:
+code1	image.c	/^	uint32_t	code1;		\/* Executable code *\/$/;"	m	struct:Image_header	file:
+coff_header	crt0_aarch64_efi.S	/^coff_header:$/;"	l
+coff_header	crt0_arm_efi.S	/^coff_header:$/;"	l
+copy_loop	relocate.S	/^copy_loop:$/;"	l
+copy_loop	relocate_64.S	/^copy_loop:$/;"	l
+data_abort	vectors.S	/^data_abort:$/;"	l
+dcache_disable	cache-cp15.c	/^void dcache_disable (void)$/;"	f
+dcache_disable	cache-cp15.c	/^void dcache_disable(void)$/;"	f
+dcache_enable	cache-cp15.c	/^void dcache_enable (void)$/;"	f
+dcache_enable	cache-cp15.c	/^void dcache_enable(void)$/;"	f
+dcache_status	cache-cp15.c	/^int dcache_status (void)$/;"	f
+dcache_status	cache-cp15.c	/^int dcache_status(void)$/;"	f
+disable_interrupts	interrupts.c	/^int disable_interrupts (void)$/;"	f
+disable_interrupts	interrupts_64.c	/^int disable_interrupts(void)$/;"	f
+disable_interrupts	interrupts_m.c	/^int disable_interrupts(void)$/;"	f
+do_bad_error	interrupts_64.c	/^void do_bad_error(struct pt_regs *pt_regs, unsigned int esr)$/;"	f
+do_bad_fiq	interrupts_64.c	/^void do_bad_fiq(struct pt_regs *pt_regs, unsigned int esr)$/;"	f
+do_bad_irq	interrupts_64.c	/^void do_bad_irq(struct pt_regs *pt_regs, unsigned int esr)$/;"	f
+do_bad_sync	interrupts_64.c	/^void do_bad_sync(struct pt_regs *pt_regs, unsigned int esr)$/;"	f
+do_bootm_linux	bootm.c	/^int do_bootm_linux(int flag, int argc, char * const argv[],$/;"	f
+do_bus_fault	interrupts_m.c	/^void do_bus_fault(struct autosave_regs *autosave_regs)$/;"	f
+do_data_abort	interrupts.c	/^void do_data_abort (struct pt_regs *pt_regs)$/;"	f
+do_error	interrupts_64.c	/^void __weak do_error(struct pt_regs *pt_regs, unsigned int esr)$/;"	f
+do_fiq	interrupts.c	/^void do_fiq (struct pt_regs *pt_regs)$/;"	f
+do_fiq	interrupts_64.c	/^void do_fiq(struct pt_regs *pt_regs, unsigned int esr)$/;"	f
+do_go_exec	cmd_boot.c	/^unsigned long do_go_exec(ulong (*entry)(int, char * const []),$/;"	f
+do_hard_fault	interrupts_m.c	/^void do_hard_fault(struct autosave_regs *autosave_regs)$/;"	f
+do_invalid_entry	interrupts_m.c	/^void do_invalid_entry(struct autosave_regs *autosave_regs)$/;"	f
+do_irq	interrupts.c	/^void do_irq (struct pt_regs *pt_regs)$/;"	f
+do_irq	interrupts_64.c	/^void do_irq(struct pt_regs *pt_regs, unsigned int esr)$/;"	f
+do_mm_fault	interrupts_m.c	/^void do_mm_fault(struct autosave_regs *autosave_regs)$/;"	f
+do_nonsec_virt_switch	bootm.c	/^static void do_nonsec_virt_switch(void)$/;"	f	file:
+do_not_used	interrupts.c	/^void do_not_used (struct pt_regs *pt_regs)$/;"	f
+do_prefetch_abort	interrupts.c	/^void do_prefetch_abort (struct pt_regs *pt_regs)$/;"	f
+do_reset	reset.c	/^int do_reset(cmd_tbl_t *cmdtp, int flag, int argc, char * const argv[])$/;"	f
+do_smhload	semihosting.c	/^static int do_smhload(cmd_tbl_t *cmdtp, int flag, int argc, char * const argv[])$/;"	f	file:
+do_software_interrupt	interrupts.c	/^void do_software_interrupt (struct pt_regs *pt_regs)$/;"	f
+do_sync	interrupts_64.c	/^void do_sync(struct pt_regs *pt_regs, unsigned int esr)$/;"	f
+do_undefined_instruction	interrupts.c	/^void do_undefined_instruction (struct pt_regs *pt_regs)$/;"	f
+do_usage_fault	interrupts_m.c	/^void do_usage_fault(struct autosave_regs *autosave_regs)$/;"	f
+dram_bank_mmu_setup	cache-cp15.c	/^__weak void dram_bank_mmu_setup(int bank)$/;"	f
+dump_instr	interrupts.c	/^static void dump_instr(struct pt_regs *regs)$/;"	f	file:
+dump_regs	interrupts_m.c	/^void dump_regs(struct autosave_regs *regs)$/;"	f
+enable_caches	cache.c	/^__weak void enable_caches(void)$/;"	f
+enable_interrupts	interrupts.c	/^void enable_interrupts (void)$/;"	f
+enable_interrupts	interrupts_64.c	/^void enable_interrupts(void)$/;"	f
+enable_interrupts	interrupts_m.c	/^void enable_interrupts(void)$/;"	f
+extra_header_fields	crt0_aarch64_efi.S	/^extra_header_fields:$/;"	l
+extra_header_fields	crt0_arm_efi.S	/^extra_header_fields:$/;"	l
+fdt_psci	psci-dt.c	/^int fdt_psci(void *fdt)$/;"	f
+fdt_update_ethernet_dt	bootm-fdt.c	/^__weak int fdt_update_ethernet_dt(void *blob)$/;"	f
+fiq	vectors.S	/^fiq:$/;"	l
+fixloop	relocate.S	/^fixloop:$/;"	l
+fixloop	relocate_64.S	/^fixloop:$/;"	l
+fixnext	relocate.S	/^fixnext:$/;"	l
+fixnext	relocate_64.S	/^fixnext:$/;"	l
+fixup_pc	interrupts.c	/^static inline void fixup_pc(struct pt_regs *regs, int offset)$/;"	f	file:
+flags	image.c	/^	uint64_t	flags;		\/* Kernel flags, LE *\/$/;"	m	struct:Image_header	file:
+flush_cache	cache.c	/^__weak void flush_cache(unsigned long start, unsigned long size)$/;"	f
+flush_dcache_all	cache.c	/^__weak void flush_dcache_all(void)$/;"	f
+flush_dcache_range	cache.c	/^__weak void flush_dcache_range(unsigned long start, unsigned long stop)$/;"	f
+gdata	spl.c	/^gd_t gdata __attribute__ ((section(".data")));$/;"	v
+get_sp	bootm.c	/^static ulong get_sp(void)$/;"	f	file:
+here	crt0.S	/^here:$/;"	l
+hexbuf	debug.S	/^hexbuf:		.space 16$/;"	l
+icache_disable	cache-cp15.c	/^void icache_disable (void)$/;"	f
+icache_disable	cache-cp15.c	/^void icache_disable(void)$/;"	f
+icache_enable	cache-cp15.c	/^void icache_enable (void)$/;"	f
+icache_enable	cache-cp15.c	/^void icache_enable(void)$/;"	f
+icache_status	cache-cp15.c	/^int icache_status (void)$/;"	f
+icache_status	cache-cp15.c	/^int icache_status(void)$/;"	f
+image_base	crt0_arm_efi.S	/^image_base:$/;"	l
+image_size	image.c	/^	uint64_t	image_size;	\/* Effective Image size, LE *\/$/;"	m	struct:Image_header	file:
+interrupt_init	interrupts.c	/^int interrupt_init (void)$/;"	f
+interrupt_init	interrupts_64.c	/^int interrupt_init(void)$/;"	f
+interrupt_init	interrupts_m.c	/^int interrupt_init(void)$/;"	f
+invalidate_dcache_range	cache.c	/^__weak void invalidate_dcache_range(unsigned long start, unsigned long stop)$/;"	f
+invalidate_l2_cache	cache.c	/^void invalidate_l2_cache(void)$/;"	f
+irq	vectors.S	/^irq:$/;"	l
+jump_to_image_linux	spl.c	/^void __noreturn jump_to_image_linux(struct spl_image_info *spl_image)$/;"	f
+magic	image.c	/^	uint32_t	magic;		\/* Magic number *\/$/;"	m	struct:Image_header	file:
+main	asm-offsets.c	/^int main(void)$/;"	f
+mmu_enabled	cache-cp15.c	/^static int mmu_enabled(void)$/;"	f	file:
+mmu_page_table_flush	cache-cp15.c	/^__weak void mmu_page_table_flush(unsigned long start, unsigned long stop)$/;"	f
+mmu_set_region_dcache_behaviour	cache-cp15.c	/^void mmu_set_region_dcache_behaviour(phys_addr_t start, size_t size,$/;"	f
+mmu_setup	cache-cp15.c	/^static inline void mmu_setup(void)$/;"	f	file:
+noncached_alloc	cache.c	/^phys_addr_t noncached_alloc(size_t size, size_t align)$/;"	f
+noncached_end	cache.c	/^static unsigned long noncached_end;$/;"	v	file:
+noncached_init	cache.c	/^void noncached_init(void)$/;"	f
+noncached_next	cache.c	/^static unsigned long noncached_next;$/;"	v	file:
+noncached_start	cache.c	/^static unsigned long noncached_start;$/;"	v	file:
+not_used	vectors.S	/^not_used:$/;"	l
+optional_header	crt0_aarch64_efi.S	/^optional_header:$/;"	l
+optional_header	crt0_arm_efi.S	/^optional_header:$/;"	l
+params	bootm.c	/^static struct tag *params;$/;"	v	typeref:struct:tag	file:
+pe_header	crt0_aarch64_efi.S	/^pe_header:$/;"	l
+pe_header	crt0_arm_efi.S	/^pe_header:$/;"	l
+pl310	cache-pl310.c	/^struct pl310_regs *const pl310 = (struct pl310_regs *)CONFIG_SYS_PL310_BASE;$/;"	v
+pl310_background_op_all_ways	cache-pl310.c	/^static void pl310_background_op_all_ways(u32 *op_reg)$/;"	f	file:
+pl310_cache_sync	cache-pl310.c	/^static void pl310_cache_sync(void)$/;"	f	file:
+prefetch_abort	vectors.S	/^prefetch_abort:$/;"	l
+printhex	debug.S	/^printhex:	adr	r2, hexbuf$/;"	l
+raise	eabi_compat.c	/^int raise (int signum)$/;"	f
+relocate_done	relocate.S	/^relocate_done:$/;"	l
+relocate_done	relocate_64.S	/^relocate_done:$/;"	l
+relocation_return	crt0_64.S	/^relocation_return:$/;"	l
+res2	image.c	/^	uint64_t	res2;		\/* reserved *\/$/;"	m	struct:Image_header	file:
+res3	image.c	/^	uint64_t	res3;		\/* reserved *\/$/;"	m	struct:Image_header	file:
+res4	image.c	/^	uint64_t	res4;		\/* reserved *\/$/;"	m	struct:Image_header	file:
+res5	image.c	/^	uint32_t	res5;$/;"	m	struct:Image_header	file:
+reset_misc	reset.c	/^__weak void reset_misc(void)$/;"	f
+section_table	crt0_aarch64_efi.S	/^section_table:$/;"	l
+section_table	crt0_arm_efi.S	/^section_table:$/;"	l
+set_section_dcache	cache-cp15.c	/^void set_section_dcache(int section, enum dcache_option option)$/;"	f
+setup_board_tags	bootm.c	/^__weak void setup_board_tags(struct tag **in_params) {}$/;"	f
+setup_commandline_tag	bootm.c	/^static void setup_commandline_tag(bd_t *bd, char *commandline)$/;"	f	file:
+setup_end_tag	bootm.c	/^static void setup_end_tag(bd_t *bd)$/;"	f	file:
+setup_initrd_tag	bootm.c	/^static void setup_initrd_tag(bd_t *bd, ulong initrd_start, ulong initrd_end)$/;"	f	file:
+setup_memory_tags	bootm.c	/^static void setup_memory_tags(bd_t *bd)$/;"	f	file:
+setup_revision_tag	bootm.c	/^static void setup_revision_tag(struct tag **in_params)$/;"	f	file:
+setup_serial_tag	bootm.c	/^static void setup_serial_tag(struct tag **tmp)$/;"	f	file:
+setup_start_tag	bootm.c	/^static void setup_start_tag (bd_t *bd)$/;"	f	file:
+show_efi_loaded_images	interrupts.c	/^static void show_efi_loaded_images(struct pt_regs *regs)$/;"	f	file:
+show_regs	interrupts.c	/^void show_regs (struct pt_regs *regs)$/;"	f
+show_regs	interrupts_64.c	/^void show_regs(struct pt_regs *regs)$/;"	f
+smh_close	semihosting.c	/^static long smh_close(long fd)$/;"	f	file:
+smh_len_fd	semihosting.c	/^static long smh_len_fd(long fd)$/;"	f	file:
+smh_load_file	semihosting.c	/^static int smh_load_file(const char * const name, ulong load_addr,$/;"	f	file:
+smh_open	semihosting.c	/^static long smh_open(const char *fname, char *modestr)$/;"	f	file:
+smh_read	semihosting.c	/^static long smh_read(long fd, void *memp, size_t len)$/;"	f	file:
+smh_trap	semihosting.c	/^static noinline long smh_trap(unsigned int sysnum, void *addr)$/;"	f	file:
+software_interrupt	vectors.S	/^software_interrupt:$/;"	l
+switch_to_el1	bootm.c	/^static void switch_to_el1(void)$/;"	f	file:
+text_offset	image.c	/^	uint64_t	text_offset;	\/* Image load offset, LE *\/$/;"	m	struct:Image_header	file:
+undefined_instruction	vectors.S	/^undefined_instruction:$/;"	l
+update_os_arch_secondary_cores	bootm.c	/^__weak void update_os_arch_secondary_cores(uint8_t os_arch)$/;"	f
+uregs	interrupts_m.c	/^	long uregs[8];$/;"	m	struct:autosave_regs	file:
+v7_outer_cache_flush_all	cache-pl310.c	/^void v7_outer_cache_flush_all(void)$/;"	f
+v7_outer_cache_flush_range	cache-pl310.c	/^void v7_outer_cache_flush_range(u32 start, u32 stop)$/;"	f
+v7_outer_cache_inval_all	cache-pl310.c	/^void v7_outer_cache_inval_all(void)$/;"	f
+v7_outer_cache_inval_range	cache-pl310.c	/^void v7_outer_cache_inval_range(u32 start, u32 stop)$/;"	f
+xh	div64.S	/^#define xh r0$/;"	d
+xh	div64.S	/^#define xh r1$/;"	d
+xh	muldi3.S	/^#define xh r0$/;"	d
+xh	muldi3.S	/^#define xh r1$/;"	d
+xl	div64.S	/^#define xl r0$/;"	d
+xl	div64.S	/^#define xl r1$/;"	d
+xl	muldi3.S	/^#define xl r0$/;"	d
+xl	muldi3.S	/^#define xl r1$/;"	d
+yh	div64.S	/^#define yh r2$/;"	d
+yh	div64.S	/^#define yh r3$/;"	d
+yh	muldi3.S	/^#define yh r2$/;"	d
+yh	muldi3.S	/^#define yh r3$/;"	d
+yl	div64.S	/^#define yl r2$/;"	d
+yl	div64.S	/^#define yl r3$/;"	d
+yl	muldi3.S	/^#define yl r2$/;"	d
+yl	muldi3.S	/^#define yl r3$/;"	d
+zi_end	zimage.c	/^	uint32_t	zi_end;$/;"	m	struct:arm_z_header	file:
+zi_magic	zimage.c	/^	uint32_t	zi_magic;$/;"	m	struct:arm_z_header	file:
+zi_start	zimage.c	/^	uint32_t	zi_start;$/;"	m	struct:arm_z_header	file:

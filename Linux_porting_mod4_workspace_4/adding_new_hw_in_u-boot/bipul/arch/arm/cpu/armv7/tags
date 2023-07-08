@@ -1,0 +1,940 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AHCI_PORT_PHY_1_CFG	ls102xa/ls102xa_sata.c	12;"	d	file:
+AHCI_PORT_PHY_2_CFG	ls102xa/ls102xa_sata.c	13;"	d	file:
+AHCI_PORT_PHY_3_CFG	ls102xa/ls102xa_sata.c	14;"	d	file:
+AHCI_PORT_PHY_4_CFG	ls102xa/ls102xa_sata.c	15;"	d	file:
+AHCI_PORT_PHY_5_CFG	ls102xa/ls102xa_sata.c	16;"	d	file:
+AHCI_PORT_TRANS_CFG	ls102xa/ls102xa_sata.c	17;"	d	file:
+ARM	cache_v7_asm.S	/^#define ARM(x...)	x$/;"	d
+ARM	cache_v7_asm.S	/^#define ARM(x...)$/;"	d
+ARMV7_DCACHE_CLEAN_INVAL_RANGE	cache_v7.c	13;"	d	file:
+ARMV7_DCACHE_INVAL_RANGE	cache_v7.c	12;"	d	file:
+BAD_CLK_INDEX	bcm235xx/clk-core.h	78;"	d
+BAD_CLK_INDEX	bcm281xx/clk-core.h	78;"	d
+BAD_CLK_NAME	bcm235xx/clk-core.h	79;"	d
+BAD_CLK_NAME	bcm281xx/clk-core.h	79;"	d
+BAD_SCALED_DIV_VALUE	bcm235xx/clk-core.h	81;"	d
+BAD_SCALED_DIV_VALUE	bcm281xx/clk-core.h	81;"	d
+BCM_CLK_DIV_FLAGS_EXISTS	bcm235xx/clk-core.h	285;"	d
+BCM_CLK_DIV_FLAGS_EXISTS	bcm281xx/clk-core.h	285;"	d
+BCM_CLK_DIV_FLAGS_FIXED	bcm235xx/clk-core.h	286;"	d
+BCM_CLK_DIV_FLAGS_FIXED	bcm281xx/clk-core.h	286;"	d
+BCM_CLK_GATE_FLAGS_ENABLED	bcm235xx/clk-core.h	165;"	d
+BCM_CLK_GATE_FLAGS_ENABLED	bcm281xx/clk-core.h	165;"	d
+BCM_CLK_GATE_FLAGS_EXISTS	bcm235xx/clk-core.h	160;"	d
+BCM_CLK_GATE_FLAGS_EXISTS	bcm281xx/clk-core.h	160;"	d
+BCM_CLK_GATE_FLAGS_HW	bcm235xx/clk-core.h	161;"	d
+BCM_CLK_GATE_FLAGS_HW	bcm281xx/clk-core.h	161;"	d
+BCM_CLK_GATE_FLAGS_NO_DISABLE	bcm235xx/clk-core.h	163;"	d
+BCM_CLK_GATE_FLAGS_NO_DISABLE	bcm281xx/clk-core.h	163;"	d
+BCM_CLK_GATE_FLAGS_SW	bcm235xx/clk-core.h	162;"	d
+BCM_CLK_GATE_FLAGS_SW	bcm281xx/clk-core.h	162;"	d
+BCM_CLK_GATE_FLAGS_SW_MANAGED	bcm235xx/clk-core.h	164;"	d
+BCM_CLK_GATE_FLAGS_SW_MANAGED	bcm281xx/clk-core.h	164;"	d
+BCM_CLK_TRIG_FLAGS_EXISTS	bcm235xx/clk-core.h	379;"	d
+BCM_CLK_TRIG_FLAGS_EXISTS	bcm281xx/clk-core.h	379;"	d
+BLOCK_SIZE_L1	ls102xa/cpu.c	44;"	d	file:
+BLOCK_SIZE_L2	ls102xa/cpu.c	45;"	d	file:
+CCSR_GICC_CTLR	ls102xa/ls102xa_psci.c	18;"	d	file:
+CCSR_GICD_CTLR	ls102xa/ls102xa_psci.c	17;"	d	file:
+CLKS_SHIFT	bcm281xx/reset.c	12;"	d	file:
+CLK_GATE_DELAY_USEC	bcm235xx/clk-core.c	53;"	d	file:
+CLK_GATE_DELAY_USEC	bcm281xx/clk-core.c	53;"	d	file:
+CLK_LK	bcm235xx/clk-core.h	457;"	d
+CLK_LK	bcm281xx/clk-core.h	457;"	d
+CLK_WR_ACCESS_PASSWORD	bcm235xx/clk-core.c	20;"	d	file:
+CLK_WR_ACCESS_PASSWORD	bcm281xx/clk-core.c	20;"	d	file:
+CLOCKS	bcm235xx/clk-core.h	406;"	d
+CLOCKS	bcm281xx/clk-core.h	406;"	d
+CLOCK_1K	bcm235xx/clk-bcm235xx.c	19;"	d	file:
+CLOCK_1K	bcm281xx/clk-bcm281xx.c	19;"	d	file:
+CLOCK_1M	bcm235xx/clk-bcm235xx.c	20;"	d	file:
+CLOCK_1M	bcm281xx/clk-bcm281xx.c	20;"	d	file:
+CONFIG_DM_PWM	s5p-common/timer.c	16;"	d	file:
+CONFIG_SYS_FSL_NUM_CC_PLLS	ls102xa/clock.c	15;"	d	file:
+COUNT_TO_USEC	sunxi/timer.c	21;"	d	file:
+CPMFSMSR_FSM_STATE_MASK	ls102xa/cpu.c	25;"	d	file:
+CRMU_MAIL_BOX1	bcmcygnus/reset.c	9;"	d	file:
+CRMU_SOFT_RESET_CMD	bcmcygnus/reset.c	10;"	d	file:
+CRU_RESET_OFFSET	bcmnsp/reset.c	9;"	d	file:
+DCFG_CCSR_BRR	ls102xa/psci.S	/^#define DCFG_CCSR_BRR			0x0E4$/;"	d
+DCFG_CCSR_RSTCR	ls102xa/psci.S	/^#define DCFG_CCSR_RSTCR			0x0B0$/;"	d
+DCFG_CCSR_RSTCR_RESET_REQ	ls102xa/psci.S	/^#define DCFG_CCSR_RSTCR_RESET_REQ	0x2$/;"	d
+DCFG_CCSR_SCRATCHRW1	ls102xa/psci.S	/^#define DCFG_CCSR_SCRATCHRW1		0x200$/;"	d
+DCFG_CRSTSR_WDRFR	ls102xa/ls102xa_psci.c	21;"	d	file:
+DCSR_RCPM2_BLOCK_OFFSET	ls102xa/cpu.c	20;"	d	file:
+DCSR_RCPM2_CPMFSMCR0	ls102xa/cpu.c	21;"	d	file:
+DCSR_RCPM2_CPMFSMCR1	ls102xa/cpu.c	23;"	d	file:
+DCSR_RCPM2_CPMFSMSR0	ls102xa/cpu.c	22;"	d	file:
+DCSR_RCPM2_CPMFSMSR1	ls102xa/cpu.c	24;"	d	file:
+DCSR_RCPM_CG1CR0	ls102xa/ls102xa_psci.c	19;"	d	file:
+DCSR_RCPM_CSTTACR0	ls102xa/ls102xa_psci.c	20;"	d	file:
+DDR_RESV_LEN	ls102xa/ls102xa_psci.c	22;"	d	file:
+DECLARE_REF_CLK	bcm235xx/clk-bcm235xx.c	23;"	d	file:
+DECLARE_REF_CLK	bcm281xx/clk-bcm281xx.c	23;"	d	file:
+DIVIDER	bcm235xx/clk-core.h	298;"	d
+DIVIDER	bcm281xx/clk-core.h	298;"	d
+EN_MASK	bcm281xx/reset.c	10;"	d	file:
+EPACR0	ls102xa/fsl_epu.h	44;"	d
+EPACR15	ls102xa/fsl_epu.h	45;"	d
+EPACR_STRIDE	ls102xa/fsl_epu.h	46;"	d
+EPCCR0	ls102xa/fsl_epu.h	49;"	d
+EPCCR15	ls102xa/fsl_epu.h	50;"	d
+EPCCR31	ls102xa/fsl_epu.h	51;"	d
+EPCCR_STRIDE	ls102xa/fsl_epu.h	52;"	d
+EPCMPR0	ls102xa/fsl_epu.h	55;"	d
+EPCMPR15	ls102xa/fsl_epu.h	56;"	d
+EPCMPR31	ls102xa/fsl_epu.h	57;"	d
+EPCMPR_STRIDE	ls102xa/fsl_epu.h	58;"	d
+EPCTR0	ls102xa/fsl_epu.h	61;"	d
+EPCTR31	ls102xa/fsl_epu.h	62;"	d
+EPCTR_STRIDE	ls102xa/fsl_epu.h	63;"	d
+EPECR0	ls102xa/fsl_epu.h	39;"	d
+EPECR15	ls102xa/fsl_epu.h	40;"	d
+EPECR_STRIDE	ls102xa/fsl_epu.h	41;"	d
+EPEVTCR0	ls102xa/fsl_epu.h	21;"	d
+EPEVTCR9	ls102xa/fsl_epu.h	22;"	d
+EPEVTCR_STRIDE	ls102xa/fsl_epu.h	23;"	d
+EPGCR	ls102xa/fsl_epu.h	18;"	d
+EPIMCR0	ls102xa/fsl_epu.h	29;"	d
+EPIMCR31	ls102xa/fsl_epu.h	30;"	d
+EPIMCR_STRIDE	ls102xa/fsl_epu.h	31;"	d
+EPSMCR0	ls102xa/fsl_epu.h	34;"	d
+EPSMCR15	ls102xa/fsl_epu.h	35;"	d
+EPSMCR_STRIDE	ls102xa/fsl_epu.h	36;"	d
+EPU_BLOCK_OFFSET	ls102xa/fsl_epu.h	15;"	d
+EPXTRIGCR	ls102xa/fsl_epu.h	26;"	d
+ESUB_AXI_DIV_DEBUG_ADDR	bcm235xx/clk-eth.c	32;"	d	file:
+ESUB_AXI_DIV_DEBUG_ADDR	bcm281xx/clk-eth.c	32;"	d	file:
+ESUB_AXI_DIV_DEBUG_PLL_SELECT_MASK	bcm235xx/clk-eth.c	33;"	d	file:
+ESUB_AXI_DIV_DEBUG_PLL_SELECT_MASK	bcm281xx/clk-eth.c	33;"	d	file:
+ESUB_AXI_DIV_DEBUG_PLL_SELECT_OVERRIDE_MASK	bcm235xx/clk-eth.c	34;"	d	file:
+ESUB_AXI_DIV_DEBUG_PLL_SELECT_OVERRIDE_MASK	bcm281xx/clk-eth.c	34;"	d	file:
+ESUB_AXI_DIV_DEBUG_PLL_VAR_208M_CLK_SELECT	bcm235xx/clk-eth.c	35;"	d	file:
+ESUB_AXI_DIV_DEBUG_PLL_VAR_208M_CLK_SELECT	bcm281xx/clk-eth.c	35;"	d	file:
+ESUB_AXI_DIV_DEBUG_TRIGGER_MASK	bcm235xx/clk-eth.c	36;"	d	file:
+ESUB_AXI_DIV_DEBUG_TRIGGER_MASK	bcm281xx/clk-eth.c	36;"	d	file:
+ESW_SYS_DIV_ADDR	bcm235xx/clk-eth.c	25;"	d	file:
+ESW_SYS_DIV_ADDR	bcm281xx/clk-eth.c	25;"	d	file:
+ESW_SYS_DIV_DIV_MASK	bcm235xx/clk-eth.c	27;"	d	file:
+ESW_SYS_DIV_DIV_MASK	bcm281xx/clk-eth.c	27;"	d	file:
+ESW_SYS_DIV_DIV_SELECT	bcm235xx/clk-eth.c	29;"	d	file:
+ESW_SYS_DIV_DIV_SELECT	bcm281xx/clk-eth.c	29;"	d	file:
+ESW_SYS_DIV_PLL_SELECT_MASK	bcm235xx/clk-eth.c	26;"	d	file:
+ESW_SYS_DIV_PLL_SELECT_MASK	bcm281xx/clk-eth.c	26;"	d	file:
+ESW_SYS_DIV_PLL_VAR_208M_CLK_SELECT	bcm235xx/clk-eth.c	28;"	d	file:
+ESW_SYS_DIV_PLL_VAR_208M_CLK_SELECT	bcm281xx/clk-eth.c	28;"	d	file:
+ESW_SYS_DIV_TRIGGER_MASK	bcm235xx/clk-eth.c	30;"	d	file:
+ESW_SYS_DIV_TRIGGER_MASK	bcm281xx/clk-eth.c	30;"	d	file:
+FIXED_DIVIDER	bcm235xx/clk-core.h	291;"	d
+FIXED_DIVIDER	bcm281xx/clk-core.h	291;"	d
+FLAG	bcm235xx/clk-core.h	87;"	d
+FLAG	bcm281xx/clk-core.h	87;"	d
+FLAG_CLEAR	bcm235xx/clk-core.h	89;"	d
+FLAG_CLEAR	bcm281xx/clk-core.h	89;"	d
+FLAG_FLIP	bcm235xx/clk-core.h	90;"	d
+FLAG_FLIP	bcm281xx/clk-core.h	90;"	d
+FLAG_SET	bcm235xx/clk-core.h	88;"	d
+FLAG_SET	bcm281xx/clk-core.h	88;"	d
+FLAG_TEST	bcm235xx/clk-core.h	91;"	d
+FLAG_TEST	bcm281xx/clk-core.h	91;"	d
+FRAC_DIVIDER	bcm235xx/clk-core.h	308;"	d
+FRAC_DIVIDER	bcm281xx/clk-core.h	308;"	d
+FSL_STRIDE_4B	ls102xa/fsl_epu.h	11;"	d
+FSL_STRIDE_8B	ls102xa/fsl_epu.h	12;"	d
+FSM_END_FLAG	ls102xa/fsl_epu.h	65;"	d
+GICC_BASE	sunxi/psci.c	27;"	d	file:
+GICD_BASE	sunxi/psci.c	26;"	d	file:
+GPT_RESOLUTION	stv0991/timer.c	17;"	d	file:
+HW_ENABLE_GATE	bcm235xx/clk-core.h	197;"	d
+HW_ENABLE_GATE	bcm281xx/clk-core.h	197;"	d
+HW_ONLY_GATE	bcm235xx/clk-core.h	218;"	d
+HW_ONLY_GATE	bcm281xx/clk-core.h	218;"	d
+HW_SW_GATE	bcm235xx/clk-core.h	174;"	d
+HW_SW_GATE	bcm281xx/clk-core.h	174;"	d
+HW_SW_GATE_AUTO	bcm235xx/clk-core.h	186;"	d
+HW_SW_GATE_AUTO	bcm281xx/clk-core.h	186;"	d
+LD_SHIFT	bcm281xx/reset.c	13;"	d	file:
+MKIMAGEFLAGS_u-boot.vyb	vf610/Makefile	/^MKIMAGEFLAGS_u-boot.vyb = -T vybridimage$/;"	m
+MKSTR	bcm235xx/clk-bcm235xx.c	57;"	d	file:
+MKSTR	bcm281xx/clk-bcm281xx.c	57;"	d	file:
+MPUIR_DREGION_MASK	mpu_v7r.c	22;"	d	file:
+MPUIR_DREGION_SHIFT	mpu_v7r.c	21;"	d	file:
+MPUIR_S_MASK	mpu_v7r.c	20;"	d	file:
+MPUIR_S_SHIFT	mpu_v7r.c	19;"	d	file:
+MT_DEVICE_MEM	ls102xa/cpu.c	94;"	d	file:
+MT_MAIR0	ls102xa/cpu.c	90;"	d	file:
+MT_MAIR1	ls102xa/cpu.c	91;"	d	file:
+MT_NORMAL	ls102xa/cpu.c	95;"	d	file:
+MT_NORMAL_NC	ls102xa/cpu.c	93;"	d	file:
+MT_STRONLY_ORDER	ls102xa/cpu.c	92;"	d	file:
+NELEMS	iproc-common/armpll.c	11;"	d	file:
+NO_CLOCKS	bcm235xx/clk-core.h	407;"	d
+NO_CLOCKS	bcm281xx/clk-core.h	407;"	d
+NS_IN_SEC	s5p-common/pwm.c	56;"	d	file:
+ONE_MS	ls102xa/psci.S	/^#define	ONE_MS		(COUNTER_FREQUENCY \/ 1000)$/;"	d
+ONE_MS	sunxi/psci.c	59;"	d	file:
+PARENT_COUNT_MAX	bcm235xx/clk-core.h	76;"	d
+PARENT_COUNT_MAX	bcm281xx/clk-core.h	76;"	d
+PF_NO_UNALIGNED	config.mk	/^PF_NO_UNALIGNED := $(call cc-option, -mno-unaligned-access,)$/;"	m
+PLLE_POST_RESETB_ADDR	bcm235xx/clk-eth.c	16;"	d	file:
+PLLE_POST_RESETB_ADDR	bcm281xx/clk-eth.c	16;"	d	file:
+PLLE_POST_RESETB_I_POST_RESETB_PLLE_MASK	bcm235xx/clk-eth.c	20;"	d	file:
+PLLE_POST_RESETB_I_POST_RESETB_PLLE_MASK	bcm281xx/clk-eth.c	20;"	d	file:
+PLLE_RESETB_ADDR	bcm235xx/clk-eth.c	18;"	d	file:
+PLLE_RESETB_ADDR	bcm281xx/clk-eth.c	18;"	d	file:
+PLLE_RESETB_I_PLL_RESETB_PLLE_MASK	bcm235xx/clk-eth.c	19;"	d	file:
+PLLE_RESETB_I_PLL_RESETB_PLLE_MASK	bcm281xx/clk-eth.c	19;"	d	file:
+PLL_LOCK_ADDR	bcm235xx/clk-eth.c	22;"	d	file:
+PLL_LOCK_ADDR	bcm281xx/clk-eth.c	22;"	d	file:
+PLL_LOCK_PLL_LOCK_PLLE_MASK	bcm235xx/clk-eth.c	23;"	d	file:
+PLL_LOCK_PLL_LOCK_PLLE_MASK	bcm281xx/clk-eth.c	23;"	d	file:
+PLL_MAX_RETRY	bcm235xx/clk-eth.c	38;"	d	file:
+PLL_MAX_RETRY	bcm281xx/clk-eth.c	38;"	d	file:
+PMD_ATTRINDX	ls102xa/cpu.c	39;"	d	file:
+PMD_SECT_AF	ls102xa/cpu.c	42;"	d	file:
+PMD_TYPE_SECT	ls102xa/cpu.c	36;"	d	file:
+PMD_TYPE_TABLE	ls102xa/cpu.c	35;"	d	file:
+POLICY_CTL_GO	bcm235xx/clk-core.c	22;"	d	file:
+POLICY_CTL_GO	bcm281xx/clk-core.c	22;"	d	file:
+POLICY_CTL_GO_ATL	bcm235xx/clk-core.c	23;"	d	file:
+POLICY_CTL_GO_ATL	bcm281xx/clk-core.c	23;"	d	file:
+PSCI_FN_AFFINITY_INFO_FEATURE_MASK	ls102xa/psci.S	/^#define PSCI_FN_AFFINITY_INFO_FEATURE_MASK	0x0$/;"	d
+PSCI_FN_CPU_OFF_FEATURE_MASK	ls102xa/psci.S	/^#define PSCI_FN_CPU_OFF_FEATURE_MASK		0x0$/;"	d
+PSCI_FN_CPU_ON_FEATURE_MASK	ls102xa/psci.S	/^#define PSCI_FN_CPU_ON_FEATURE_MASK		0x0$/;"	d
+PSCI_FN_CPU_SUSPEND_FEATURE_MASK	ls102xa/psci.S	/^#define PSCI_FN_CPU_SUSPEND_FEATURE_MASK	0x0$/;"	d
+PSCI_FN_PSCI_VERSION_FEATURE_MASK	ls102xa/psci.S	/^#define PSCI_FN_PSCI_VERSION_FEATURE_MASK	0x0$/;"	d
+PSCI_FN_SYSTEM_OFF_FEATURE_MASK	ls102xa/psci.S	/^#define PSCI_FN_SYSTEM_OFF_FEATURE_MASK		0x0$/;"	d
+PSCI_FN_SYSTEM_RESET_FEATURE_MASK	ls102xa/psci.S	/^#define PSCI_FN_SYSTEM_RESET_FEATURE_MASK	0x0$/;"	d
+PSCI_FN_SYSTEM_SUSPEND_FEATURE_MASK	ls102xa/psci.S	/^#define PSCI_FN_SYSTEM_SUSPEND_FEATURE_MASK	0x0$/;"	d
+RCPM_TWAITSR	ls102xa/psci.S	/^#define RCPM_TWAITSR		0x04C$/;"	d
+READ_TIMER	stv0991/timer.c	16;"	d	file:
+RESET_WAIT	ls102xa/psci.S	/^#define	RESET_WAIT	(30 * ONE_MS)$/;"	d
+SATA_ECC_DISABLE	ls102xa/ls102xa_sata.c	20;"	d	file:
+SATA_ECC_REG_ADDR	ls102xa/ls102xa_sata.c	19;"	d	file:
+SCFG_CORE0_SFT_RST	ls102xa/psci.S	/^#define SCFG_CORE0_SFT_RST      0x130$/;"	d
+SCFG_CORESRENCR	ls102xa/psci.S	/^#define SCFG_CORESRENCR         0x204$/;"	d
+SELECTOR	bcm235xx/clk-core.h	349;"	d
+SELECTOR	bcm281xx/clk-core.h	349;"	d
+SRSTEN_MASK	bcm281xx/reset.c	11;"	d	file:
+SUN8I_R40_PWROFF	sunxi/psci.c	36;"	d	file:
+SUN8I_R40_PWR_CLAMP	sunxi/psci.c	37;"	d	file:
+SUN8I_R40_SRAMC_SOFT_ENTRY_REG0	sunxi/psci.c	38;"	d	file:
+SW_ONLY_GATE	bcm235xx/clk-core.h	208;"	d
+SW_ONLY_GATE	bcm281xx/clk-core.h	208;"	d
+THUMB	cache_v7_asm.S	/^#define THUMB(x...)	x$/;"	d
+THUMB	cache_v7_asm.S	/^#define THUMB(x...)$/;"	d
+TICKS_PER_HZ	sunxi/timer.c	23;"	d	file:
+TICKS_TO_HZ	sunxi/timer.c	24;"	d	file:
+TIMER_CLOCK	sunxi/timer.c	20;"	d	file:
+TIMER_DIV	sunxi/timer.c	15;"	d	file:
+TIMER_EN	sunxi/timer.c	18;"	d	file:
+TIMER_LOAD_VAL	sunxi/timer.c	26;"	d	file:
+TIMER_LOAD_VAL	vf610/timer.c	16;"	d	file:
+TIMER_MODE	sunxi/timer.c	14;"	d	file:
+TIMER_NUM	sunxi/timer.c	28;"	d	file:
+TIMER_RELOAD	sunxi/timer.c	17;"	d	file:
+TIMER_SRC	sunxi/timer.c	16;"	d	file:
+TRIGGER	bcm235xx/clk-core.h	382;"	d
+TRIGGER	bcm281xx/clk-core.h	382;"	d
+TTBCR	ls102xa/cpu.c	66;"	d	file:
+TTBCR_EAE	ls102xa/cpu.c	48;"	d	file:
+TTBCR_EPD0	ls102xa/cpu.c	65;"	d	file:
+TTBCR_IRGN0_MASK	ls102xa/cpu.c	56;"	d	file:
+TTBCR_IRGN0_NC	ls102xa/cpu.c	52;"	d	file:
+TTBCR_IRGN0_WBNWA	ls102xa/cpu.c	55;"	d	file:
+TTBCR_IRGN0_WBWA	ls102xa/cpu.c	53;"	d	file:
+TTBCR_IRGN0_WT	ls102xa/cpu.c	54;"	d	file:
+TTBCR_ORGN0_MASK	ls102xa/cpu.c	61;"	d	file:
+TTBCR_ORGN0_NC	ls102xa/cpu.c	57;"	d	file:
+TTBCR_ORGN0_WBNWA	ls102xa/cpu.c	60;"	d	file:
+TTBCR_ORGN0_WBWA	ls102xa/cpu.c	58;"	d	file:
+TTBCR_ORGN0_WT	ls102xa/cpu.c	59;"	d	file:
+TTBCR_SHARED_INNER	ls102xa/cpu.c	64;"	d	file:
+TTBCR_SHARED_NON	ls102xa/cpu.c	62;"	d	file:
+TTBCR_SHARED_OUTER	ls102xa/cpu.c	63;"	d	file:
+TTBCR_T0SZ	ls102xa/cpu.c	49;"	d	file:
+TTBCR_T1SZ	ls102xa/cpu.c	50;"	d	file:
+TTBCR_USING_TTBR0	ls102xa/cpu.c	51;"	d	file:
+UBOOT_HEAD_LEN	ls102xa/fdt.c	122;"	d	file:
+UNWIND	smccc-call.S	/^#define UNWIND(x...)$/;"	d
+USEC_TO_COUNT	sunxi/timer.c	22;"	d	file:
+WR_ACCESS_ADDR	bcm235xx/clk-eth.c	13;"	d	file:
+WR_ACCESS_ADDR	bcm281xx/clk-eth.c	13;"	d	file:
+WR_ACCESS_OFFSET	bcm235xx/clk-core.c	21;"	d	file:
+WR_ACCESS_OFFSET	bcm281xx/clk-core.c	21;"	d	file:
+WR_ACCESS_PASSWORD	bcm235xx/clk-eth.c	14;"	d	file:
+WR_ACCESS_PASSWORD	bcm281xx/clk-eth.c	14;"	d	file:
+__FSL_EPU_H	ls102xa/fsl_epu.h	7;"	d
+__FSL_LS1_SERDES_H	ls102xa/fsl_ls1_serdes.h	7;"	d
+__irq	sunxi/psci.c	24;"	d	file:
+__mdelay	sunxi/psci.c	/^static void __secure __mdelay(u32 ms)$/;"	f	file:
+__secure	ls102xa/ls102xa_psci.c	15;"	d	file:
+__secure_data	psci-common.c	/^static u32 psci_context_id[CONFIG_ARMV7_PSCI_NR_CPUS] __secure_data = { 0 };$/;"	v	file:
+__secure_data	psci-common.c	/^static u32 psci_target_pc[CONFIG_ARMV7_PSCI_NR_CPUS] __secure_data = { 0 };$/;"	v	file:
+__udelay	iproc-common/timer.c	/^void __udelay(unsigned long usec)$/;"	f
+__udelay	ls102xa/timer.c	/^void __udelay(unsigned long usec)$/;"	f
+__udelay	s5p-common/timer.c	/^void __udelay(unsigned long usec)$/;"	f
+__udelay	stv0991/timer.c	/^void __udelay(unsigned long usec)$/;"	f
+__udelay	sunxi/timer.c	/^void __udelay(unsigned long usec)$/;"	f
+__udelay	vf610/timer.c	/^void __udelay(unsigned long usec)$/;"	f
+_loop_forever	kona-common/reset.S	/^_loop_forever:$/;"	l
+_ls102x_psci_supported_table	ls102xa/psci.S	/^_ls102x_psci_supported_table:$/;"	l
+_monitor_vectors	nonsec_virt.S	/^_monitor_vectors:$/;"	l
+_psci_table	psci.S	/^_psci_table:$/;"	l
+_psci_vectors	psci.S	/^_psci_vectors:$/;"	l
+_secure_monitor	nonsec_virt.S	/^_secure_monitor:$/;"	l
+_smc_psci	psci.S	/^_smc_psci:$/;"	l
+arch_clk_tbl	bcm235xx/clk-bcm235xx.c	/^struct clk_lookup arch_clk_tbl[] = {$/;"	v	typeref:struct:clk_lookup
+arch_clk_tbl	bcm281xx/clk-bcm281xx.c	/^struct clk_lookup arch_clk_tbl[] = {$/;"	v	typeref:struct:clk_lookup
+arch_clk_tbl_array_size	bcm235xx/clk-bcm235xx.c	/^unsigned int arch_clk_tbl_array_size = ARRAY_SIZE(arch_clk_tbl);$/;"	v
+arch_clk_tbl_array_size	bcm281xx/clk-bcm281xx.c	/^unsigned int arch_clk_tbl_array_size = ARRAY_SIZE(arch_clk_tbl);$/;"	v
+arch_cpu_init	ls102xa/cpu.c	/^int arch_cpu_init(void)$/;"	f
+arch_cpu_init	s5p-common/cpu_info.c	/^int arch_cpu_init(void)$/;"	f
+arch_cpu_init	vf610/generic.c	/^int arch_cpu_init(void)$/;"	f
+arch_misc_init	vf610/generic.c	/^int arch_misc_init(void)$/;"	f
+arch_preboot_os	ls102xa/cpu.c	/^void arch_preboot_os(void)$/;"	f
+arch_soc_init	ls102xa/soc.c	/^int arch_soc_init(void)$/;"	f
+arm_init_before_mmu	cache_v7.c	/^void arm_init_before_mmu(void)$/;"	f
+arm_init_domains	cache_v7.c	/^void arm_init_domains(void)$/;"	f
+armpll_clk_tab	iproc-common/armpll.c	/^struct armpll_parameters armpll_clk_tab[] = {$/;"	v	typeref:struct:armpll_parameters
+armpll_config	iproc-common/armpll.c	/^uint32_t armpll_config(uint32_t clkmhz)$/;"	f
+armpll_parameters	iproc-common/armpll.c	/^struct armpll_parameters {$/;"	s	file:
+armv7_apply_memory_carveout	virt-dt.c	/^int armv7_apply_memory_carveout(u64 *start, u64 *size)$/;"	f
+armv7_init_nonsec	virt-v7.c	/^int armv7_init_nonsec(void)$/;"	f
+bcm_clk_bus	bcm235xx/clk-core.h	/^	bcm_clk_bus,$/;"	e	enum:bcm_clk_type
+bcm_clk_bus	bcm281xx/clk-core.h	/^	bcm_clk_bus,$/;"	e	enum:bcm_clk_type
+bcm_clk_core	bcm235xx/clk-core.h	/^	bcm_clk_core,$/;"	e	enum:bcm_clk_type
+bcm_clk_core	bcm281xx/clk-core.h	/^	bcm_clk_core,$/;"	e	enum:bcm_clk_type
+bcm_clk_div	bcm235xx/clk-core.h	/^struct bcm_clk_div {$/;"	s
+bcm_clk_div	bcm281xx/clk-core.h	/^struct bcm_clk_div {$/;"	s
+bcm_clk_gate	bcm235xx/clk-core.h	/^struct bcm_clk_gate {$/;"	s
+bcm_clk_gate	bcm281xx/clk-core.h	/^struct bcm_clk_gate {$/;"	s
+bcm_clk_none	bcm235xx/clk-core.h	/^	bcm_clk_none,		\/* undefined clock type *\/$/;"	e	enum:bcm_clk_type
+bcm_clk_none	bcm281xx/clk-core.h	/^	bcm_clk_none,		\/* undefined clock type *\/$/;"	e	enum:bcm_clk_type
+bcm_clk_peri	bcm235xx/clk-core.h	/^	bcm_clk_peri$/;"	e	enum:bcm_clk_type
+bcm_clk_peri	bcm281xx/clk-core.h	/^	bcm_clk_peri$/;"	e	enum:bcm_clk_type
+bcm_clk_sel	bcm235xx/clk-core.h	/^struct bcm_clk_sel {$/;"	s
+bcm_clk_sel	bcm281xx/clk-core.h	/^struct bcm_clk_sel {$/;"	s
+bcm_clk_trig	bcm235xx/clk-core.h	/^struct bcm_clk_trig {$/;"	s
+bcm_clk_trig	bcm281xx/clk-core.h	/^struct bcm_clk_trig {$/;"	s
+bcm_clk_type	bcm235xx/clk-core.h	/^enum bcm_clk_type {$/;"	g
+bcm_clk_type	bcm281xx/clk-core.h	/^enum bcm_clk_type {$/;"	g
+bit	bcm235xx/clk-core.h	/^	u32 bit;		\/* trigger bit *\/$/;"	m	struct:bcm_clk_trig
+bit	bcm281xx/clk-core.h	/^	u32 bit;		\/* trigger bit *\/$/;"	m	struct:bcm_clk_trig
+bsc1_apb_clk	bcm235xx/clk-bcm235xx.c	/^static struct bus_clock bsc1_apb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+bsc1_apb_clk	bcm281xx/clk-bcm281xx.c	/^static struct bus_clock bsc1_apb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+bsc1_apb_data	bcm235xx/clk-bcm235xx.c	/^static struct bus_clk_data bsc1_apb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+bsc1_apb_data	bcm281xx/clk-bcm281xx.c	/^static struct bus_clk_data bsc1_apb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+bsc1_clk	bcm235xx/clk-bcm235xx.c	/^static struct peri_clock bsc1_clk = {$/;"	v	typeref:struct:peri_clock	file:
+bsc1_clk	bcm281xx/clk-bcm281xx.c	/^static struct peri_clock bsc1_clk = {$/;"	v	typeref:struct:peri_clock	file:
+bsc1_data	bcm235xx/clk-bcm235xx.c	/^static struct peri_clk_data bsc1_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+bsc1_data	bcm281xx/clk-bcm281xx.c	/^static struct peri_clk_data bsc1_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+bsc2_apb_clk	bcm235xx/clk-bcm235xx.c	/^static struct bus_clock bsc2_apb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+bsc2_apb_clk	bcm281xx/clk-bcm281xx.c	/^static struct bus_clock bsc2_apb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+bsc2_apb_data	bcm235xx/clk-bcm235xx.c	/^static struct bus_clk_data bsc2_apb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+bsc2_apb_data	bcm281xx/clk-bcm281xx.c	/^static struct bus_clk_data bsc2_apb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+bsc2_clk	bcm235xx/clk-bcm235xx.c	/^static struct peri_clock bsc2_clk = {$/;"	v	typeref:struct:peri_clock	file:
+bsc2_clk	bcm281xx/clk-bcm281xx.c	/^static struct peri_clock bsc2_clk = {$/;"	v	typeref:struct:peri_clock	file:
+bsc2_data	bcm235xx/clk-bcm235xx.c	/^static struct peri_clk_data bsc2_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+bsc2_data	bcm281xx/clk-bcm281xx.c	/^static struct peri_clk_data bsc2_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+bsc3_apb_clk	bcm235xx/clk-bcm235xx.c	/^static struct bus_clock bsc3_apb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+bsc3_apb_clk	bcm281xx/clk-bcm281xx.c	/^static struct bus_clock bsc3_apb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+bsc3_apb_data	bcm235xx/clk-bcm235xx.c	/^static struct bus_clk_data bsc3_apb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+bsc3_apb_data	bcm281xx/clk-bcm281xx.c	/^static struct bus_clk_data bsc3_apb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+bsc3_clk	bcm235xx/clk-bcm235xx.c	/^static struct peri_clock bsc3_clk = {$/;"	v	typeref:struct:peri_clock	file:
+bsc3_clk	bcm281xx/clk-bcm281xx.c	/^static struct peri_clock bsc3_clk = {$/;"	v	typeref:struct:peri_clock	file:
+bsc3_data	bcm235xx/clk-bcm235xx.c	/^static struct peri_clk_data bsc3_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+bsc3_data	bcm281xx/clk-bcm281xx.c	/^static struct peri_clk_data bsc3_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+bus_clk_data	bcm235xx/clk-core.h	/^struct bus_clk_data {$/;"	s
+bus_clk_data	bcm281xx/clk-core.h	/^struct bus_clk_data {$/;"	s
+bus_clk_enable	bcm235xx/clk-core.c	/^static int bus_clk_enable(struct clk *c, int enable)$/;"	f	file:
+bus_clk_enable	bcm281xx/clk-core.c	/^static int bus_clk_enable(struct clk *c, int enable)$/;"	f	file:
+bus_clk_get_rate	bcm235xx/clk-core.c	/^static unsigned long bus_clk_get_rate(struct clk *c)$/;"	f	file:
+bus_clk_get_rate	bcm281xx/clk-core.c	/^static unsigned long bus_clk_get_rate(struct clk *c)$/;"	f	file:
+bus_clk_ops	bcm235xx/clk-core.c	/^struct clk_ops bus_clk_ops = {$/;"	v	typeref:struct:clk_ops
+bus_clk_ops	bcm281xx/clk-core.c	/^struct clk_ops bus_clk_ops = {$/;"	v	typeref:struct:clk_ops
+bus_clock	bcm235xx/clk-core.h	/^struct bus_clock {$/;"	s
+bus_clock	bcm281xx/clk-core.h	/^struct bus_clock {$/;"	s
+ccu_clk_enable	bcm235xx/clk-core.c	/^static int ccu_clk_enable(struct clk *c, int enable)$/;"	f	file:
+ccu_clk_enable	bcm281xx/clk-core.c	/^static int ccu_clk_enable(struct clk *c, int enable)$/;"	f	file:
+ccu_clk_get_rate	bcm235xx/clk-core.c	/^static unsigned long ccu_clk_get_rate(struct clk *c)$/;"	f	file:
+ccu_clk_get_rate	bcm281xx/clk-core.c	/^static unsigned long ccu_clk_get_rate(struct clk *c)$/;"	f	file:
+ccu_clk_mgr_base	bcm235xx/clk-core.h	/^	unsigned long ccu_clk_mgr_base;$/;"	m	struct:clk
+ccu_clk_mgr_base	bcm281xx/clk-core.h	/^	unsigned long ccu_clk_mgr_base;$/;"	m	struct:clk
+ccu_clk_ops	bcm235xx/clk-core.c	/^struct clk_ops ccu_clk_ops = {$/;"	v	typeref:struct:clk_ops
+ccu_clk_ops	bcm281xx/clk-core.c	/^struct clk_ops ccu_clk_ops = {$/;"	v	typeref:struct:clk_ops
+ccu_clock	bcm235xx/clk-core.h	/^struct ccu_clock {$/;"	s
+ccu_clock	bcm281xx/clk-core.h	/^struct ccu_clock {$/;"	s
+clamp_release	sunxi/psci.c	/^static void __secure clamp_release(u32 __maybe_unused *clamp)$/;"	f	file:
+clamp_set	sunxi/psci.c	/^static void __secure clamp_set(u32 __maybe_unused *clamp)$/;"	f	file:
+cleanup_before_linux	cpu.c	/^int cleanup_before_linux(void)$/;"	f
+cleanup_before_linux_select	cpu.c	/^int cleanup_before_linux_select(int flags)$/;"	f
+clk	bcm235xx/clk-core.h	/^	struct clk *clk;$/;"	m	struct:clk_lookup	typeref:struct:clk_lookup::clk
+clk	bcm235xx/clk-core.h	/^	struct clk clk;$/;"	m	struct:bus_clock	typeref:struct:bus_clock::clk
+clk	bcm235xx/clk-core.h	/^	struct clk clk;$/;"	m	struct:ccu_clock	typeref:struct:ccu_clock::clk
+clk	bcm235xx/clk-core.h	/^	struct clk clk;$/;"	m	struct:peri_clock	typeref:struct:peri_clock::clk
+clk	bcm235xx/clk-core.h	/^	struct clk clk;$/;"	m	struct:ref_clock	typeref:struct:ref_clock::clk
+clk	bcm235xx/clk-core.h	/^	struct clk clk;$/;"	m	struct:refclk	typeref:struct:refclk::clk
+clk	bcm235xx/clk-core.h	/^struct clk {$/;"	s
+clk	bcm281xx/clk-core.h	/^	struct clk *clk;$/;"	m	struct:clk_lookup	typeref:struct:clk_lookup::clk
+clk	bcm281xx/clk-core.h	/^	struct clk clk;$/;"	m	struct:bus_clock	typeref:struct:bus_clock::clk
+clk	bcm281xx/clk-core.h	/^	struct clk clk;$/;"	m	struct:ccu_clock	typeref:struct:ccu_clock::clk
+clk	bcm281xx/clk-core.h	/^	struct clk clk;$/;"	m	struct:peri_clock	typeref:struct:peri_clock::clk
+clk	bcm281xx/clk-core.h	/^	struct clk clk;$/;"	m	struct:ref_clock	typeref:struct:ref_clock::clk
+clk	bcm281xx/clk-core.h	/^	struct clk clk;$/;"	m	struct:refclk	typeref:struct:refclk::clk
+clk	bcm281xx/clk-core.h	/^struct clk {$/;"	s
+clk_bsc_enable	bcm235xx/clk-bsc.c	/^int clk_bsc_enable(void *base)$/;"	f
+clk_bsc_enable	bcm281xx/clk-bsc.c	/^int clk_bsc_enable(void *base)$/;"	f
+clk_bsc_enable	kona-common/clk-stubs.c	/^int __weak clk_bsc_enable(void *base, u32 rate, u32 *actual_ratep)$/;"	f
+clk_disable	bcm235xx/clk-core.c	/^void clk_disable(struct clk *c)$/;"	f
+clk_disable	bcm281xx/clk-core.c	/^void clk_disable(struct clk *c)$/;"	f
+clk_enable	bcm235xx/clk-core.c	/^int clk_enable(struct clk *c)$/;"	f
+clk_enable	bcm281xx/clk-core.c	/^int clk_enable(struct clk *c)$/;"	f
+clk_eth_enable	bcm235xx/clk-eth.c	/^int clk_eth_enable(void)$/;"	f
+clk_eth_enable	bcm281xx/clk-eth.c	/^int clk_eth_enable(void)$/;"	f
+clk_get	bcm235xx/clk-core.c	/^struct clk *clk_get(const char *con_id)$/;"	f
+clk_get	bcm281xx/clk-core.c	/^struct clk *clk_get(const char *con_id)$/;"	f
+clk_get_and_enable	bcm235xx/clk-core.c	/^int clk_get_and_enable(char *clkstr)$/;"	f
+clk_get_and_enable	bcm281xx/clk-core.c	/^int clk_get_and_enable(char *clkstr)$/;"	f
+clk_get_rate	bcm235xx/clk-core.c	/^unsigned long clk_get_rate(struct clk *c)$/;"	f
+clk_get_rate	bcm281xx/clk-core.c	/^unsigned long clk_get_rate(struct clk *c)$/;"	f
+clk_index	bcm235xx/clk-core.h	/^	u8 clk_index;		\/* current selected index in parent_sel[] *\/$/;"	m	struct:bcm_clk_sel
+clk_index	bcm281xx/clk-core.h	/^	u8 clk_index;		\/* current selected index in parent_sel[] *\/$/;"	m	struct:bcm_clk_sel
+clk_init	bcm235xx/clk-core.c	/^int clk_init(void)$/;"	f
+clk_init	bcm281xx/clk-core.c	/^int clk_init(void)$/;"	f
+clk_lookup	bcm235xx/clk-core.h	/^struct clk_lookup {$/;"	s
+clk_lookup	bcm281xx/clk-core.h	/^struct clk_lookup {$/;"	s
+clk_ops	bcm235xx/clk-core.h	/^struct clk_ops {$/;"	s
+clk_ops	bcm281xx/clk-core.h	/^struct clk_ops {$/;"	s
+clk_sdio_enable	bcm235xx/clk-sdio.c	/^int clk_sdio_enable(void *base, u32 rate, u32 *actual_ratep)$/;"	f
+clk_sdio_enable	bcm281xx/clk-sdio.c	/^int clk_sdio_enable(void *base, u32 rate, u32 *actual_ratep)$/;"	f
+clk_sdio_enable	kona-common/clk-stubs.c	/^int __weak clk_sdio_enable(void *base, u32 rate, u32 *actual_ratep)$/;"	f
+clk_set_rate	bcm235xx/clk-core.c	/^int clk_set_rate(struct clk *c, unsigned long rate)$/;"	f
+clk_set_rate	bcm281xx/clk-core.c	/^int clk_set_rate(struct clk *c, unsigned long rate)$/;"	f
+clk_usb_otg_enable	bcm235xx/clk-usb-otg.c	/^int clk_usb_otg_enable(void *base)$/;"	f
+clk_usb_otg_enable	bcm281xx/clk-usb-otg.c	/^int clk_usb_otg_enable(void *base)$/;"	f
+clk_usb_otg_enable	kona-common/clk-stubs.c	/^int __weak clk_usb_otg_enable(void *base)$/;"	f
+clock_setup	stv0991/clock.c	/^void clock_setup(int peripheral)$/;"	f
+clocks	bcm235xx/clk-core.h	/^	const char *clocks[];	\/* must be last; use CLOCKS() to declare *\/$/;"	m	struct:peri_clk_data
+clocks	bcm281xx/clk-core.h	/^	const char *clocks[];	\/* must be last; use CLOCKS() to declare *\/$/;"	m	struct:peri_clk_data
+con_id	bcm235xx/clk-core.h	/^	const char *con_id;$/;"	m	struct:clk_lookup
+con_id	bcm281xx/clk-core.h	/^	const char *con_id;$/;"	m	struct:clk_lookup
+core_clk_data	bcm235xx/clk-core.h	/^struct core_clk_data {$/;"	s
+core_clk_data	bcm281xx/clk-core.h	/^struct core_clk_data {$/;"	s
+cp15_read_cntp_ctl	sunxi/psci.c	/^static u32 __secure cp15_read_cntp_ctl(void)$/;"	f	file:
+cp15_read_scr	sunxi/psci.c	/^static u32 __secure cp15_read_scr(void)$/;"	f	file:
+cp15_write_cntp_ctl	sunxi/psci.c	/^static void __secure cp15_write_cntp_ctl(u32 val)$/;"	f	file:
+cp15_write_cntp_tval	sunxi/psci.c	/^static void __secure cp15_write_cntp_tval(u32 tval)$/;"	f	file:
+cp15_write_scr	sunxi/psci.c	/^static void __secure cp15_write_scr(u32 scr)$/;"	f	file:
+cpu_cache_initialization	cpu.c	/^void __weak cpu_cache_initialization(void){}$/;"	f
+cpu_eth_init	ls102xa/cpu.c	/^int cpu_eth_init(bd_t *bis)$/;"	f
+cpu_eth_init	vf610/generic.c	/^int cpu_eth_init(bd_t *bis)$/;"	f
+cpu_mmc_init	ls102xa/cpu.c	/^int cpu_mmc_init(bd_t *bis)$/;"	f
+cpu_mmc_init	vf610/generic.c	/^int cpu_mmc_init(bd_t *bis)$/;"	f
+cur_pit	vf610/timer.c	/^static struct pit_reg *cur_pit = (struct pit_reg *)PIT_BASE_ADDR;$/;"	v	typeref:struct:pit_reg	file:
+data	bcm235xx/clk-core.h	/^	struct bus_clk_data *data;$/;"	m	struct:bus_clock	typeref:struct:bus_clock::bus_clk_data
+data	bcm235xx/clk-core.h	/^	struct peri_clk_data *data;$/;"	m	struct:peri_clock	typeref:struct:peri_clock::peri_clk_data
+data	bcm281xx/clk-core.h	/^	struct bus_clk_data *data;$/;"	m	struct:bus_clock	typeref:struct:bus_clock::bus_clk_data
+data	bcm281xx/clk-core.h	/^	struct peri_clk_data *data;$/;"	m	struct:peri_clock	typeref:struct:peri_clock::peri_clk_data
+dev_id	bcm235xx/clk-core.h	/^	const char *dev_id;$/;"	m	struct:clk_lookup
+dev_id	bcm281xx/clk-core.h	/^	const char *dev_id;$/;"	m	struct:clk_lookup
+dev_stream_id	ls102xa/soc.c	/^struct smmu_stream_id dev_stream_id[] = {$/;"	v	typeref:struct:smmu_stream_id
+disable_mpu	mpu_v7r.c	/^void disable_mpu(void)$/;"	f
+div	bcm235xx/clk-core.h	/^	struct bcm_clk_div div;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_div
+div	bcm235xx/clk-core.h	/^	unsigned long div;$/;"	m	struct:clk
+div	bcm281xx/clk-core.h	/^	struct bcm_clk_div div;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_div
+div	bcm281xx/clk-core.h	/^	unsigned long div;$/;"	m	struct:clk
+divider_exists	bcm235xx/clk-core.h	104;"	d
+divider_exists	bcm281xx/clk-core.h	104;"	d
+divider_has_fraction	bcm235xx/clk-core.h	106;"	d
+divider_has_fraction	bcm281xx/clk-core.h	106;"	d
+divider_is_fixed	bcm235xx/clk-core.h	105;"	d
+divider_is_fixed	bcm281xx/clk-core.h	105;"	d
+do_vf610_showclocks	vf610/generic.c	/^int do_vf610_showclocks(cmd_tbl_t *cmdtp, int flag, int argc,$/;"	f
+en_bit	bcm235xx/clk-core.h	/^	u32 en_bit;		\/* 0: disable; 1: enable *\/$/;"	m	struct:bcm_clk_gate
+en_bit	bcm281xx/clk-core.h	/^	u32 en_bit;		\/* 0: disable; 1: enable *\/$/;"	m	struct:bcm_clk_gate
+enable	bcm235xx/clk-core.h	/^	int (*enable)(struct clk *c, int enable);$/;"	m	struct:clk_ops
+enable	bcm281xx/clk-core.h	/^	int (*enable) (struct clk *c, int enable);$/;"	m	struct:clk_ops
+enable_caches	iproc-common/hwinit-common.c	/^void enable_caches(void)$/;"	f
+enable_caches	kona-common/hwinit-common.c	/^void enable_caches(void)$/;"	f
+enable_caches	ls102xa/cpu.c	/^void enable_caches(void)$/;"	f
+enable_caches	mpu_v7r.c	/^void enable_caches(void)$/;"	f
+enable_caches	vf610/generic.c	/^void enable_caches(void)$/;"	f
+enable_mpu	mpu_v7r.c	/^void enable_mpu(void)$/;"	f
+enable_ocotp_clk	vf610/generic.c	/^void enable_ocotp_clk(unsigned char enable)$/;"	f
+enable_pll1	stv0991/clock.c	/^void enable_pll1(void)$/;"	f
+epu_default_val	ls102xa/fsl_epu.c	/^struct fsm_reg_vals epu_default_val[] = {$/;"	v	typeref:struct:fsm_reg_vals
+erratum_a008997	ls102xa/soc.c	/^static void erratum_a008997(void)$/;"	f	file:
+erratum_a009007	ls102xa/soc.c	/^static void erratum_a009007(void)$/;"	f	file:
+erratum_a009008	ls102xa/soc.c	/^static void erratum_a009008(void)$/;"	f	file:
+erratum_a009798	ls102xa/soc.c	/^static void erratum_a009798(void)$/;"	f	file:
+erratum_a010315	ls102xa/soc.c	/^void erratum_a010315(void)$/;"	f
+esub_ccu_clk	bcm235xx/clk-bcm235xx.c	/^static struct ccu_clock esub_ccu_clk = {$/;"	v	typeref:struct:ccu_clock	file:
+esub_ccu_clk	bcm281xx/clk-bcm281xx.c	/^static struct ccu_clock esub_ccu_clk = {$/;"	v	typeref:struct:ccu_clock	file:
+esub_freq_tbl	bcm235xx/clk-bcm235xx.c	/^unsigned long esub_freq_tbl[8] = {$/;"	v
+esub_freq_tbl	bcm281xx/clk-bcm281xx.c	/^unsigned long esub_freq_tbl[8] = {$/;"	v
+extra-y	Makefile	/^extra-y	:= start.o$/;"	m
+finished	cache_v7_asm.S	/^finished:$/;"	l
+finished	psci.S	/^finished:$/;"	l
+fixed	bcm235xx/clk-core.h	/^		u32 fixed;	\/* non-zero fixed divider value *\/$/;"	m	union:bcm_clk_div::__anon1
+fixed	bcm281xx/clk-core.h	/^		u32 fixed;	\/* non-zero fixed divider value *\/$/;"	m	union:bcm_clk_div::__anon3
+flags	bcm235xx/clk-core.h	/^	u32 flags;		\/* BCM_CLK_DIV_FLAGS_* below *\/$/;"	m	struct:bcm_clk_div
+flags	bcm235xx/clk-core.h	/^	u32 flags;		\/* BCM_CLK_GATE_FLAGS_* below *\/$/;"	m	struct:bcm_clk_gate
+flags	bcm235xx/clk-core.h	/^	u32 flags;		\/* BCM_CLK_TRIG_FLAGS_* below *\/$/;"	m	struct:bcm_clk_trig
+flags	bcm281xx/clk-core.h	/^	u32 flags;		\/* BCM_CLK_DIV_FLAGS_* below *\/$/;"	m	struct:bcm_clk_div
+flags	bcm281xx/clk-core.h	/^	u32 flags;		\/* BCM_CLK_GATE_FLAGS_* below *\/$/;"	m	struct:bcm_clk_gate
+flags	bcm281xx/clk-core.h	/^	u32 flags;		\/* BCM_CLK_TRIG_FLAGS_* below *\/$/;"	m	struct:bcm_clk_trig
+flush_dcache_all	cache_v7.c	/^void flush_dcache_all(void)$/;"	f
+flush_dcache_range	cache_v7.c	/^void flush_dcache_range(unsigned long start, unsigned long stop)$/;"	f
+flush_levels	cache_v7_asm.S	/^flush_levels:$/;"	l
+flush_levels	psci.S	/^flush_levels:$/;"	l
+frac_width	bcm235xx/clk-core.h	/^			u32 frac_width;	\/* field fraction width *\/$/;"	m	struct:bcm_clk_div::__anon1::__anon2
+frac_width	bcm281xx/clk-core.h	/^			u32 frac_width;	\/* field fraction width *\/$/;"	m	struct:bcm_clk_div::__anon3::__anon4
+freq_bit_shift	bcm235xx/clk-core.h	/^	int freq_bit_shift;	\/* 8 for most CCUs *\/$/;"	m	struct:ccu_clock
+freq_bit_shift	bcm281xx/clk-core.h	/^	int freq_bit_shift;	\/* 8 for most CCUs *\/$/;"	m	struct:ccu_clock
+freq_id	bcm235xx/clk-core.h	/^	int freq_id;$/;"	m	struct:ccu_clock
+freq_id	bcm281xx/clk-core.h	/^	int freq_id;$/;"	m	struct:ccu_clock
+freq_tbl	bcm235xx/clk-core.h	/^	unsigned long *freq_tbl;$/;"	m	struct:bus_clock
+freq_tbl	bcm235xx/clk-core.h	/^	unsigned long *freq_tbl;$/;"	m	struct:ccu_clock
+freq_tbl	bcm281xx/clk-core.h	/^	unsigned long *freq_tbl;$/;"	m	struct:bus_clock
+freq_tbl	bcm281xx/clk-core.h	/^	unsigned long *freq_tbl;$/;"	m	struct:ccu_clock
+freqid	iproc-common/armpll.c	/^	unsigned int freqid;$/;"	m	struct:armpll_parameters	file:
+fsl_epu_clean	ls102xa/fsl_epu.c	/^void fsl_epu_clean(void *epu_base)$/;"	f
+fsl_epu_setup	ls102xa/fsl_epu.c	/^void fsl_epu_setup(void *epu_base)$/;"	f
+fsl_serdes_init	ls102xa/fsl_ls1_serdes.c	/^void fsl_serdes_init(void)$/;"	f
+fsm_reg_vals	ls102xa/fsl_epu.h	/^struct fsm_reg_vals {$/;"	s
+ft_cpu_setup	ls102xa/fdt.c	/^void ft_cpu_setup(void *blob, bd_t *bd)$/;"	f
+ft_fixup_enet_phy_connect_type	ls102xa/fdt.c	/^void ft_fixup_enet_phy_connect_type(void *fdt)$/;"	f
+gate	bcm235xx/clk-core.h	/^	struct bcm_clk_gate gate;$/;"	m	struct:bus_clk_data	typeref:struct:bus_clk_data::bcm_clk_gate
+gate	bcm235xx/clk-core.h	/^	struct bcm_clk_gate gate;$/;"	m	struct:core_clk_data	typeref:struct:core_clk_data::bcm_clk_gate
+gate	bcm235xx/clk-core.h	/^	struct bcm_clk_gate gate;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_gate
+gate	bcm281xx/clk-core.h	/^	struct bcm_clk_gate gate;$/;"	m	struct:bus_clk_data	typeref:struct:bus_clk_data::bcm_clk_gate
+gate	bcm281xx/clk-core.h	/^	struct bcm_clk_gate gate;$/;"	m	struct:core_clk_data	typeref:struct:core_clk_data::bcm_clk_gate
+gate	bcm281xx/clk-core.h	/^	struct bcm_clk_gate gate;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_gate
+gate_exists	bcm235xx/clk-core.h	95;"	d
+gate_exists	bcm281xx/clk-core.h	95;"	d
+gate_flip_enabled	bcm235xx/clk-core.h	102;"	d
+gate_flip_enabled	bcm281xx/clk-core.h	102;"	d
+gate_is_enabled	bcm235xx/clk-core.h	96;"	d
+gate_is_enabled	bcm281xx/clk-core.h	96;"	d
+gate_is_hw_controllable	bcm235xx/clk-core.h	97;"	d
+gate_is_hw_controllable	bcm281xx/clk-core.h	97;"	d
+gate_is_no_disable	bcm235xx/clk-core.h	100;"	d
+gate_is_no_disable	bcm281xx/clk-core.h	100;"	d
+gate_is_sw_controllable	bcm235xx/clk-core.h	98;"	d
+gate_is_sw_controllable	bcm281xx/clk-core.h	98;"	d
+gate_is_sw_managed	bcm235xx/clk-core.h	99;"	d
+gate_is_sw_managed	bcm281xx/clk-core.h	99;"	d
+get_bus_clk	vf610/generic.c	/^static u32 get_bus_clk(void)$/;"	f	file:
+get_bus_freq	ls102xa/clock.c	/^ulong get_bus_freq(ulong dummy)$/;"	f
+get_ccsidr	cache_v7.c	/^static u32 get_ccsidr(void)$/;"	f	file:
+get_clocks	ls102xa/clock.c	/^int get_clocks(void)$/;"	f
+get_clocks	vf610/generic.c	/^int get_clocks(void)$/;"	f
+get_cpu_rev	vf610/generic.c	/^u32 get_cpu_rev(void)$/;"	f
+get_ddr_freq	ls102xa/clock.c	/^ulong get_ddr_freq(ulong dummy)$/;"	f
+get_device_type	s5p-common/cpu_info.c	/^u32 get_device_type(void)$/;"	f
+get_dspi_clk	vf610/generic.c	/^static u32 get_dspi_clk(void)$/;"	f	file:
+get_fec_clk	vf610/generic.c	/^u32 get_fec_clk(void)$/;"	f
+get_gicd_base_address	virt-v7.c	/^static unsigned long get_gicd_base_address(void)$/;"	f	file:
+get_i2c_clk	vf610/generic.c	/^static u32 get_i2c_clk(void)$/;"	f	file:
+get_ipg_clk	vf610/generic.c	/^static u32 get_ipg_clk(void)$/;"	f	file:
+get_lpuart_clk	vf610/generic.c	/^u32 get_lpuart_clk(void)$/;"	f
+get_mcu_main_clk	vf610/generic.c	/^static u32 get_mcu_main_clk(void)$/;"	f	file:
+get_rate	bcm235xx/clk-core.h	/^	unsigned long (*get_rate)(struct clk *c);$/;"	m	struct:clk_ops
+get_rate	bcm281xx/clk-core.h	/^	unsigned long (*get_rate) (struct clk *c);$/;"	m	struct:clk_ops
+get_reset_cause	vf610/generic.c	/^static char *get_reset_cause(void)$/;"	f	file:
+get_sdhc_clk	vf610/generic.c	/^static u32 get_sdhc_clk(void)$/;"	f	file:
+get_serial_clock	ls102xa/clock.c	/^int get_serial_clock(void)$/;"	f
+get_soc_major_rev	ls102xa/soc.c	/^unsigned int get_soc_major_rev(void)$/;"	f
+get_svr	ls102xa/cpu.c	/^uint get_svr(void)$/;"	f
+get_sys_info	ls102xa/clock.c	/^void get_sys_info(struct sys_info *sys_info)$/;"	f
+get_tbclk	arch_timer.c	/^ulong get_tbclk(void)$/;"	f
+get_tbclk	iproc-common/timer.c	/^ulong get_tbclk(void)$/;"	f
+get_tbclk	ls102xa/timer.c	/^unsigned long get_tbclk(void)$/;"	f
+get_tbclk	s5p-common/timer.c	/^unsigned long get_tbclk(void)$/;"	f
+get_tbclk	stv0991/timer.c	/^ulong get_tbclk(void)$/;"	f
+get_tbclk	sunxi/timer.c	/^ulong get_tbclk(void)$/;"	f
+get_tbclk	vf610/timer.c	/^ulong get_tbclk(void)$/;"	f
+get_ticks	arch_timer.c	/^unsigned long long get_ticks(void)$/;"	f
+get_ticks	iproc-common/timer.c	/^unsigned long long get_ticks(void)$/;"	f
+get_ticks	ls102xa/timer.c	/^unsigned long long get_ticks(void)$/;"	f
+get_ticks	s5p-common/timer.c	/^unsigned long long get_ticks(void)$/;"	f
+get_ticks	stv0991/timer.c	/^unsigned long long get_ticks(void)$/;"	f
+get_ticks	sunxi/timer.c	/^unsigned long long get_ticks(void)$/;"	f
+get_ticks	vf610/timer.c	/^unsigned long long get_ticks(void)$/;"	f
+get_timer	iproc-common/timer.c	/^unsigned long get_timer(unsigned long base)$/;"	f
+get_timer	ls102xa/timer.c	/^unsigned long get_timer(ulong base)$/;"	f
+get_timer	s5p-common/timer.c	/^unsigned long get_timer(unsigned long base)$/;"	f
+get_timer	stv0991/timer.c	/^ulong get_timer(ulong base)$/;"	f
+get_timer	sunxi/timer.c	/^ulong get_timer(ulong base)$/;"	f
+get_timer	vf610/timer.c	/^ulong get_timer(ulong base)$/;"	f
+get_timer_masked	ls102xa/timer.c	/^unsigned long get_timer_masked(void)$/;"	f
+get_timer_masked	stv0991/timer.c	/^ulong get_timer_masked(void)$/;"	f
+get_timer_masked	sunxi/timer.c	/^ulong get_timer_masked(void)$/;"	f
+get_timer_masked	vf610/timer.c	/^ulong get_timer_masked(void)$/;"	f
+get_uart_clk	vf610/generic.c	/^static u32 get_uart_clk(void)$/;"	f	file:
+holdoff_release	ls102xa/psci.S	/^holdoff_release:$/;"	l
+hw_sw_sel_bit	bcm235xx/clk-core.h	/^	u32 hw_sw_sel_bit;	\/* 0: hardware gating; 1: software gating *\/$/;"	m	struct:bcm_clk_gate
+hw_sw_sel_bit	bcm281xx/clk-core.h	/^	u32 hw_sw_sel_bit;	\/* 0: hardware gating; 1: software gating *\/$/;"	m	struct:bcm_clk_gate
+imx_get_mac_from_fuse	vf610/generic.c	/^void imx_get_mac_from_fuse(int dev_id, unsigned char *mac)$/;"	f
+inval_finished	cache_v7_asm.S	/^inval_finished:$/;"	l
+inval_levels	cache_v7_asm.S	/^inval_levels:$/;"	l
+inval_loop1	cache_v7_asm.S	/^inval_loop1:$/;"	l
+inval_loop2	cache_v7_asm.S	/^inval_loop2:$/;"	l
+inval_skip	cache_v7_asm.S	/^inval_skip:$/;"	l
+invalidate_dcache_all	cache_v7.c	/^void invalidate_dcache_all(void)$/;"	f
+invalidate_dcache_range	cache_v7.c	/^void invalidate_dcache_range(unsigned long start, unsigned long stop)$/;"	f
+invalidate_icache_all	cache_v7.c	/^void invalidate_icache_all(void)$/;"	f
+is_same_clock	bcm235xx/clk-core.h	/^static inline int is_same_clock(struct clk *a, struct clk *b)$/;"	f
+is_same_clock	bcm281xx/clk-core.h	/^static inline int is_same_clock(struct clk *a, struct clk *b)$/;"	f
+is_serdes_configured	ls102xa/fsl_ls1_serdes.c	/^int is_serdes_configured(enum srds_prtcl device)$/;"	f
+is_serdes_prtcl_valid	ls102xa/ls102xa_serdes.c	/^int is_serdes_prtcl_valid(int serdes, u32 prtcl)$/;"	f
+kick_secondary_cpus_gic	virt-v7.c	/^static void kick_secondary_cpus_gic(unsigned long gicdaddr)$/;"	f	file:
+kpm_ccu_clk	bcm235xx/clk-bcm235xx.c	/^static struct ccu_clock kpm_ccu_clk = {$/;"	v	typeref:struct:ccu_clock	file:
+kpm_ccu_clk	bcm281xx/clk-bcm281xx.c	/^static struct ccu_clock kpm_ccu_clk = {$/;"	v	typeref:struct:ccu_clock	file:
+kps_ccu_clk	bcm235xx/clk-bcm235xx.c	/^static struct ccu_clock kps_ccu_clk = {$/;"	v	typeref:struct:ccu_clock	file:
+kps_ccu_clk	bcm281xx/clk-bcm281xx.c	/^static struct ccu_clock kps_ccu_clk = {$/;"	v	typeref:struct:ccu_clock	file:
+lastdec	stv0991/timer.c	22;"	d	file:
+loop1	cache_v7_asm.S	/^loop1:$/;"	l
+loop1	psci.S	/^loop1:$/;"	l
+loop2	cache_v7_asm.S	/^loop2:$/;"	l
+loop2	psci.S	/^loop2:$/;"	l
+ls1021a_sata_init	ls102xa/ls102xa_sata.c	/^int ls1021a_sata_init(void)$/;"	f
+ls102xa_smmu_stream_id_init	ls102xa/soc.c	/^int ls102xa_smmu_stream_id_init(void)$/;"	f
+ls1_deep_sleep	ls102xa/ls102xa_psci.c	/^static void __secure ls1_deep_sleep(u32 entry_point)$/;"	f	file:
+ls1_deepsleep_irq_cfg	ls102xa/ls102xa_psci.c	/^static void __secure ls1_deepsleep_irq_cfg(void)$/;"	f	file:
+ls1_delay	ls102xa/ls102xa_psci.c	/^static void __secure ls1_delay(unsigned int loop)$/;"	f	file:
+ls1_fsm_setup	ls102xa/ls102xa_psci.c	/^static void __secure ls1_fsm_setup(void)$/;"	f	file:
+ls1_save_ddr_head	ls102xa/ls102xa_psci.c	/^static void __secure ls1_save_ddr_head(void)$/;"	f	file:
+ls1_sleep	ls102xa/ls102xa_psci.c	/^static void __secure ls1_sleep(void)$/;"	f	file:
+ls1_start_fsm	ls102xa/ls102xa_psci.c	/^static void __secure ls1_start_fsm(void)$/;"	f	file:
+ls1_system_suspend	ls102xa/ls102xa_psci.c	/^void __secure ls1_system_suspend(u32 fn, u32 entry_point, u32 context_id)$/;"	f
+lvm_en_offset	bcm235xx/clk-core.h	/^	unsigned long lvm_en_offset;$/;"	m	struct:ccu_clock
+lvm_en_offset	bcm281xx/clk-core.h	/^	unsigned long lvm_en_offset;$/;"	m	struct:ccu_clock
+master_ahb_freq_tbl	bcm235xx/clk-bcm235xx.c	/^unsigned long master_ahb_freq_tbl[8] = {$/;"	v
+master_ahb_freq_tbl	bcm281xx/clk-bcm281xx.c	/^unsigned long master_ahb_freq_tbl[8] = {$/;"	v
+master_axi_freq_tbl	bcm235xx/clk-bcm235xx.c	/^unsigned long master_axi_freq_tbl[8] = {$/;"	v
+master_axi_freq_tbl	bcm281xx/clk-bcm281xx.c	/^unsigned long master_axi_freq_tbl[8] = {$/;"	v
+mmu_page_table_flush	cache_v7.c	/^void mmu_page_table_flush(unsigned long start, unsigned long stop)$/;"	f
+mmu_setup	ls102xa/cpu.c	/^static void mmu_setup(void)$/;"	f	file:
+mode	iproc-common/armpll.c	/^	unsigned int mode;$/;"	m	struct:armpll_parameters	file:
+mpu_config	mpu_v7r.c	/^void mpu_config(struct mpu_region_config *rgn)$/;"	f
+mpu_enabled	mpu_v7r.c	/^int mpu_enabled(void)$/;"	f
+mxc_get_clock	ls102xa/clock.c	/^unsigned int mxc_get_clock(enum mxc_clock clk)$/;"	f
+mxc_get_clock	vf610/generic.c	/^unsigned int mxc_get_clock(enum mxc_clock clk)$/;"	f
+name	bcm235xx/clk-bcm235xx.c	/^	const char *name;$/;"	m	struct:refclk_lkup	file:
+name	bcm235xx/clk-core.h	/^	const char *name;$/;"	m	struct:clk
+name	bcm281xx/clk-bcm281xx.c	/^	const char *name;$/;"	m	struct:refclk_lkup	file:
+name	bcm281xx/clk-core.h	/^	const char *name;$/;"	m	struct:clk
+name_to_clk	bcm235xx/clk-core.h	455;"	d
+name_to_clk	bcm281xx/clk-core.h	455;"	d
+ndiv_frac	iproc-common/armpll.c	/^	unsigned int ndiv_frac;$/;"	m	struct:armpll_parameters	file:
+ndiv_int	iproc-common/armpll.c	/^	unsigned int ndiv_int;$/;"	m	struct:armpll_parameters	file:
+num_policy_masks	bcm235xx/clk-core.h	/^	int num_policy_masks;$/;"	m	struct:ccu_clock
+num_policy_masks	bcm281xx/clk-core.h	/^	int num_policy_masks;$/;"	m	struct:ccu_clock
+obj-y	stv0991/Makefile	/^obj-y	:= timer.o clock.o pinmux.o reset.o$/;"	m
+offset	bcm235xx/clk-core.h	/^			u32 offset;	\/* divider register offset *\/$/;"	m	struct:bcm_clk_div::__anon1::__anon2
+offset	bcm235xx/clk-core.h	/^	u32 offset;		\/* gate register offset *\/$/;"	m	struct:bcm_clk_gate
+offset	bcm235xx/clk-core.h	/^	u32 offset;		\/* selector register offset *\/$/;"	m	struct:bcm_clk_sel
+offset	bcm235xx/clk-core.h	/^	u32 offset;		\/* trigger register offset *\/$/;"	m	struct:bcm_clk_trig
+offset	bcm281xx/clk-core.h	/^			u32 offset;	\/* divider register offset *\/$/;"	m	struct:bcm_clk_div::__anon3::__anon4
+offset	bcm281xx/clk-core.h	/^	u32 offset;		\/* gate register offset *\/$/;"	m	struct:bcm_clk_gate
+offset	bcm281xx/clk-core.h	/^	u32 offset;		\/* selector register offset *\/$/;"	m	struct:bcm_clk_sel
+offset	bcm281xx/clk-core.h	/^	u32 offset;		\/* trigger register offset *\/$/;"	m	struct:bcm_clk_trig
+offset	ls102xa/fsl_epu.h	/^	u32 offset;$/;"	m	struct:fsm_reg_vals
+ops	bcm235xx/clk-core.h	/^	struct clk_ops *ops;$/;"	m	struct:clk	typeref:struct:clk::clk_ops
+ops	bcm281xx/clk-core.h	/^	struct clk_ops *ops;$/;"	m	struct:clk	typeref:struct:clk::clk_ops
+out_affinity_info	ls102xa/psci.S	/^out_affinity_info:$/;"	l
+out_psci_cpu_on	ls102xa/psci.S	/^out_psci_cpu_on:$/;"	l
+out_psci_features	ls102xa/psci.S	/^out_psci_features:$/;"	l
+parent	bcm235xx/clk-core.h	/^	struct clk *parent;$/;"	m	struct:clk	typeref:struct:clk::clk
+parent	bcm281xx/clk-core.h	/^	struct clk *parent;$/;"	m	struct:clk	typeref:struct:clk::clk
+parent_count	bcm235xx/clk-core.h	/^	u32 parent_count;	\/* number of entries in parent_sel[] *\/$/;"	m	struct:bcm_clk_sel
+parent_count	bcm281xx/clk-core.h	/^	u32 parent_count;	\/* number of entries in parent_sel[] *\/$/;"	m	struct:bcm_clk_sel
+parent_sel	bcm235xx/clk-core.h	/^	u32 *parent_sel;	\/* array of parent selector values *\/$/;"	m	struct:bcm_clk_sel
+parent_sel	bcm281xx/clk-core.h	/^	u32 *parent_sel;	\/* array of parent selector values *\/$/;"	m	struct:bcm_clk_sel
+pdiv	iproc-common/armpll.c	/^	unsigned int pdiv;$/;"	m	struct:armpll_parameters	file:
+peri_clk_data	bcm235xx/clk-core.h	/^struct peri_clk_data {$/;"	s
+peri_clk_data	bcm281xx/clk-core.h	/^struct peri_clk_data {$/;"	s
+peri_clk_enable	bcm235xx/clk-core.c	/^static int peri_clk_enable(struct clk *c, int enable)$/;"	f	file:
+peri_clk_enable	bcm281xx/clk-core.c	/^static int peri_clk_enable(struct clk *c, int enable)$/;"	f	file:
+peri_clk_get_rate	bcm235xx/clk-core.c	/^static unsigned long peri_clk_get_rate(struct clk *c)$/;"	f	file:
+peri_clk_get_rate	bcm281xx/clk-core.c	/^static unsigned long peri_clk_get_rate(struct clk *c)$/;"	f	file:
+peri_clk_ops	bcm235xx/clk-core.c	/^struct clk_ops peri_clk_ops = {$/;"	v	typeref:struct:clk_ops
+peri_clk_ops	bcm281xx/clk-core.c	/^struct clk_ops peri_clk_ops = {$/;"	v	typeref:struct:clk_ops
+peri_clk_set_rate	bcm235xx/clk-core.c	/^static int peri_clk_set_rate(struct clk *c, unsigned long rate)$/;"	f	file:
+peri_clk_set_rate	bcm281xx/clk-core.c	/^static int peri_clk_set_rate(struct clk *c, unsigned long rate)$/;"	f	file:
+peri_clock	bcm235xx/clk-core.h	/^struct peri_clock {$/;"	s
+peri_clock	bcm281xx/clk-core.h	/^struct peri_clock {$/;"	s
+policy0_mask2_offset	bcm235xx/clk-core.h	/^	unsigned long policy0_mask2_offset;$/;"	m	struct:ccu_clock
+policy0_mask2_offset	bcm281xx/clk-core.h	/^	unsigned long policy0_mask2_offset;$/;"	m	struct:ccu_clock
+policy0_mask_offset	bcm235xx/clk-core.h	/^	unsigned long policy0_mask_offset;$/;"	m	struct:ccu_clock
+policy0_mask_offset	bcm281xx/clk-core.h	/^	unsigned long policy0_mask_offset;$/;"	m	struct:ccu_clock
+policy1_mask2_offset	bcm235xx/clk-core.h	/^	unsigned long policy1_mask2_offset;$/;"	m	struct:ccu_clock
+policy1_mask2_offset	bcm281xx/clk-core.h	/^	unsigned long policy1_mask2_offset;$/;"	m	struct:ccu_clock
+policy1_mask_offset	bcm235xx/clk-core.h	/^	unsigned long policy1_mask_offset;$/;"	m	struct:ccu_clock
+policy1_mask_offset	bcm281xx/clk-core.h	/^	unsigned long policy1_mask_offset;$/;"	m	struct:ccu_clock
+policy2_mask2_offset	bcm235xx/clk-core.h	/^	unsigned long policy2_mask2_offset;$/;"	m	struct:ccu_clock
+policy2_mask2_offset	bcm281xx/clk-core.h	/^	unsigned long policy2_mask2_offset;$/;"	m	struct:ccu_clock
+policy2_mask_offset	bcm235xx/clk-core.h	/^	unsigned long policy2_mask_offset;$/;"	m	struct:ccu_clock
+policy2_mask_offset	bcm281xx/clk-core.h	/^	unsigned long policy2_mask_offset;$/;"	m	struct:ccu_clock
+policy3_mask2_offset	bcm235xx/clk-core.h	/^	unsigned long policy3_mask2_offset;$/;"	m	struct:ccu_clock
+policy3_mask2_offset	bcm281xx/clk-core.h	/^	unsigned long policy3_mask2_offset;$/;"	m	struct:ccu_clock
+policy3_mask_offset	bcm235xx/clk-core.h	/^	unsigned long policy3_mask_offset;$/;"	m	struct:ccu_clock
+policy3_mask_offset	bcm281xx/clk-core.h	/^	unsigned long policy3_mask_offset;$/;"	m	struct:ccu_clock
+policy_ctl_offset	bcm235xx/clk-core.h	/^	unsigned long policy_ctl_offset;$/;"	m	struct:ccu_clock
+policy_ctl_offset	bcm281xx/clk-core.h	/^	unsigned long policy_ctl_offset;$/;"	m	struct:ccu_clock
+policy_freq_offset	bcm235xx/clk-core.h	/^	unsigned long policy_freq_offset;$/;"	m	struct:ccu_clock
+policy_freq_offset	bcm281xx/clk-core.h	/^	unsigned long policy_freq_offset;$/;"	m	struct:ccu_clock
+pre_div	bcm235xx/clk-core.h	/^	struct bcm_clk_div pre_div;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_div
+pre_div	bcm281xx/clk-core.h	/^	struct bcm_clk_div pre_div;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_div
+pre_trig	bcm235xx/clk-core.h	/^	struct bcm_clk_trig pre_trig;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_trig
+pre_trig	bcm281xx/clk-core.h	/^	struct bcm_clk_trig pre_trig;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_trig
+print_cpuinfo	ls102xa/cpu.c	/^int print_cpuinfo(void)$/;"	f
+print_cpuinfo	s5p-common/cpu_info.c	/^int print_cpuinfo(void)$/;"	f
+print_cpuinfo	vf610/generic.c	/^int print_cpuinfo(void)$/;"	f
+procclk	bcm235xx/clk-bcm235xx.c	/^	struct refclk *procclk;$/;"	m	struct:refclk_lkup	typeref:struct:refclk_lkup::refclk	file:
+procclk	bcm281xx/clk-bcm281xx.c	/^	struct refclk *procclk;$/;"	m	struct:refclk_lkup	typeref:struct:refclk_lkup::refclk	file:
+protect_secure_section	virt-v7.c	/^void __weak protect_secure_section(void) {}$/;"	f
+psci_affinity_info	ls102xa/psci.S	/^psci_affinity_info:$/;"	l
+psci_arch_init	sunxi/psci.c	/^void __secure psci_arch_init(void)$/;"	f
+psci_board_init	virt-v7.c	/^__weak void psci_board_init(void)$/;"	f
+psci_cpu_off	ls102xa/psci.S	/^psci_cpu_off:$/;"	l
+psci_cpu_off	sunxi/psci.c	/^void __secure psci_cpu_off(void)$/;"	f
+psci_cpu_on	ls102xa/psci.S	/^psci_cpu_on:$/;"	l
+psci_cpu_on	sunxi/psci.c	/^int __secure psci_cpu_on(u32 __always_unused unused, u32 mpidr, u32 pc,$/;"	f
+psci_features	ls102xa/psci.S	/^psci_features:$/;"	l
+psci_fiq_enter	sunxi/psci.c	/^void __secure __irq psci_fiq_enter(void)$/;"	f
+psci_get_context_id	psci-common.c	/^u32 __secure psci_get_context_id(int cpu)$/;"	f
+psci_get_target_pc	psci-common.c	/^u32 __secure psci_get_target_pc(int cpu)$/;"	f
+psci_save	psci-common.c	/^void __secure psci_save(int cpu, u32 pc, u32 context_id)$/;"	f
+psci_system_reset	ls102xa/psci.S	/^psci_system_reset:$/;"	l
+psci_system_suspend	ls102xa/psci.S	/^psci_system_suspend:$/;"	l
+psci_update_dt	virt-dt.c	/^int psci_update_dt(void *fdt)$/;"	f
+psci_version	ls102xa/psci.S	/^psci_version:$/;"	l
+pwm_calc_tin	s5p-common/pwm.c	/^static unsigned long pwm_calc_tin(int pwm_id, unsigned long freq)$/;"	f	file:
+pwm_config	s5p-common/pwm.c	/^int pwm_config(int pwm_id, int duty_ns, int period_ns)$/;"	f
+pwm_disable	s5p-common/pwm.c	/^void pwm_disable(int pwm_id)$/;"	f
+pwm_enable	s5p-common/pwm.c	/^int pwm_enable(int pwm_id)$/;"	f
+pwm_init	s5p-common/pwm.c	/^int pwm_init(int pwm_id, int div, int invert)$/;"	f
+rate	bcm235xx/clk-core.h	/^	unsigned long rate;	\/* in HZ *\/$/;"	m	struct:clk
+rate	bcm281xx/clk-core.h	/^	unsigned long rate;	\/* in HZ *\/$/;"	m	struct:clk
+read_cntfrq	arch_timer.c	/^static inline u32 read_cntfrq(void)$/;"	f	file:
+read_id_pfr1	virt-v7.c	/^static unsigned int read_id_pfr1(void)$/;"	f	file:
+read_timer	sunxi/timer.c	/^static ulong read_timer(void)$/;"	f	file:
+readl	bcm235xx/clk-core.h	/^static inline u32 readl(void *addr)$/;"	f
+readl	bcm235xx/clk-core.h	10;"	d
+readl	bcm281xx/clk-core.h	/^static inline u32 readl(void *addr)$/;"	f
+readl	bcm281xx/clk-core.h	10;"	d
+ref_clk_enable	bcm235xx/clk-core.c	/^static int ref_clk_enable(struct clk *c, int enable)$/;"	f	file:
+ref_clk_enable	bcm281xx/clk-core.c	/^static int ref_clk_enable(struct clk *c, int enable)$/;"	f	file:
+ref_clk_ops	bcm235xx/clk-core.c	/^struct clk_ops ref_clk_ops = {$/;"	v	typeref:struct:clk_ops
+ref_clk_ops	bcm281xx/clk-core.c	/^struct clk_ops ref_clk_ops = {$/;"	v	typeref:struct:clk_ops
+ref_clock	bcm235xx/clk-core.h	/^struct ref_clock {$/;"	s
+ref_clock	bcm281xx/clk-core.h	/^struct ref_clock {$/;"	s
+refclk	bcm235xx/clk-core.h	/^struct refclk {$/;"	s
+refclk	bcm281xx/clk-core.h	/^struct refclk {$/;"	s
+refclk_entries	bcm235xx/clk-bcm235xx.c	/^int refclk_entries = sizeof(refclk_str_tbl)\/sizeof(refclk_str_tbl[0]);$/;"	v
+refclk_entries	bcm281xx/clk-bcm281xx.c	/^int refclk_entries = sizeof(refclk_str_tbl)\/sizeof(refclk_str_tbl[0]);$/;"	v
+refclk_lkup	bcm235xx/clk-bcm235xx.c	/^struct refclk_lkup {$/;"	s	file:
+refclk_lkup	bcm281xx/clk-bcm281xx.c	/^struct refclk_lkup {$/;"	s	file:
+refclk_str_tbl	bcm235xx/clk-bcm235xx.c	/^static struct refclk_lkup refclk_str_tbl[] = {$/;"	v	typeref:struct:refclk_lkup	file:
+refclk_str_tbl	bcm281xx/clk-bcm281xx.c	/^static struct refclk_lkup refclk_str_tbl[] = {$/;"	v	typeref:struct:refclk_lkup	file:
+refclk_str_to_clk	bcm235xx/clk-bcm235xx.c	/^struct refclk *refclk_str_to_clk(const char *name)$/;"	f
+refclk_str_to_clk	bcm281xx/clk-bcm281xx.c	/^struct refclk *refclk_str_to_clk(const char *name)$/;"	f
+relocate_secure_section	virt-v7.c	/^static void relocate_secure_section(void)$/;"	f	file:
+reset	start.S	/^reset:$/;"	l
+reset_cpu	bcm281xx/reset.c	/^void reset_cpu(ulong ignored)$/;"	f
+reset_cpu	bcmcygnus/reset.c	/^void reset_cpu(ulong ignored)$/;"	f
+reset_cpu	bcmnsp/reset.c	/^void reset_cpu(ulong ignored)$/;"	f
+reset_cpu	kona-common/reset.S	/^reset_cpu:$/;"	l
+reset_cpu	ls102xa/cpu.c	/^void reset_cpu(ulong addr)$/;"	f
+reset_cpu	stv0991/reset.c	/^void reset_cpu(ulong ignored)$/;"	f
+reset_timer_masked	s5p-common/timer.c	/^void reset_timer_masked(void)$/;"	f
+round_rate	bcm235xx/clk-core.h	/^	unsigned long (*round_rate)(struct clk *c, unsigned long rate);$/;"	m	struct:clk_ops
+round_rate	bcm281xx/clk-core.h	/^	unsigned long (*round_rate) (struct clk *c, unsigned long rate);$/;"	m	struct:clk_ops
+s5p_config_sromc	s5p-common/sromc.c	/^void s5p_config_sromc(u32 srom_bank, u32 srom_bw_conf, u32 srom_bc_conf)$/;"	f
+s5p_cpu_id	s5p-common/cpu_info.c	/^unsigned int s5p_cpu_id = 0xC100;$/;"	v
+s5p_cpu_rev	s5p-common/cpu_info.c	/^unsigned int s5p_cpu_rev = 1;$/;"	v
+s5p_get_base_timer	s5p-common/timer.c	/^static inline struct s5p_timer *s5p_get_base_timer(void)$/;"	f	file:
+s_init	kona-common/s_init.c	/^void s_init(void)$/;"	f
+s_init	ls102xa/soc.c	/^void s_init(void)$/;"	f
+save_boot_params_ret	start.S	/^save_boot_params_ret:$/;"	l
+scaled_div	bcm235xx/clk-core.h	/^			u64 scaled_div;	\/* scaled divider value *\/$/;"	m	struct:bcm_clk_div::__anon1::__anon2
+scaled_div	bcm281xx/clk-core.h	/^			u64 scaled_div;	\/* scaled divider value *\/$/;"	m	struct:bcm_clk_div::__anon3::__anon4
+sdelay	syslib.c	/^void sdelay(unsigned long loops)$/;"	f
+sdio1_ahb_clk	bcm235xx/clk-bcm235xx.c	/^static struct bus_clock sdio1_ahb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+sdio1_ahb_clk	bcm281xx/clk-bcm281xx.c	/^static struct bus_clock sdio1_ahb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+sdio1_ahb_data	bcm235xx/clk-bcm235xx.c	/^static struct bus_clk_data sdio1_ahb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+sdio1_ahb_data	bcm281xx/clk-bcm281xx.c	/^static struct bus_clk_data sdio1_ahb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+sdio1_clk	bcm235xx/clk-bcm235xx.c	/^static struct peri_clock sdio1_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio1_clk	bcm281xx/clk-bcm281xx.c	/^static struct peri_clock sdio1_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio1_data	bcm235xx/clk-bcm235xx.c	/^static struct peri_clk_data sdio1_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio1_data	bcm281xx/clk-bcm281xx.c	/^static struct peri_clk_data sdio1_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio1_sleep_clk	bcm235xx/clk-bcm235xx.c	/^static struct peri_clock sdio1_sleep_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio1_sleep_clk	bcm281xx/clk-bcm281xx.c	/^static struct peri_clock sdio1_sleep_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio1_sleep_data	bcm235xx/clk-bcm235xx.c	/^static struct peri_clk_data sdio1_sleep_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio1_sleep_data	bcm281xx/clk-bcm281xx.c	/^static struct peri_clk_data sdio1_sleep_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio2_ahb_clk	bcm235xx/clk-bcm235xx.c	/^static struct bus_clock sdio2_ahb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+sdio2_ahb_clk	bcm281xx/clk-bcm281xx.c	/^static struct bus_clock sdio2_ahb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+sdio2_ahb_data	bcm235xx/clk-bcm235xx.c	/^static struct bus_clk_data sdio2_ahb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+sdio2_ahb_data	bcm281xx/clk-bcm281xx.c	/^static struct bus_clk_data sdio2_ahb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+sdio2_clk	bcm235xx/clk-bcm235xx.c	/^static struct peri_clock sdio2_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio2_clk	bcm281xx/clk-bcm281xx.c	/^static struct peri_clock sdio2_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio2_data	bcm235xx/clk-bcm235xx.c	/^static struct peri_clk_data sdio2_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio2_data	bcm281xx/clk-bcm281xx.c	/^static struct peri_clk_data sdio2_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio2_sleep_clk	bcm235xx/clk-bcm235xx.c	/^static struct peri_clock sdio2_sleep_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio2_sleep_clk	bcm281xx/clk-bcm281xx.c	/^static struct peri_clock sdio2_sleep_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio2_sleep_data	bcm235xx/clk-bcm235xx.c	/^static struct peri_clk_data sdio2_sleep_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio2_sleep_data	bcm281xx/clk-bcm281xx.c	/^static struct peri_clk_data sdio2_sleep_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio3_ahb_clk	bcm235xx/clk-bcm235xx.c	/^static struct bus_clock sdio3_ahb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+sdio3_ahb_clk	bcm281xx/clk-bcm281xx.c	/^static struct bus_clock sdio3_ahb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+sdio3_ahb_data	bcm235xx/clk-bcm235xx.c	/^static struct bus_clk_data sdio3_ahb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+sdio3_ahb_data	bcm281xx/clk-bcm281xx.c	/^static struct bus_clk_data sdio3_ahb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+sdio3_clk	bcm235xx/clk-bcm235xx.c	/^static struct peri_clock sdio3_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio3_clk	bcm281xx/clk-bcm281xx.c	/^static struct peri_clock sdio3_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio3_data	bcm235xx/clk-bcm235xx.c	/^static struct peri_clk_data sdio3_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio3_data	bcm281xx/clk-bcm281xx.c	/^static struct peri_clk_data sdio3_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio3_sleep_clk	bcm235xx/clk-bcm235xx.c	/^static struct peri_clock sdio3_sleep_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio3_sleep_clk	bcm281xx/clk-bcm281xx.c	/^static struct peri_clock sdio3_sleep_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio3_sleep_data	bcm235xx/clk-bcm235xx.c	/^static struct peri_clk_data sdio3_sleep_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio3_sleep_data	bcm281xx/clk-bcm281xx.c	/^static struct peri_clk_data sdio3_sleep_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio4_ahb_clk	bcm235xx/clk-bcm235xx.c	/^static struct bus_clock sdio4_ahb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+sdio4_ahb_clk	bcm281xx/clk-bcm281xx.c	/^static struct bus_clock sdio4_ahb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+sdio4_ahb_data	bcm235xx/clk-bcm235xx.c	/^static struct bus_clk_data sdio4_ahb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+sdio4_ahb_data	bcm281xx/clk-bcm281xx.c	/^static struct bus_clk_data sdio4_ahb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+sdio4_clk	bcm235xx/clk-bcm235xx.c	/^static struct peri_clock sdio4_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio4_clk	bcm281xx/clk-bcm281xx.c	/^static struct peri_clock sdio4_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio4_data	bcm235xx/clk-bcm235xx.c	/^static struct peri_clk_data sdio4_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio4_data	bcm281xx/clk-bcm281xx.c	/^static struct peri_clk_data sdio4_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio4_sleep_clk	bcm235xx/clk-bcm235xx.c	/^static struct peri_clock sdio4_sleep_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio4_sleep_clk	bcm281xx/clk-bcm281xx.c	/^static struct peri_clock sdio4_sleep_clk = {$/;"	v	typeref:struct:peri_clock	file:
+sdio4_sleep_data	bcm235xx/clk-bcm235xx.c	/^static struct peri_clk_data sdio4_sleep_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sdio4_sleep_data	bcm281xx/clk-bcm281xx.c	/^static struct peri_clk_data sdio4_sleep_data = {$/;"	v	typeref:struct:peri_clk_data	file:
+sec_liodn_tbl	ls102xa/soc.c	/^struct liodn_id_table sec_liodn_tbl[] = {$/;"	v	typeref:struct:liodn_id_table
+sel	bcm235xx/clk-core.h	/^	int sel;$/;"	m	struct:clk
+sel	bcm235xx/clk-core.h	/^	struct bcm_clk_sel sel;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_sel
+sel	bcm281xx/clk-core.h	/^	int sel;$/;"	m	struct:clk
+sel	bcm281xx/clk-core.h	/^	struct bcm_clk_sel sel;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_sel
+selector_exists	bcm235xx/clk-core.h	109;"	d
+selector_exists	bcm281xx/clk-core.h	109;"	d
+serdes1_prtcl_map	ls102xa/fsl_ls1_serdes.c	/^static u64 serdes1_prtcl_map;$/;"	v	file:
+serdes2_prtcl_map	ls102xa/fsl_ls1_serdes.c	/^static u64 serdes2_prtcl_map;$/;"	v	file:
+serdes_cfg_tbl	ls102xa/ls102xa_serdes.c	/^static u8 serdes_cfg_tbl[][SRDS_MAX_LANES] = {$/;"	v	file:
+serdes_clock_to_string	ls102xa/fsl_ls1_serdes.c	/^const char *serdes_clock_to_string(u32 clock)$/;"	f
+serdes_get_first_lane	ls102xa/fsl_ls1_serdes.c	/^int serdes_get_first_lane(u32 sd, enum srds_prtcl device)$/;"	f
+serdes_get_prtcl	ls102xa/ls102xa_serdes.c	/^enum srds_prtcl serdes_get_prtcl(int serdes, int cfg, int lane)$/;"	f
+serdes_init	ls102xa/fsl_ls1_serdes.c	/^u64 serdes_init(u32 sd, u32 sd_addr, u32 sd_prctl_mask, u32 sd_prctl_shift)$/;"	f
+set_parent	bcm235xx/clk-core.h	/^	int (*set_parent)(struct clk *c, struct clk *parent);$/;"	m	struct:clk_ops
+set_parent	bcm281xx/clk-core.h	/^	int (*set_parent) (struct clk *c, struct clk *parent);$/;"	m	struct:clk_ops
+set_pgsection	ls102xa/cpu.c	/^static inline void set_pgsection(u32 *page_table, u32 index, u64 phy_addr,$/;"	f	file:
+set_pgtable	ls102xa/cpu.c	/^static inline void set_pgtable(u32 *page_table, u32 index, u32 phy_addr)$/;"	f	file:
+set_rate	bcm235xx/clk-core.h	/^	int (*set_rate)(struct clk *c, unsigned long rate);$/;"	m	struct:clk_ops
+set_rate	bcm281xx/clk-core.h	/^	int (*set_rate) (struct clk *c, unsigned long rate);$/;"	m	struct:clk_ops
+setup_mpu_regions	mpu_v7r.c	/^void setup_mpu_regions(struct mpu_region_config *rgns, u32 num_rgns)$/;"	f
+shift	bcm235xx/clk-core.h	/^			u32 shift;	\/* field shift *\/$/;"	m	struct:bcm_clk_div::__anon1::__anon2
+shift	bcm235xx/clk-core.h	/^	u32 shift;		\/* field shift *\/$/;"	m	struct:bcm_clk_sel
+shift	bcm281xx/clk-core.h	/^			u32 shift;	\/* field shift *\/$/;"	m	struct:bcm_clk_div::__anon3::__anon4
+shift	bcm281xx/clk-core.h	/^	u32 shift;		\/* field shift *\/$/;"	m	struct:bcm_clk_sel
+skip	cache_v7_asm.S	/^skip:$/;"	l
+skip	psci.S	/^skip:$/;"	l
+skip_errata_798870	start.S	/^skip_errata_798870:$/;"	l
+skip_errata_801819	start.S	/^skip_errata_801819:$/;"	l
+slave_apb_freq_tbl	bcm235xx/clk-bcm235xx.c	/^unsigned long slave_apb_freq_tbl[8] = {$/;"	v
+slave_apb_freq_tbl	bcm281xx/clk-bcm281xx.c	/^unsigned long slave_apb_freq_tbl[8] = {$/;"	v
+slave_axi_freq_tbl	bcm235xx/clk-bcm235xx.c	/^unsigned long slave_axi_freq_tbl[8] = {$/;"	v
+slave_axi_freq_tbl	bcm281xx/clk-bcm281xx.c	/^unsigned long slave_axi_freq_tbl[8] = {$/;"	v
+smp_kick_all_cpus	ls102xa/cpu.c	/^void smp_kick_all_cpus(void)$/;"	f
+smp_kick_all_cpus	virt-v7.c	/^void __weak smp_kick_all_cpus(void)$/;"	f
+smp_set_core_boot_addr	ls102xa/cpu.c	/^void smp_set_core_boot_addr(unsigned long addr, int corenr)$/;"	f
+soc_type	vf610/generic.c	/^static char soc_type[] = "xx0";$/;"	v	file:
+spl_boot_device	ls102xa/spl.c	/^u32 spl_boot_device(void)$/;"	f
+src	bcm235xx/clk-core.h	/^	struct clk_src *src;$/;"	m	struct:clk	typeref:struct:clk::clk_src
+src	bcm281xx/clk-core.h	/^	struct clk_src *src;$/;"	m	struct:clk	typeref:struct:clk::clk_src
+start_flush_levels	cache_v7_asm.S	/^start_flush_levels:$/;"	l
+status_bit	bcm235xx/clk-core.h	/^	u32 status_bit;		\/* 0: gate is disabled; 0: gatge is enabled *\/$/;"	m	struct:bcm_clk_gate
+status_bit	bcm281xx/clk-core.h	/^	u32 status_bit;		\/* 0: gate is disabled; 0: gatge is enabled *\/$/;"	m	struct:bcm_clk_gate
+stv0991_cgu_regs	stv0991/clock.c	/^static struct stv0991_cgu_regs *const stv0991_cgu_regs = \\$/;"	v	file:
+stv0991_cgu_regs	stv0991/timer.c	/^static struct stv0991_cgu_regs *const stv0991_cgu_regs = \\$/;"	v	file:
+stv0991_creg	stv0991/pinmux.c	/^static struct stv0991_creg *const stv0991_creg = \\$/;"	v	file:
+stv0991_pinmux_config	stv0991/pinmux.c	/^int stv0991_pinmux_config(int peripheral)$/;"	f
+sunxi_cpu_power_off	sunxi/psci.c	/^void __secure sunxi_cpu_power_off(u32 cpuid)$/;"	f
+sunxi_cpu_set_power	sunxi/psci.c	/^static void __secure sunxi_cpu_set_power(int __always_unused cpu, bool on)$/;"	f	file:
+sunxi_cpu_set_power	sunxi/psci.c	/^static void __secure sunxi_cpu_set_power(int cpu, bool on)$/;"	f	file:
+sunxi_power_switch	sunxi/psci.c	/^static void __secure sunxi_power_switch(u32 *clamp, u32 *pwroff, bool on,$/;"	f	file:
+sunxi_set_entry_address	sunxi/psci.c	/^static void __secure sunxi_set_entry_address(void *entry)$/;"	f	file:
+switch_to_hypervisor_ret	start.S	/^switch_to_hypervisor_ret:$/;"	l
+tick_to_time	ls102xa/timer.c	/^static inline unsigned long long tick_to_time(unsigned long long tick)$/;"	f	file:
+tick_to_time	vf610/timer.c	/^static inline unsigned long long tick_to_time(unsigned long long tick)$/;"	f	file:
+timer_get_boot_us	arch_timer.c	/^ulong timer_get_boot_us(void)$/;"	f
+timer_get_us	s5p-common/timer.c	/^unsigned long __attribute__((no_instrument_function)) timer_get_us(void)$/;"	f
+timer_get_us_down	s5p-common/timer.c	/^static unsigned long timer_get_us_down(void)$/;"	f	file:
+timer_global_init	iproc-common/timer.c	/^void timer_global_init(void)$/;"	f
+timer_global_read	iproc-common/timer.c	/^static inline uint64_t timer_global_read(void)$/;"	f	file:
+timer_init	arch_timer.c	/^int timer_init(void)$/;"	f
+timer_init	iproc-common/timer.c	/^int timer_init(void)$/;"	f
+timer_init	ls102xa/timer.c	/^int timer_init(void)$/;"	f
+timer_init	s5p-common/timer.c	/^int timer_init(void)$/;"	f
+timer_init	stv0991/timer.c	/^int timer_init(void)$/;"	f
+timer_init	sunxi/timer.c	/^int timer_init(void)$/;"	f
+timer_init	vf610/timer.c	/^int timer_init(void)$/;"	f
+timer_systick_init	iproc-common/timer.c	/^void timer_systick_init(uint32_t tick_ms)$/;"	f
+timer_systick_isr	iproc-common/timer.c	/^void timer_systick_isr(void *data)$/;"	f
+timestamp	stv0991/timer.c	21;"	d	file:
+to_bus_clk	bcm235xx/clk-core.h	/^static inline struct bus_clock *to_bus_clk(struct clk *clock)$/;"	f
+to_bus_clk	bcm281xx/clk-core.h	/^static inline struct bus_clock *to_bus_clk(struct clk *clock)$/;"	f
+to_ccu_clk	bcm235xx/clk-core.h	/^static inline struct ccu_clock *to_ccu_clk(struct clk *clock)$/;"	f
+to_ccu_clk	bcm281xx/clk-core.h	/^static inline struct ccu_clock *to_ccu_clk(struct clk *clock)$/;"	f
+to_clk	bcm235xx/clk-core.h	454;"	d
+to_clk	bcm281xx/clk-core.h	454;"	d
+to_peri_clk	bcm235xx/clk-core.h	/^static inline struct peri_clock *to_peri_clk(struct clk *clock)$/;"	f
+to_peri_clk	bcm281xx/clk-core.h	/^static inline struct peri_clock *to_peri_clk(struct clk *clock)$/;"	f
+to_ref_clk	bcm235xx/clk-core.h	/^static inline struct ref_clock *to_ref_clk(struct clk *clock)$/;"	f
+to_ref_clk	bcm281xx/clk-core.h	/^static inline struct ref_clock *to_ref_clk(struct clk *clock)$/;"	f
+to_refclk	bcm235xx/clk-core.h	/^static inline struct refclk *to_refclk(struct clk *clock)$/;"	f
+to_refclk	bcm281xx/clk-core.h	/^static inline struct refclk *to_refclk(struct clk *clock)$/;"	f
+trig	bcm235xx/clk-core.h	/^	struct bcm_clk_trig trig;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_trig
+trig	bcm281xx/clk-core.h	/^	struct bcm_clk_trig trig;$/;"	m	struct:peri_clk_data	typeref:struct:peri_clk_data::bcm_clk_trig
+trigger_exists	bcm235xx/clk-core.h	110;"	d
+trigger_exists	bcm281xx/clk-core.h	110;"	d
+tzpc_init	sunxi/tzpc.c	/^void tzpc_init(void)$/;"	f
+udelay_masked	stv0991/timer.c	/^void udelay_masked(unsigned long usec)$/;"	f
+us_to_tick	ls102xa/timer.c	/^static inline unsigned long long us_to_tick(unsigned long long usec)$/;"	f	file:
+us_to_tick	vf610/timer.c	/^static inline unsigned long long us_to_tick(unsigned long long usec)$/;"	f	file:
+usb_otg_ahb_clk	bcm235xx/clk-bcm235xx.c	/^static struct bus_clock usb_otg_ahb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+usb_otg_ahb_clk	bcm281xx/clk-bcm281xx.c	/^static struct bus_clock usb_otg_ahb_clk = {$/;"	v	typeref:struct:bus_clock	file:
+usb_otg_ahb_data	bcm235xx/clk-bcm235xx.c	/^static struct bus_clk_data usb_otg_ahb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+usb_otg_ahb_data	bcm281xx/clk-bcm281xx.c	/^static struct bus_clk_data usb_otg_ahb_data = {$/;"	v	typeref:struct:bus_clk_data	file:
+use_cnt	bcm235xx/clk-core.h	/^	int use_cnt;$/;"	m	struct:clk
+use_cnt	bcm281xx/clk-core.h	/^	int use_cnt;$/;"	m	struct:clk
+usec2ticks	ls102xa/timer.c	/^unsigned long usec2ticks(unsigned long usec)$/;"	f
+v7_arch_cp15_set_acr	cp15.c	/^void __weak v7_arch_cp15_set_acr(u32 acr, u32 cpu_midr, u32 cpu_rev_comb,$/;"	f
+v7_arch_cp15_set_l2aux_ctrl	cp15.c	/^void __weak v7_arch_cp15_set_l2aux_ctrl(u32 l2actlr, u32 cpu_midr,$/;"	f
+v7_dcache_clean_inval_range	cache_v7.c	/^static void v7_dcache_clean_inval_range(u32 start, u32 stop, u32 line_len)$/;"	f	file:
+v7_dcache_inval_range	cache_v7.c	/^static void v7_dcache_inval_range(u32 start, u32 stop, u32 line_len)$/;"	f	file:
+v7_dcache_maint_range	cache_v7.c	/^static void v7_dcache_maint_range(u32 start, u32 stop, u32 range_op)$/;"	f	file:
+v7_inval_tlb	cache_v7.c	/^static void v7_inval_tlb(void)$/;"	f	file:
+v7_outer_cache_disable	cache_v7.c	/^__weak void v7_outer_cache_disable(void) {}$/;"	f
+v7_outer_cache_enable	cache_v7.c	/^__weak void v7_outer_cache_enable(void) {}$/;"	f
+v7_outer_cache_flush_all	cache_v7.c	/^__weak void v7_outer_cache_flush_all(void) {}$/;"	f
+v7_outer_cache_flush_range	cache_v7.c	/^__weak void v7_outer_cache_flush_range(u32 start, u32 end) {}$/;"	f
+v7_outer_cache_inval_all	cache_v7.c	/^__weak void v7_outer_cache_inval_all(void) {}$/;"	f
+v7_outer_cache_inval_range	cache_v7.c	/^__weak void v7_outer_cache_inval_range(u32 start, u32 end) {}$/;"	f
+value	ls102xa/fsl_epu.h	/^	u32 value;$/;"	m	struct:fsm_reg_vals
+wait_bit	bcm235xx/clk-core.c	/^static inline int wait_bit(void *base, u32 offset, u32 bit, bool want)$/;"	f	file:
+wait_bit	bcm281xx/clk-core.c	/^static inline int wait_bit(void *base, u32 offset, u32 bit, bool want)$/;"	f	file:
+wait_on_value	syslib.c	/^u32 wait_on_value(u32 read_bit_mask, u32 match_value, void *read_addr,$/;"	f
+width	bcm235xx/clk-core.h	/^			u32 width;	\/* field width *\/$/;"	m	struct:bcm_clk_div::__anon1::__anon2
+width	bcm235xx/clk-core.h	/^	u32 width;		\/* field width *\/$/;"	m	struct:bcm_clk_sel
+width	bcm281xx/clk-core.h	/^			u32 width;	\/* field width *\/$/;"	m	struct:bcm_clk_div::__anon3::__anon4
+width	bcm281xx/clk-core.h	/^	u32 width;		\/* field width *\/$/;"	m	struct:bcm_clk_sel
+writel	bcm235xx/clk-core.h	/^static inline void writel(u32 val, void *addr)$/;"	f
+writel	bcm235xx/clk-core.h	9;"	d
+writel	bcm281xx/clk-core.h	/^static inline void writel(u32 val, void *addr)$/;"	f
+writel	bcm281xx/clk-core.h	9;"	d

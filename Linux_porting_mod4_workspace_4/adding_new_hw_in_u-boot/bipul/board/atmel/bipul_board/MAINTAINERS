@@ -1,0 +1,6 @@
+BIPUL_BOARD
+M:	Ganesh Koda <ganesh.k@phytec.in>
+S:	Maintained
+F:	board/atmel/bipul_board/
+F:	include/configs/bipul_board.h
+F:	configs/bipul_board_mmc_defconfig
